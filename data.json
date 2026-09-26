@@ -1,59 +1,253 @@
 {
- "updated": "2026-09-26T18:47+00:00",
+ "updated": "2026-09-26T19:05+00:00",
  "topics": [
   {
-   "name": "Искусственный интеллект",
-   "query": "large language models",
+   "name": "Образование",
+   "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7214313205",
-     "title": "Improving patient communication and understanding of medical reports through text simplification with ChatGPT: a comparative study",
-     "url": "https://doi.org/10.1007/s10006-026-01643-4",
+     "id": "W7214344349",
+     "title": "THE IMPACTS OF USING A DIGITAL 3D ANATOMY TOOL IN LEARNING ACUPUNCTURE",
+     "url": "https://doi.org/10.36615/p7rkqz95",
      "date": "2026-09-26",
-     "source": "Oral and Maxillofacial Surgery",
-     "summary": "Исследователи использовали ChatGPT для упрощения медицинских отчётов и показали, что пациенты лучше их понимают, не теряя важную информацию.",
-     "topic": "Упрощение медицинских текстов",
+     "source": "Journal of ExoTechnology and Education",
+     "summary": "Цифровой 3D-инструмент анатомии улучшил знания студентов об акупунктурных точках, повысил мотивацию и уверенность в практике.",
+     "topic": "Цифровые технологии в медицинском образовании",
+     "new": true
+    },
+    {
+     "id": "W4403322150",
+     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
+     "url": "https://doi.org/10.1038/s41746-026-03104-4",
+     "date": "2026-09-25",
+     "source": "npj Digital Medicine",
+     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
+     "topic": "ИИ в медицине",
      "new": false
     },
     {
-     "id": "W4362655714",
-     "title": "An infinite-times renewal equation",
-     "url": "https://doi.org/10.1214/26-aap2332",
+     "id": "W7125151750",
+     "title": "AI for Mathematics: Progress, Challenges, and Prospects",
+     "url": "https://doi.org/10.70777/si.v3i3.18747",
      "date": "2026-09-25",
-     "source": "The Annals of Applied Probability",
-     "summary": "Разработали теорию бесконечномерного уравнения возобновления для предсказания вероятности нейронных разрядов на основе истории предыдущих событий.",
-     "topic": "Уравнения возобновления",
+     "source": "SuperIntelligence - Robotics - Safety & Alignment",
+     "summary": "Обзор методов применения искусственного интеллекта в математике для поддержки исследований и развития общих рассуждений.",
+     "topic": "Искусственный интеллект в математике",
+     "new": true
+    },
+    {
+     "id": "W7214158146",
+     "title": "How internationalization in pharmacy education is delivered: A scoping review of experiences and lessons learned",
+     "url": "https://doi.org/10.1016/j.cptl.2026.102805",
+     "date": "2026-09-25",
+     "source": "Currents in Pharmacy Teaching and Learning",
+     "summary": "Анализ 71 исследования показал, что международные сотрудничества в фармацевтическом образовании дают результаты, но сталкиваются с логистическими и языковыми барьерами.",
+     "topic": "Международные программы в фармацевтике",
+     "new": true
+    },
+    {
+     "id": "W7214213374",
+     "title": "From Users to Designers: Research-Based PjBL for Master's Students Designing Islamic Cultural History Instruction",
+     "url": "https://doi.org/10.69552/mumtaz.v6i2.3944",
+     "date": "2026-09-25",
+     "source": "Mumtaz.",
+     "summary": "Разработана модель обучения на основе проектов для подготовки магистрантов к дизайну исламского исторического образования с высокой концептуальной осуществимостью.",
+     "topic": "Проектное обучение в образовании",
+     "new": true
+    }
+   ]
+  },
+  {
+   "name": "Науки о Земле, космос",
+   "query": "earth planetary science",
+   "items": [
+    {
+     "id": "W7117310176",
+     "title": "Quantum scattering of hot H/D on CO2: Cross sections and rate coefficients for planetary atmospheres and their evolution",
+     "url": "https://doi.org/10.1093/mnras/stag1696",
+     "date": "2026-09-25",
+     "source": "Monthly Notices of the Royal Astronomical Society",
+     "summary": "Рассчитали квантово-механические сечения столкновений горячего водорода с CO2 для атмосфер планет и показали, что существующие оценки энергопередачи завышены в 30–45 раз.",
+     "topic": "Столкновения в планетных атмосферах",
+     "new": true
+    },
+    {
+     "id": "W7202285989",
+     "title": "A Sulfur-rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion",
+     "url": "https://doi.org/10.3847/1538-3881/ae9d73",
+     "date": "2026-09-25",
+     "source": "The Astronomical Journal",
+     "summary": "Спектральный анализ молодого аналога Юпитера показал обогащение серой и другими элементами, указывая на значительное захватывание твёрдого материала при формировании планеты.",
+     "topic": "Атмосферы экзопланет",
+     "new": true
+    },
+    {
+     "id": "W7214316972",
+     "title": "The Thirsty Century: A Contemporary Synthesis Review of Global Water Scarcity and the Geography of the Blue Water Economy",
+     "url": "https://doi.org/10.5281/zenodo.22957488",
+     "date": "2026-09-25",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
+     "topic": "Глобальный дефицит воды",
+     "new": true
+    },
+    {
+     "id": "W7214396884",
+     "title": "The Thirsty Century: A Contemporary Synthesis Review of Global Water Scarcity and the Geography of the Blue Water Economy",
+     "url": "https://doi.org/10.5281/zenodo.22957489",
+     "date": "2026-09-25",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
+     "topic": "Глобальный дефицит воды",
+     "new": true
+    },
+    {
+     "id": "W7161139483",
+     "title": "Assessing foundational atomistic models for iron alloys under Earth's core conditions",
+     "url": "https://doi.org/10.1103/vsf5-3pvf",
+     "date": "2026-09-24",
+     "source": "Physical Review Materials",
+     "summary": "Проверили способность современных атомистических моделей описывать железные сплавы в экстремальных условиях земного ядра и выявили ограничения из-за отсутствия учёта электронных эффектов.",
+     "topic": "Материалы земного ядра",
+     "new": true
+    }
+   ]
+  },
+  {
+   "name": "Сон",
+   "query": "sleep quality",
+   "items": [
+    {
+     "id": "W4403322150",
+     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
+     "url": "https://doi.org/10.1038/s41746-026-03104-4",
+     "date": "2026-09-25",
+     "source": "npj Digital Medicine",
+     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
+     "topic": "ИИ в медицине",
      "new": false
     },
     {
-     "id": "W4379539599",
-     "title": "Limit laws for critical dispersion on complete graphs",
-     "url": "https://doi.org/10.1214/26-aap2326",
+     "id": "W7214178717",
+     "title": "Is compliance with the 3-30-300 rule associated with subjective citizens' well-being?",
+     "url": "https://doi.org/10.1016/j.jenvman.2026.131016",
      "date": "2026-09-25",
-     "source": "The Annals of Applied Probability",
-     "summary": "Доказали предельные теоремы для времени распределения частиц на полном графе в критическом режиме при количестве частиц близком к половине вершин.",
-     "topic": "Случайные процессы на графах",
-     "new": false
+     "source": "Journal of Environmental Management",
+     "summary": "Изучили связь правила 3-30-300 (деревья и зелень у дома) с благополучием людей в городе и нашли улучшение психического здоровья и сна.",
+     "topic": "Озеленение и благополучие",
+     "new": true
     },
     {
-     "id": "W4388032115",
-     "title": "Universality for the global spectrum of random inner-product kernel matrices in the polynomial regime",
-     "url": "https://doi.org/10.1214/26-aap2334",
+     "id": "W7214273888",
+     "title": "Neuropharmacological Effects of Chamomile (Matricaria chamomilla L.) and its Role in Supporting Mental Health: A Review of Molecular Mechanisms and Clinical Evidence",
+     "url": "https://doi.org/10.59992/ijesa.2026.v5n9p15",
      "date": "2026-09-25",
-     "source": "The Annals of Applied Probability",
-     "summary": "Показали универсальность спектра случайных матриц ядер с внутренним произведением для широкого класса распределений матриц в полиномиальном режиме.",
-     "topic": "Случайные матрицы",
-     "new": false
+     "source": "International Journal of Educational Sciences and Arts",
+     "summary": "Рассмотрели механизмы действия ромашки на мозг и показали её эффективность при тревоге и нарушениях сна.",
+     "topic": "Ромашка и психическое здоровье",
+     "new": true
     },
     {
-     "id": "W4399398959",
-     "title": "Universal scaling laws for correlated decay of many-body quantum systems",
-     "url": "https://doi.org/10.1038/s41567-026-03448-4",
+     "id": "W7214275222",
+     "title": "Empowering a first-time mother through postnatal education is not just teaching newborn care—it is nurturing confidence, protecting a precious life, and building a healthier future for generations",
+     "url": "https://doi.org/10.5281/zenodo.22955996",
      "date": "2026-09-25",
-     "source": "Nature Physics",
-     "summary": "Установили универсальные верхние и нижние границы максимальной скорости затухания квантовых систем многих частиц в зависимости от размера системы.",
-     "topic": "Квантовое затухание",
-     "new": false
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Обобщили доказательства эффективности послеродового обучения молодых матерей для повышения их уверенности в уходе за новорождённым.",
+     "topic": "Послеродовое образование матерей",
+     "new": true
+    },
+    {
+     "id": "W7214281737",
+     "title": "Quality of life after septoplasty in patients with nasal obstruction – a prospective observational study",
+     "url": "https://doi.org/10.18203/issn.2454-5929.ijohns20263386",
+     "date": "2026-09-25",
+     "source": "International Journal of Otorhinolaryngology and Head and Neck Surgery",
+     "summary": "Оценили улучшение качества жизни пациентов после операции на носовой перегородке и подтвердили эффективность септопластики.",
+     "topic": "Септопластика и дыхание",
+     "new": true
+    }
+   ]
+  },
+  {
+   "name": "Математика",
+   "query": "mathematics",
+   "items": [
+    {
+     "id": "W7154139762",
+     "title": "A Temporal-Spatial Balloon Universe: A New Conceptual Primitive for Gravity and a Global Cosmological Model that Dissolves the Principal Paradoxes of ΛCDM",
+     "url": "https://doi.org/10.5281/zenodo.19550473",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Предложена новая космологическая модель на основе геометрии пространства, которая объясняет парадоксы стандартной модели без тёмной энергии и инфляции.",
+     "topic": "Космология и гравитация",
+     "new": true
+    },
+    {
+     "id": "W7214284779",
+     "title": "Geology as Closure, Frontier and Record: A Bottom-Up Account of Earth Materials and Processes, with Convergences to Superstatistics, Stratigraphic Incompleteness and the Great Unconformity",
+     "url": "https://doi.org/10.5281/zenodo.22968484",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Разработана единая геометрическая основа для описания геологических процессов и показана связь с суперстатистикой и стратиграфическими закономерностями.",
+     "topic": "Геология и геофизика",
+     "new": true
+    },
+    {
+     "id": "W7214285773",
+     "title": "その年の死亡数 ÷ 罹患数(MI 比)は、同じ人たちの割合ではない——1 − 5 年生存率と比べると、膵臓では 0.97 倍、前立腺では 3.07 倍になる ── MI 比が高い部位ほど、死亡情報だけで登録された割合も高い [M025]",
+     "url": "https://doi.org/10.5281/zenodo.22968533",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Проанализирована соотношение смертности и заболеваемости раком, показано что оно не отражает долю умерших среди диагностированных.",
+     "topic": "Онкология и статистика здоровья",
+     "new": true
+    },
+    {
+     "id": "W7214293549",
+     "title": "Stable Continuum-Valued Observables from Finite Refinement Measurements: The RCS Framework and Its Physical Spectrum",
+     "url": "https://doi.org/10.5281/zenodo.22962538",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Разработан математический framework для определения стабильных непрерывных величин из конечного числа измерений с рациональными значениями.",
+     "topic": "Математическая теория измерений",
+     "new": true
+    },
+    {
+     "id": "W7214294105",
+     "title": "Global Existence and Smoothness of Solutions to the 3D Incompressible Navier-Stokes Equations with Smooth Initial Data",
+     "url": "https://doi.org/10.5281/zenodo.22968547",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Доказано глобальное существование и гладкость решений трёхмерного уравнения Навье-Стокса с гладкими начальными условиями.",
+     "topic": "Уравнение Навье-Стокса",
+     "new": true
+    }
+   ]
+  },
+  {
+   "name": "Computer Science & Algorithms",
+   "query": "computer science and algorithms",
+   "items": [
+    {
+     "id": "W7108448526",
+     "title": "Absolute Geometric Confinement of P ≠ NP: Bypassing the Relativization, Natural Proofs, and Algebrization Barriers via STCT Master Action",
+     "url": "https://doi.org/10.5281/zenodo.17796298",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
+     "topic": "P versus NP проблема",
+     "new": true
+    },
+    {
+     "id": "W7214395913",
+     "title": "Absolute Geometric Confinement of P ≠ NP: Bypassing the Relativization, Natural Proofs, and Algebrization Barriers via STCT Master Action",
+     "url": "https://doi.org/10.5281/zenodo.22963614",
+     "date": "2026-09-26",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
+     "topic": "P versus NP проблема",
+     "new": true
     },
     {
      "id": "W4399991192",
@@ -83,132 +277,6 @@
      "source": "npj Digital Medicine",
      "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
      "topic": "ИИ в медицине",
-     "new": false
-    },
-    {
-     "id": "W4403810410",
-     "title": "Improved formulation for long-duration storage in capacity expansion models using representative periods",
-     "url": "https://doi.org/10.1016/j.est.2026.124539",
-     "date": "2026-09-25",
-     "source": "Journal of Energy Storage",
-     "summary": "Предложили компактную формулировку для учёта долгосрочного хранения энергии в моделях расширения мощности с временной агрегацией.",
-     "topic": "Энергетические системы",
-     "new": false
-    },
-    {
-     "id": "W4417143254",
-     "title": "Executing discrete/continuous declarative process specifications via complex event processing",
-     "url": "https://doi.org/10.1007/s44311-026-00059-3",
-     "date": "2026-09-25",
-     "source": "Process Science",
-     "summary": "Разработали архитектуру выполнения гибридных декларативных процессов с непрерывными сенсорными данными на основе обработки сложных событий.",
-     "topic": "Управление бизнес-процессами",
-     "new": false
-    }
-   ]
-  },
-  {
-   "name": "Климат",
-   "query": "climate change",
-   "items": [
-    {
-     "id": "W4385500340",
-     "title": "Gendered Effects of the Minimum Wage",
-     "url": "https://doi.org/10.1111/iere.70114",
-     "date": "2026-09-25",
-     "source": "International Economic Review",
-     "summary": "Исследовали влияние минимальной зарплаты на женщин в Германии: она сдвигает их к работам с большим количеством часов и сокращает безработицу.",
-     "topic": "Минимальная зарплата и гендерный разрыв",
-     "new": false
-    },
-    {
-     "id": "W4399655870",
-     "title": "Variational inequalities and smooth-fit principle for singular stochastic control problems in Hilbert spaces",
-     "url": "https://doi.org/10.1214/26-aap2324",
-     "date": "2026-09-25",
-     "source": "The Annals of Applied Probability",
-     "summary": "Развили теорию вариационных неравенств для задач оптимального управления в бесконечномерных пространствах с применением к моделям производства.",
-     "topic": "Оптимальное управление и вариационные неравенства",
-     "new": false
-    },
-    {
-     "id": "W7127250883",
-     "title": "IMSA 2026 Profile",
-     "url": "https://digitalcommons.imsa.edu/imsa_profile/9",
-     "date": "2026-09-25",
-     "source": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
-     "summary": "Профиль Иллинойсской академии математики и науки, готовящей одаренных учащихся в сфере STEM.",
-     "topic": "Образовательная программа STEM",
-     "new": false
-    },
-    {
-     "id": "W7138055049",
-     "title": "A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio",
-     "url": "https://doi.org/10.1080/03461238.2026.2734133",
-     "date": "2026-09-25",
-     "source": "Scandinavian Actuarial Journal",
-     "summary": "Разработали модель для оценки финансового влияния киберинцидентов на компании и портфели страховщиков используя SIR модель и данные о LockBit атаках.",
-     "topic": "Кибербезопасность и страхование рисков",
-     "new": false
-    },
-    {
-     "id": "W7156118721",
-     "title": "Moisture Budgets and Circulation Analogs: Diagnosing Dynamic and Thermodynamic Precipitation Change",
-     "url": "https://doi.org/10.1175/jcli-d-26-0257.1",
-     "date": "2026-09-25",
-     "source": "Journal of Climate",
-     "summary": "Исследователи разделили факторы изменения осадков на динамические и термодинамические, сравнив два метода анализа в Чили и обнаружив существенные различия в оценках.",
-     "topic": "Изменение осадков и климат",
-     "new": false
-    },
-    {
-     "id": "W7166926896",
-     "title": "ВЛИЯНИЕ ПРЕДПОСЕВНОЙ ИНОКУЛЯЦИИ КЛУБЕНЬКОВЫМИ БАКТЕРИЯМИ НА ПРОДУКТИВНОСТЬ ГОРОХА ПОСЕВНОГО И СОИ В УСЛОВИЯХ ЦЕНТРАЛЬНОЙ ЯКУТИИ",
-     "url": "https://doi.org/10.24412/2309-348x-2026-258-39-49",
-     "date": "2026-09-25",
-     "source": "CyberLeninK (CyberLeninka)",
-     "summary": "Испытали инокуляцию бактериями гороха и сои в Якутии: выявили увеличение количества клубеньков и урожайности при применении оптимальных штаммов.",
-     "topic": "Азотфиксирующие бактерии и продуктивность",
-     "new": false
-    },
-    {
-     "id": "W7166940326",
-     "title": "НОВЫЙ СОРТ ПШЕНИЦЫ МЯГКОЙ ОЗИМОЙ ИЛЬВИНА",
-     "url": "https://doi.org/10.24412/2309-348x-2026-258-168-174",
-     "date": "2026-09-25",
-     "source": "CyberLeninK (CyberLeninka)",
-     "summary": "Создан новый сорт озимой пшеницы Ильвина с повышенной урожайностью и зимостойкостью для Волго-Вятского региона.",
-     "topic": "Сорт пшеницы озимой",
-     "new": false
-    },
-    {
-     "id": "W7166962717",
-     "title": "ОТЗЫВЧИВОСТЬ ВИКООВСЯНОЙ СМЕСИ НА УДОБРЕНИЕ ПРИ ВЫРАЩИВАНИИ НА СЕНАЖ В ИЗМЕНЯЮЩЕМСЯ КЛИМАТЕ ЦЕНТРАЛЬНОГО НЕЧЕРНОЗЕМЬЯ",
-     "url": "https://doi.org/10.24412/2309-348x-2026-258-134-142",
-     "date": "2026-09-25",
-     "source": "CyberLeninK (CyberLeninka)",
-     "summary": "На дерново-подзолистых почвах Центрального Нечерноземья максимальная продуктивность викоовсяной смеси достигается при оптимальных нормах удобрений и благоприятных погодных условиях.",
-     "topic": "Удобрение викоовсяной смеси",
-     "new": false
-    },
-    {
-     "id": "W7170153126",
-     "title": "Winter hardiness zones and the warming of the coldest night of the year in the Netherlands",
-     "url": "https://doi.org/10.5281/zenodo.21510072",
-     "date": "2026-09-25",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "В Нидерландах самая холодная ночь года потеплела на 2 градуса Цельсия за поколение, сместив зоны морозостойкости растений на ползоны выше.",
-     "topic": "Потепление и зоны морозостойкости",
-     "new": false
-    },
-    {
-     "id": "W7214153460",
-     "title": "Cascading Cryosphere Hazards in a Warming Himalaya: A Secondary-Data Analysis of the August 2026 Nepal–Tibet Glacier-Collapse Debris Flow",
-     "url": "https://doi.org/10.64823/ijssr.2601004",
-     "date": "2026-09-25",
-     "source": "",
-     "summary": "Проанализировали разрушительный ледниковый селевой поток в Гималаях в августе 2026 года на границе Непала и Тибета с оценкой ущерба и уроков для трансграничного управления.",
-     "topic": "Ледниковые опасности и селевые потоки",
      "new": false
     }
    ]
