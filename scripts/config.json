@@ -1,8 +1,11 @@
 {
-  "count": 10,
+  "count": 5,
   "model": "claude-haiku-4-5-20251001",
   "topics": [
-    { "name": "Искусственный интеллект", "query": "large language models" },
-    { "name": "Климат", "query": "climate change" }
+    { "name": "Образование", "query": "education learning outcomes" },
+    { "name": "Науки о Земле, космос", "query": "earth planetary science" },
+    { "name": "Сон", "query": "sleep quality" },
+    { "name": "Математика", "query": "mathematics" },
+    { "name": "Computer Science & Algorithms", "query": "computer science and algorithms" }
   ]
 }
