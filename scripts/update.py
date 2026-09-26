@@ -174,7 +174,10 @@ def main():
         print(f"{topic['name']}: {len(result)} статей, новых {len(fresh)}")
     DATA_FILE.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     if "--no-email" not in sys.argv:
-        send_email(out)
+        try:
+            send_email(out)
+        except Exception as e:
+            print(f"Письмо не отправлено: {e}")
 
 
 if __name__ == "__main__":
