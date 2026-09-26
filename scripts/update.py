@@ -36,7 +36,7 @@ def rebuild_abstract(inv):
 def fetch_works(query, count):
     today = dt.date.today().isoformat()
     params = {
-        "filter": f"to_publication_date:{today},has_abstract:true,type:article",
+        "filter": f"to_publication_date:{today},has_abstract:true,type:article|preprint",
         "sort": "publication_date:desc",
         "per_page": str(count),
         "select": "id,doi,title,publication_date,primary_topic,"
