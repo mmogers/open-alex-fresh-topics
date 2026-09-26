@@ -121,6 +121,9 @@ def build_email(data):
 
 def send_email(data):
     user, pw, to = (os.environ.get(k) for k in ("SMTP_USER", "SMTP_PASS", "MAIL_TO"))
+    user = (user or "").strip()
+    pw = (pw or "").replace(" ", "").replace("\u00a0", "").strip()
+    print(f"Проверка: адрес содержит @gmail.com: {'@gmail.com' in user}, длина пароля: {len(pw)}")
     if not (user and pw and to):
         print("SMTP не настроен — письмо пропущено")
         return
