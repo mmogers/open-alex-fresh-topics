@@ -1,0 +1,217 @@
+{
+ "updated": "2026-09-26T11:29+00:00",
+ "topics": [
+  {
+   "name": "Искусственный интеллект",
+   "query": "large language models",
+   "items": [
+    {
+     "id": "W4362655714",
+     "title": "An infinite-times renewal equation",
+     "url": "https://doi.org/10.1214/26-aap2332",
+     "date": "2026-09-25",
+     "source": "The Annals of Applied Probability",
+     "summary": "Разработали теорию бесконечномерного уравнения возобновления для предсказания вероятности нейронных разрядов на основе истории предыдущих событий.",
+     "topic": "Уравнения возобновления",
+     "new": true
+    },
+    {
+     "id": "W4379539599",
+     "title": "Limit laws for critical dispersion on complete graphs",
+     "url": "https://doi.org/10.1214/26-aap2326",
+     "date": "2026-09-25",
+     "source": "The Annals of Applied Probability",
+     "summary": "Доказали предельные теоремы для времени распределения частиц на полном графе в критическом режиме при количестве частиц близком к половине вершин.",
+     "topic": "Случайные процессы на графах",
+     "new": true
+    },
+    {
+     "id": "W4388032115",
+     "title": "Universality for the global spectrum of random inner-product kernel matrices in the polynomial regime",
+     "url": "https://doi.org/10.1214/26-aap2334",
+     "date": "2026-09-25",
+     "source": "The Annals of Applied Probability",
+     "summary": "Показали универсальность спектра случайных матриц ядер с внутренним произведением для широкого класса распределений матриц в полиномиальном режиме.",
+     "topic": "Случайные матрицы",
+     "new": true
+    },
+    {
+     "id": "W4399398959",
+     "title": "Universal scaling laws for correlated decay of many-body quantum systems",
+     "url": "https://doi.org/10.1038/s41567-026-03448-4",
+     "date": "2026-09-25",
+     "source": "Nature Physics",
+     "summary": "Установили универсальные верхние и нижние границы максимальной скорости затухания квантовых систем многих частиц в зависимости от размера системы.",
+     "topic": "Квантовое затухание",
+     "new": true
+    },
+    {
+     "id": "W4399991192",
+     "title": "Critical point representation of the mutual information in the sparse stochastic block model",
+     "url": "https://doi.org/10.1214/26-aap2320",
+     "date": "2026-09-25",
+     "source": "The Annals of Applied Probability",
+     "summary": "Представили взаимную информацию в блочной модели через функционал в критической точке для восстановления структуры сообществ в сетях.",
+     "topic": "Анализ сетевых сообществ",
+     "new": true
+    },
+    {
+     "id": "W4402703550",
+     "title": "MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair",
+     "url": "https://doi.org/10.1007/s10664-026-10943-y",
+     "date": "2026-09-25",
+     "source": "Empirical Software Engineering",
+     "summary": "Исследовали эффективность объединения специализированных адаптеров языковых моделей для улучшения автоматического исправления программного кода.",
+     "topic": "Обработка программного кода",
+     "new": true
+    },
+    {
+     "id": "W4403322150",
+     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
+     "url": "https://doi.org/10.1038/s41746-026-03104-4",
+     "date": "2026-09-25",
+     "source": "npj Digital Medicine",
+     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
+     "topic": "ИИ в медицине",
+     "new": true
+    },
+    {
+     "id": "W4403810410",
+     "title": "Improved formulation for long-duration storage in capacity expansion models using representative periods",
+     "url": "https://doi.org/10.1016/j.est.2026.124539",
+     "date": "2026-09-25",
+     "source": "Journal of Energy Storage",
+     "summary": "Предложили компактную формулировку для учёта долгосрочного хранения энергии в моделях расширения мощности с временной агрегацией.",
+     "topic": "Энергетические системы",
+     "new": true
+    },
+    {
+     "id": "W4417143254",
+     "title": "Executing discrete/continuous declarative process specifications via complex event processing",
+     "url": "https://doi.org/10.1007/s44311-026-00059-3",
+     "date": "2026-09-25",
+     "source": "Process Science",
+     "summary": "Разработали архитектуру выполнения гибридных декларативных процессов с непрерывными сенсорными данными на основе обработки сложных событий.",
+     "topic": "Управление бизнес-процессами",
+     "new": true
+    },
+    {
+     "id": "W4417297025",
+     "title": "LLMs can assist with proposal selection at large user facilities",
+     "url": "https://doi.org/10.1038/s41598-026-60226-1",
+     "date": "2026-09-25",
+     "source": "Scientific Reports",
+     "summary": "Показали, что языковые модели эффективно ранжируют научные предложения в соответствии с предпочтениями человеческих экспертов при значительно меньших затратах.",
+     "topic": "ИИ в научных учреждениях",
+     "new": true
+    }
+   ]
+  },
+  {
+   "name": "Климат",
+   "query": "climate change",
+   "items": [
+    {
+     "id": "W4385500340",
+     "title": "Gendered Effects of the Minimum Wage",
+     "url": "https://doi.org/10.1111/iere.70114",
+     "date": "2026-09-25",
+     "source": "International Economic Review",
+     "summary": "Исследовали влияние минимальной зарплаты на женщин в Германии: она сдвигает их к работам с большим количеством часов и сокращает безработицу.",
+     "topic": "Минимальная зарплата и гендерный разрыв",
+     "new": true
+    },
+    {
+     "id": "W4399655870",
+     "title": "Variational inequalities and smooth-fit principle for singular stochastic control problems in Hilbert spaces",
+     "url": "https://doi.org/10.1214/26-aap2324",
+     "date": "2026-09-25",
+     "source": "The Annals of Applied Probability",
+     "summary": "Развили теорию вариационных неравенств для задач оптимального управления в бесконечномерных пространствах с применением к моделям производства.",
+     "topic": "Оптимальное управление и вариационные неравенства",
+     "new": true
+    },
+    {
+     "id": "W7127250883",
+     "title": "IMSA 2026 Profile",
+     "url": "https://digitalcommons.imsa.edu/imsa_profile/9",
+     "date": "2026-09-25",
+     "source": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
+     "summary": "Профиль Иллинойсской академии математики и науки, готовящей одаренных учащихся в сфере STEM.",
+     "topic": "Образовательная программа STEM",
+     "new": true
+    },
+    {
+     "id": "W7138055049",
+     "title": "A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio",
+     "url": "https://doi.org/10.1080/03461238.2026.2734133",
+     "date": "2026-09-25",
+     "source": "Scandinavian Actuarial Journal",
+     "summary": "Разработали модель для оценки финансового влияния киберинцидентов на компании и портфели страховщиков используя SIR модель и данные о LockBit атаках.",
+     "topic": "Кибербезопасность и страхование рисков",
+     "new": true
+    },
+    {
+     "id": "W7166926896",
+     "title": "ВЛИЯНИЕ ПРЕДПОСЕВНОЙ ИНОКУЛЯЦИИ КЛУБЕНЬКОВЫМИ БАКТЕРИЯМИ НА ПРОДУКТИВНОСТЬ ГОРОХА ПОСЕВНОГО И СОИ В УСЛОВИЯХ ЦЕНТРАЛЬНОЙ ЯКУТИИ",
+     "url": "https://doi.org/10.24412/2309-348x-2026-258-39-49",
+     "date": "2026-09-25",
+     "source": "CyberLeninK (CyberLeninka)",
+     "summary": "Испытали инокуляцию бактериями гороха и сои в Якутии: выявили увеличение количества клубеньков и урожайности при применении оптимальных штаммов.",
+     "topic": "Азотфиксирующие бактерии и продуктивность",
+     "new": true
+    },
+    {
+     "id": "W7166940326",
+     "title": "НОВЫЙ СОРТ ПШЕНИЦЫ МЯГКОЙ ОЗИМОЙ ИЛЬВИНА",
+     "url": "https://doi.org/10.24412/2309-348x-2026-258-168-174",
+     "date": "2026-09-25",
+     "source": "CyberLeninK (CyberLeninka)",
+     "summary": "Создан новый сорт озимой пшеницы Ильвина с повышенной урожайностью и зимостойкостью для Волго-Вятского региона.",
+     "topic": "Сорт пшеницы озимой",
+     "new": true
+    },
+    {
+     "id": "W7166962717",
+     "title": "ОТЗЫВЧИВОСТЬ ВИКООВСЯНОЙ СМЕСИ НА УДОБРЕНИЕ ПРИ ВЫРАЩИВАНИИ НА СЕНАЖ В ИЗМЕНЯЮЩЕМСЯ КЛИМАТЕ ЦЕНТРАЛЬНОГО НЕЧЕРНОЗЕМЬЯ",
+     "url": "https://doi.org/10.24412/2309-348x-2026-258-134-142",
+     "date": "2026-09-25",
+     "source": "CyberLeninK (CyberLeninka)",
+     "summary": "На дерново-подзолистых почвах Центрального Нечерноземья максимальная продуктивность викоовсяной смеси достигается при оптимальных нормах удобрений и благоприятных погодных условиях.",
+     "topic": "Удобрение викоовсяной смеси",
+     "new": true
+    },
+    {
+     "id": "W7214153460",
+     "title": "Cascading Cryosphere Hazards in a Warming Himalaya: A Secondary-Data Analysis of the August 2026 Nepal–Tibet Glacier-Collapse Debris Flow",
+     "url": "https://doi.org/10.64823/ijssr.2601004",
+     "date": "2026-09-25",
+     "source": "",
+     "summary": "Проанализировали разрушительный ледниковый селевой поток в Гималаях в августе 2026 года на границе Непала и Тибета с оценкой ущерба и уроков для трансграничного управления.",
+     "topic": "Ледниковые опасности и селевые потоки",
+     "new": true
+    },
+    {
+     "id": "W7214178717",
+     "title": "Is compliance with the 3-30-300 rule associated with subjective citizens' well-being?",
+     "url": "https://doi.org/10.1016/j.jenvman.2026.131016",
+     "date": "2026-09-25",
+     "source": "Journal of Environmental Management",
+     "summary": "Исследовали связь между правилом 3-30-300 для зеленых зон и благополучием жителей в Эксе: зеленость улучшает психическое здоровье и сон.",
+     "topic": "Озеленение и благополучие людей",
+     "new": true
+    },
+    {
+     "id": "W7214208717",
+     "title": "Short-term climate scenario sensitivity of a Riyadh office building: energy consumption, operational life cycle cost, and simulation-derived thermal comfort indicators",
+     "url": "https://doi.org/10.1038/s41598-026-72446-6",
+     "date": "2026-09-25",
+     "source": "Scientific Reports",
+     "summary": "Оценили влияние климатических сценариев на потребление энергии и тепловой комфорт офисного здания в Эр-Рияде используя машинное обучение и симуляцию.",
+     "topic": "Энергопотребление и климатические сценарии",
+     "new": true
+    }
+   ]
+  }
+ ]
+}
