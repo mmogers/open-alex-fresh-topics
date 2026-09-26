@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Свежие статьи</title>
+<meta name="theme-color" content="#1F2A6B">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Статьи">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;700&family=Literata:opsz,wght@7..72,400;7..72,500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #EEF1F6;
+    --ink: #1F2A6B;
+    --muted: #5A6275;
+    --rule: #C9D1E0;
+    --mark: #F2D544;
+    --mark-ink: #1F2A6B;
+    --surface: #FFFFFF;
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #121829; --ink: #E6E9F2; --muted: #9AA3B8; --rule: #2A3350;
+      --mark: #E9CB3A; --mark-ink: #121829; --surface: #1A2138; color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #121829; --ink: #E6E9F2; --muted: #9AA3B8; --rule: #2A3350;
+    --mark: #E9CB3A; --mark-ink: #121829; --surface: #1A2138; color-scheme: dark;
+  }
+  *, *::before, *::after { box-sizing: inherit; }
+  html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+  body {
+    margin: 0; background: var(--paper); color: var(--ink);
+    font: 400 16px/1.5 "Onest", system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 32px 20px 56px; }
+
+  header h1 {
+    font-weight: 700; font-size: clamp(2.2rem, 9vw, 3.2rem); line-height: 1;
+    letter-spacing: -0.03em; margin: 0 0 10px;
+  }
+  .updated { color: var(--muted); font-size: 0.9rem; margin: 0; }
+
+  nav { display: flex; gap: 6px; flex-wrap: wrap; margin: 28px 0 8px; }
+  nav button {
+    font: inherit; font-size: 0.95rem; font-weight: 500; color: var(--ink);
+    background: transparent; border: 1.5px solid var(--rule); border-radius: 999px;
+    padding: 6px 14px; cursor: pointer;
+  }
+  nav button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  nav button:focus-visible, a:focus-visible, .ghost:focus-visible { outline: 3px solid var(--mark); outline-offset: 2px; }
+
+  .banner {
+    background: var(--surface); border-left: 4px solid var(--mark);
+    padding: 12px 14px; margin: 20px 0 0; font-size: 0.9rem; color: var(--muted);
+  }
+
+  ol { list-style: none; margin: 0; padding: 0; }
+  li { padding: 22px 0; border-bottom: 1px solid var(--rule); }
+  li:last-child { border-bottom: 0; }
+
+  .topic {
+    display: inline; font-size: 0.85rem; font-weight: 500; color: var(--mark-ink);
+    background: linear-gradient(transparent 12%, var(--mark) 12%, var(--mark) 88%, transparent 88%);
+    padding: 0 4px; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+  }
+  .new { font-size: 0.8rem; font-weight: 500; color: var(--muted); margin-left: 8px; }
+  .summary {
+    font-family: "Literata", Georgia, "PT Serif", serif; font-size: 1.2rem;
+    line-height: 1.55; margin: 10px 0 12px; text-wrap: pretty;
+  }
+  .orig { font-size: 0.88rem; color: var(--muted); margin: 0 0 8px; }
+  .meta { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: baseline; font-size: 0.88rem; color: var(--muted); }
+  .meta a { color: var(--ink); font-weight: 500; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+
+  .empty { padding: 40px 0; color: var(--muted); }
+  footer { margin-top: 32px; font-size: 0.85rem; color: var(--muted); }
+  .ghost { font: inherit; color: var(--muted); background: none; border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
+
+  @media (prefers-reduced-motion: no-preference) {
+    ol.show li { animation: in .35s ease both; }
+    ol.show li:nth-child(n) { animation-delay: calc(var(--i) * 35ms); }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Свежие статьи</h1>
+    <p class="updated" id="updated">Загружаю…</p>
+  </header>
+  <nav id="tabs" aria-label="Темы"></nav>
+  <div id="banner"></div>
+  <ol id="list"></ol>
+  <footer>
+    Данные: OpenAlex. Резюме пишет Claude.
+    <span id="install"></span>
+  </footer>
+</div>
+
+<script>
+const DEMO = {
+  updated: null, demo: true,
+  topics: [{
+    name: "Пример", items: [
+      { id: "d1", topic: "Языковые модели", new: true,
+        summary: "Здесь будет одно предложение по-русски о том, что сделали авторы и что они обнаружили.",
+        title: "Original article title will appear here in English",
+        source: "Название журнала", date: "2026-09-25", url: "https://openalex.org/" },
+      { id: "d2", topic: "Климат", new: false,
+        summary: "Каждая карточка — одна статья: тема подсвечена маркером, ниже резюме, оригинальное название и ссылка.",
+        title: "Another original title from OpenAlex",
+        source: "Журнал", date: "2026-09-24", url: "https://openalex.org/" }
+    ]
+  }]
+};
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const fmtDate = d => d ? new Date(d).toLocaleDateString("ru-RU", { day: "numeric", month: "long", year: "numeric" }) : "";
+
+let data, current = 0;
+
+function savedTab() { try { return +localStorage.getItem("tab") || 0; } catch { return 0; } }
+function saveTab(i) { try { localStorage.setItem("tab", i); } catch {} }
+
+function render() {
+  const t = data.topics[current];
+  $("tabs").innerHTML = data.topics.length > 1 ? data.topics.map((x, i) =>
+    `<button type="button" aria-pressed="${i === current}" data-i="${i}">${esc(x.name)}</button>`).join("") : "";
+  $("tabs").querySelectorAll("button").forEach(b => b.onclick = () => {
+    current = +b.dataset.i; saveTab(current); render();
+  });
+
+  $("banner").innerHTML = data.demo
+    ? `<p class="banner">Это пример оформления. Настоящие статьи появятся после первого запуска ежедневного обновления.</p>` : "";
+
+  const list = $("list");
+  list.classList.remove("show");
+  if (!t || !t.items.length) {
+    list.innerHTML = `<li class="empty">По этой теме пока нет статей. Проверьте запрос в scripts/config.json.</li>`;
+    return;
+  }
+  list.innerHTML = t.items.map((it, i) => `
+    <li style="--i:${i}">
+      <span class="topic">${esc(it.topic)}</span>${it.new ? `<span class="new">новое</span>` : ""}
+      <p class="summary">${esc(it.summary)}</p>
+      <p class="orig">${esc(it.title)}</p>
+      <div class="meta">
+        ${it.source ? `<span>${esc(it.source)}</span>` : ""}
+        ${it.date ? `<span>${fmtDate(it.date)}</span>` : ""}
+        <a href="${esc(it.url)}" target="_blank" rel="noopener">Читать статью</a>
+      </div>
+    </li>`).join("");
+  void list.offsetWidth; list.classList.add("show");
+}
+
+async function load() {
+  try {
+    const r = await fetch("data.json", { cache: "no-store" });
+    if (!r.ok) throw 0;
+    data = await r.json();
+    if (!data.topics || !data.topics.length) throw 0;
+    const d = new Date(data.updated);
+    $("updated").textContent = "Обновлено " + d.toLocaleString("ru-RU", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" });
+  } catch {
+    data = DEMO;
+    $("updated").textContent = "Обновляется каждый день утром";
+  }
+  current = Math.min(savedTab(), data.topics.length - 1);
+  render();
+}
+
+// Подсказка для iPhone: там нет кнопки «Установить», только «Поделиться → На экран Домой»
+const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
+const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+if (isIOS && !standalone) $("install").innerHTML = "<br>Чтобы добавить иконку: Поделиться → «На экран Домой».";
+
+let deferred;
+addEventListener("beforeinstallprompt", e => {
+  e.preventDefault(); deferred = e;
+  $("install").innerHTML = ` <button class="ghost" type="button" id="inst">Добавить на экран</button>`;
+  $("inst").onclick = async () => { deferred.prompt(); await deferred.userChoice; $("install").textContent = ""; };
+});
+
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  navigator.serviceWorker.register("sw.js").catch(() => {});
+}
+load();
+</script>
+</body>
+</html>
