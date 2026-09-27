@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26T19:05+00:00",
+ "updated": "2026-09-27T07:21+00:00",
  "topics": [
   {
    "name": "Образование",
@@ -13,7 +13,7 @@
      "source": "Journal of ExoTechnology and Education",
      "summary": "Цифровой 3D-инструмент анатомии улучшил знания студентов об акупунктурных точках, повысил мотивацию и уверенность в практике.",
      "topic": "Цифровые технологии в медицинском образовании",
-     "new": true
+     "new": false
     },
     {
      "id": "W4403322150",
@@ -33,7 +33,7 @@
      "source": "SuperIntelligence - Robotics - Safety & Alignment",
      "summary": "Обзор методов применения искусственного интеллекта в математике для поддержки исследований и развития общих рассуждений.",
      "topic": "Искусственный интеллект в математике",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214158146",
@@ -43,7 +43,7 @@
      "source": "Currents in Pharmacy Teaching and Learning",
      "summary": "Анализ 71 исследования показал, что международные сотрудничества в фармацевтическом образовании дают результаты, но сталкиваются с логистическими и языковыми барьерами.",
      "topic": "Международные программы в фармацевтике",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214213374",
@@ -53,7 +53,7 @@
      "source": "Mumtaz.",
      "summary": "Разработана модель обучения на основе проектов для подготовки магистрантов к дизайну исламского исторического образования с высокой концептуальной осуществимостью.",
      "topic": "Проектное обучение в образовании",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -69,7 +69,7 @@
      "source": "Monthly Notices of the Royal Astronomical Society",
      "summary": "Рассчитали квантово-механические сечения столкновений горячего водорода с CO2 для атмосфер планет и показали, что существующие оценки энергопередачи завышены в 30–45 раз.",
      "topic": "Столкновения в планетных атмосферах",
-     "new": true
+     "new": false
     },
     {
      "id": "W7202285989",
@@ -79,7 +79,7 @@
      "source": "The Astronomical Journal",
      "summary": "Спектральный анализ молодого аналога Юпитера показал обогащение серой и другими элементами, указывая на значительное захватывание твёрдого материала при формировании планеты.",
      "topic": "Атмосферы экзопланет",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214316972",
@@ -89,7 +89,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
      "topic": "Глобальный дефицит воды",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214396884",
@@ -99,7 +99,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
      "topic": "Глобальный дефицит воды",
-     "new": true
+     "new": false
     },
     {
      "id": "W7161139483",
@@ -109,7 +109,7 @@
      "source": "Physical Review Materials",
      "summary": "Проверили способность современных атомистических моделей описывать железные сплавы в экстремальных условиях земного ядра и выявили ограничения из-за отсутствия учёта электронных эффектов.",
      "topic": "Материалы земного ядра",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -135,7 +135,7 @@
      "source": "Journal of Environmental Management",
      "summary": "Изучили связь правила 3-30-300 (деревья и зелень у дома) с благополучием людей в городе и нашли улучшение психического здоровья и сна.",
      "topic": "Озеленение и благополучие",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214273888",
@@ -145,7 +145,7 @@
      "source": "International Journal of Educational Sciences and Arts",
      "summary": "Рассмотрели механизмы действия ромашки на мозг и показали её эффективность при тревоге и нарушениях сна.",
      "topic": "Ромашка и психическое здоровье",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214275222",
@@ -155,7 +155,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Обобщили доказательства эффективности послеродового обучения молодых матерей для повышения их уверенности в уходе за новорождённым.",
      "topic": "Послеродовое образование матерей",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214281737",
@@ -165,7 +165,7 @@
      "source": "International Journal of Otorhinolaryngology and Head and Neck Surgery",
      "summary": "Оценили улучшение качества жизни пациентов после операции на носовой перегородке и подтвердили эффективность септопластики.",
      "topic": "Септопластика и дыхание",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -174,6 +174,36 @@
    "query": "mathematics",
    "items": [
     {
+     "id": "W7213702867",
+     "title": "Not Merely a Workaround: Theorizing Asynchronous Math Talks as a Robust Instructional Routine for Visible Thinking, Participation, and Engagement in Mathematics Teacher Education",
+     "url": "https://pdxscholar.library.pdx.edu/open_access_etds/7222",
+     "date": "2026-09-27",
+     "source": "PDXScholar  (Portland State University)",
+     "summary": "Исследованы асинхронные математические беседы как метод обучения, который делает мышление студентов видимым и повышает участие в онлайн-образовании.",
+     "topic": "Преподавание математики онлайн",
+     "new": true
+    },
+    {
+     "id": "W7213998156",
+     "title": "Admissible Determination",
+     "url": "https://doi.org/10.5281/zenodo.22884849",
+     "date": "2026-09-27",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Разработана теория представления данных, которая сохраняет только важные различия для достижения поставленной цели.",
+     "topic": "Теория представления данных",
+     "new": true
+    },
+    {
+     "id": "W7214327857",
+     "title": "How Much of a Thing Must Remain the Same? Burden-Relative Preservation, Support, Identity, and the Boundary of Reditus",
+     "url": "https://doi.org/10.5281/zenodo.22948821",
+     "date": "2026-09-27",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Сформулирована математическая теория того, какие характеристики объекта должны сохраняться в зависимости от его функции и назначения.",
+     "topic": "Философия идентичности и изменения",
+     "new": true
+    },
+    {
      "id": "W7154139762",
      "title": "A Temporal-Spatial Balloon Universe: A New Conceptual Primitive for Gravity and a Global Cosmological Model that Dissolves the Principal Paradoxes of ΛCDM",
      "url": "https://doi.org/10.5281/zenodo.19550473",
@@ -181,7 +211,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Предложена новая космологическая модель на основе геометрии пространства, которая объясняет парадоксы стандартной модели без тёмной энергии и инфляции.",
      "topic": "Космология и гравитация",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214284779",
@@ -191,37 +221,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Разработана единая геометрическая основа для описания геологических процессов и показана связь с суперстатистикой и стратиграфическими закономерностями.",
      "topic": "Геология и геофизика",
-     "new": true
-    },
-    {
-     "id": "W7214285773",
-     "title": "その年の死亡数 ÷ 罹患数(MI 比)は、同じ人たちの割合ではない——1 − 5 年生存率と比べると、膵臓では 0.97 倍、前立腺では 3.07 倍になる ── MI 比が高い部位ほど、死亡情報だけで登録された割合も高い [M025]",
-     "url": "https://doi.org/10.5281/zenodo.22968533",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Проанализирована соотношение смертности и заболеваемости раком, показано что оно не отражает долю умерших среди диагностированных.",
-     "topic": "Онкология и статистика здоровья",
-     "new": true
-    },
-    {
-     "id": "W7214293549",
-     "title": "Stable Continuum-Valued Observables from Finite Refinement Measurements: The RCS Framework and Its Physical Spectrum",
-     "url": "https://doi.org/10.5281/zenodo.22962538",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработан математический framework для определения стабильных непрерывных величин из конечного числа измерений с рациональными значениями.",
-     "topic": "Математическая теория измерений",
-     "new": true
-    },
-    {
-     "id": "W7214294105",
-     "title": "Global Existence and Smoothness of Solutions to the 3D Incompressible Navier-Stokes Equations with Smooth Initial Data",
-     "url": "https://doi.org/10.5281/zenodo.22968547",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Доказано глобальное существование и гладкость решений трёхмерного уравнения Навье-Стокса с гладкими начальными условиями.",
-     "topic": "Уравнение Навье-Стокса",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -237,7 +237,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
      "topic": "P versus NP проблема",
-     "new": true
+     "new": false
     },
     {
      "id": "W7214395913",
@@ -247,7 +247,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
      "topic": "P versus NP проблема",
-     "new": true
+     "new": false
     },
     {
      "id": "W4399991192",
