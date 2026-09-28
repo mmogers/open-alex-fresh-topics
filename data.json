@@ -1,59 +1,59 @@
 {
- "updated": "2026-09-27T07:21+00:00",
+ "updated": "2026-09-28T11:42+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7214344349",
-     "title": "THE IMPACTS OF USING A DIGITAL 3D ANATOMY TOOL IN LEARNING ACUPUNCTURE",
-     "url": "https://doi.org/10.36615/p7rkqz95",
-     "date": "2026-09-26",
-     "source": "Journal of ExoTechnology and Education",
-     "summary": "Цифровой 3D-инструмент анатомии улучшил знания студентов об акупунктурных точках, повысил мотивацию и уверенность в практике.",
-     "topic": "Цифровые технологии в медицинском образовании",
-     "new": false
+     "id": "W7213551129",
+     "title": "Spatial Dependence and Co-Kriging Prediction of Stunting Prevalence Using the Linear Model of Coregionalization",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.44312",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Изучили пространственное распределение недостаточности роста у детей в Индонезии и предсказали её распространение, используя статистические методы учёта связи переменных.",
+     "topic": "Пространственный анализ питания детей",
+     "new": true
     },
     {
-     "id": "W4403322150",
-     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
-     "url": "https://doi.org/10.1038/s41746-026-03104-4",
-     "date": "2026-09-25",
-     "source": "npj Digital Medicine",
-     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
-     "topic": "ИИ в медицине",
-     "new": false
+     "id": "W7214477342",
+     "title": "Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.39670",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Разработали модель машинного обучения для выявления детей, не посещающих школу, используя методы балансировки несбалансированных данных.",
+     "topic": "Классификация уязвимых учащихся",
+     "new": true
     },
     {
-     "id": "W7125151750",
-     "title": "AI for Mathematics: Progress, Challenges, and Prospects",
-     "url": "https://doi.org/10.70777/si.v3i3.18747",
-     "date": "2026-09-25",
-     "source": "SuperIntelligence - Robotics - Safety & Alignment",
-     "summary": "Обзор методов применения искусственного интеллекта в математике для поддержки исследований и развития общих рассуждений.",
-     "topic": "Искусственный интеллект в математике",
-     "new": false
+     "id": "W7214521581",
+     "title": "Reassessing the Role of Offline Teachers in the Era of Online Learning: In the context of India’s National Education Policy 2020",
+     "url": "https://doi.org/10.31235/osf.io/43q92_v1",
+     "date": "2026-09-28",
+     "source": "",
+     "summary": "Проанализировали роль учителей в онлайн-образовании и предложили гибридный подход, сочетающий онлайн и очное обучение для лучших результатов.",
+     "topic": "Онлайн и смешанное обучение",
+     "new": true
     },
     {
-     "id": "W7214158146",
-     "title": "How internationalization in pharmacy education is delivered: A scoping review of experiences and lessons learned",
-     "url": "https://doi.org/10.1016/j.cptl.2026.102805",
-     "date": "2026-09-25",
-     "source": "Currents in Pharmacy Teaching and Learning",
-     "summary": "Анализ 71 исследования показал, что международные сотрудничества в фармацевтическом образовании дают результаты, но сталкиваются с логистическими и языковыми барьерами.",
-     "topic": "Международные программы в фармацевтике",
-     "new": false
+     "id": "W7214523577",
+     "title": "The effect of project-based learning on students’ motivation in school-based physical Education and behavioral intention toward sport participation: a theoretical and empirical perspective in educational sport contexts",
+     "url": "https://doi.org/10.3389/fpsyg.2026.1915768",
+     "date": "2026-09-28",
+     "source": "Frontiers in Psychology",
+     "summary": "Показали, что проектное обучение повышает мотивацию и намерение учащихся к спорту лучше, чем традиционное преподавание физкультуры.",
+     "topic": "Проектное обучение и мотивация",
+     "new": true
     },
     {
-     "id": "W7214213374",
-     "title": "From Users to Designers: Research-Based PjBL for Master's Students Designing Islamic Cultural History Instruction",
-     "url": "https://doi.org/10.69552/mumtaz.v6i2.3944",
-     "date": "2026-09-25",
-     "source": "Mumtaz.",
-     "summary": "Разработана модель обучения на основе проектов для подготовки магистрантов к дизайну исламского исторического образования с высокой концептуальной осуществимостью.",
-     "topic": "Проектное обучение в образовании",
-     "new": false
+     "id": "W7214539956",
+     "title": "Evaluating a service-learning program: benefits of integrating medical students into school cancer education on teaching skills and cancer knowledge",
+     "url": "https://doi.org/10.1186/s12909-026-10473-7",
+     "date": "2026-09-28",
+     "source": "BMC Medical Education",
+     "summary": "Доказали, что участие медицинских студентов в школьных программах по онкологии улучшает их педагогические навыки и знания о раке.",
+     "topic": "Сервис-обучение в медицине",
+     "new": true
     }
    ]
   },
@@ -62,54 +62,54 @@
    "query": "earth planetary science",
    "items": [
     {
-     "id": "W7117310176",
-     "title": "Quantum scattering of hot H/D on CO2: Cross sections and rate coefficients for planetary atmospheres and their evolution",
-     "url": "https://doi.org/10.1093/mnras/stag1696",
-     "date": "2026-09-25",
-     "source": "Monthly Notices of the Royal Astronomical Society",
-     "summary": "Рассчитали квантово-механические сечения столкновений горячего водорода с CO2 для атмосфер планет и показали, что существующие оценки энергопередачи завышены в 30–45 раз.",
-     "topic": "Столкновения в планетных атмосферах",
-     "new": false
+     "id": "W7214527102",
+     "title": "Eudynamic bioethics",
+     "url": "https://doi.org/10.1007/s11019-026-10404-9",
+     "date": "2026-09-27",
+     "source": "Medicine Health Care and Philosophy",
+     "summary": "Предложена концепция эудинамии для биоэтики: сохранение множественных возможностей жизни, чтобы решение одной проблемы не исключало другие.",
+     "topic": "Биоэтика и качество жизни",
+     "new": true
     },
     {
-     "id": "W7202285989",
-     "title": "A Sulfur-rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion",
-     "url": "https://doi.org/10.3847/1538-3881/ae9d73",
-     "date": "2026-09-25",
-     "source": "The Astronomical Journal",
-     "summary": "Спектральный анализ молодого аналога Юпитера показал обогащение серой и другими элементами, указывая на значительное захватывание твёрдого материала при формировании планеты.",
-     "topic": "Атмосферы экзопланет",
-     "new": false
+     "id": "W7140103527",
+     "title": "Cislunar state and uncertainty propagation via the modified generalized equinoctial orbital elements",
+     "url": "https://doi.org/10.1007/s10569-026-10333-y",
+     "date": "2026-09-26",
+     "source": "Celestial Mechanics and Dynamical Astronomy",
+     "summary": "Разработан метод отслеживания космических аппаратов в окололунном пространстве с использованием модифицированных орбитальных элементов и оценки неопределённостей.",
+     "topic": "Динамика космических аппаратов",
+     "new": true
     },
     {
-     "id": "W7214316972",
-     "title": "The Thirsty Century: A Contemporary Synthesis Review of Global Water Scarcity and the Geography of the Blue Water Economy",
-     "url": "https://doi.org/10.5281/zenodo.22957488",
-     "date": "2026-09-25",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
-     "topic": "Глобальный дефицит воды",
-     "new": false
+     "id": "W7214366582",
+     "title": "Uncertainties of GRACE/GRACE-FO Satellite Gravimetry Data and Thereof Derived Products",
+     "url": "https://doi.org/10.1007/s10712-026-09959-2",
+     "date": "2026-09-26",
+     "source": "Surveys in Geophysics",
+     "summary": "Проанализированы источники ошибок и методы оценки неопределённостей при обработке данных спутниковой гравиметрии миссий GRACE и GRACE-FO.",
+     "topic": "Спутниковая гравиметрия",
+     "new": true
     },
     {
-     "id": "W7214396884",
-     "title": "The Thirsty Century: A Contemporary Synthesis Review of Global Water Scarcity and the Geography of the Blue Water Economy",
-     "url": "https://doi.org/10.5281/zenodo.22957489",
-     "date": "2026-09-25",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор глобального дефицита пресной воды и её экономики показывает, что нехватка воды определяется не только физическими, но и экономическими факторами, включая международную торговлю.",
-     "topic": "Глобальный дефицит воды",
-     "new": false
+     "id": "W7214424246",
+     "title": "The Body as a Bridge Between Earth and Mars: Tai Chi Culture and the Human Art of Space Adaptation",
+     "url": "https://doi.org/10.57612/js26.jts.05.07",
+     "date": "2026-09-26",
+     "source": "Journal of Taiji Science",
+     "summary": "Предложена методика использования практик тайцзи для адаптации космонавтов к длительному космическому полёту и сохранения физического и психического здоровья.",
+     "topic": "Адаптация к космическому полёту",
+     "new": true
     },
     {
-     "id": "W7161139483",
-     "title": "Assessing foundational atomistic models for iron alloys under Earth's core conditions",
-     "url": "https://doi.org/10.1103/vsf5-3pvf",
-     "date": "2026-09-24",
-     "source": "Physical Review Materials",
-     "summary": "Проверили способность современных атомистических моделей описывать железные сплавы в экстремальных условиях земного ядра и выявили ограничения из-за отсутствия учёта электронных эффектов.",
-     "topic": "Материалы земного ядра",
-     "new": false
+     "id": "W7214429425",
+     "title": "Modeling Storm‐Time Post‐Midnight Equatorial Plasma Bubbles With SAMI3‐WACCMX: Impacts of Neutral Winds, Thermospheric Composition, and Atmospheric Waves",
+     "url": "https://doi.org/10.1029/2026gl125685",
+     "date": "2026-09-26",
+     "source": "Geophysical Research Letters",
+     "summary": "Моделирование показало, что электрические поля и термосферный состав определяют образование ионосферных пузырьков в период магнитной бури.",
+     "topic": "Динамика ионосферы",
+     "new": true
     }
    ]
   },
@@ -118,54 +118,54 @@
    "query": "sleep quality",
    "items": [
     {
-     "id": "W4403322150",
-     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
-     "url": "https://doi.org/10.1038/s41746-026-03104-4",
-     "date": "2026-09-25",
-     "source": "npj Digital Medicine",
-     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
-     "topic": "ИИ в медицине",
-     "new": false
+     "id": "W7214528749",
+     "title": "Spiritual Neglect in the Digital Age: Its Impact on Religious Discipline and Students’ Motivation to Learn",
+     "url": "https://doi.org/10.59188/eduvest.v6i9.53345",
+     "date": "2026-09-28",
+     "source": "Eduvest - Journal Of Universal Studies",
+     "summary": "Исследование показало, что чрезмерное использование гаджетов во время каникул снижает качество молитвы и учебной мотивации студентов, но интернат помогает восстановить духовный режим.",
+     "topic": "Духовность в цифровую эпоху",
+     "new": true
     },
     {
-     "id": "W7214178717",
-     "title": "Is compliance with the 3-30-300 rule associated with subjective citizens' well-being?",
-     "url": "https://doi.org/10.1016/j.jenvman.2026.131016",
-     "date": "2026-09-25",
-     "source": "Journal of Environmental Management",
-     "summary": "Изучили связь правила 3-30-300 (деревья и зелень у дома) с благополучием людей в городе и нашли улучшение психического здоровья и сна.",
-     "topic": "Озеленение и благополучие",
-     "new": false
+     "id": "W7214543603",
+     "title": "Association of platelet-rich plasma combined with dorsal root ganglion-targeted pulsed radiofrequency with outcomes in subacute thoracic herpes zoster neuralgia: a retrospective cohort study",
+     "url": "https://doi.org/10.3389/fneur.2026.1833755",
+     "date": "2026-09-28",
+     "source": "Frontiers in Neurology",
+     "summary": "Плазма, обогащённая тромбоцитами, в комбинации с радиочастотой лучше снимает боль при опоясывающем лишае и улучшает сон у пациентов.",
+     "topic": "Лечение герпеса зостер",
+     "new": true
     },
     {
-     "id": "W7214273888",
-     "title": "Neuropharmacological Effects of Chamomile (Matricaria chamomilla L.) and its Role in Supporting Mental Health: A Review of Molecular Mechanisms and Clinical Evidence",
-     "url": "https://doi.org/10.59992/ijesa.2026.v5n9p15",
-     "date": "2026-09-25",
-     "source": "International Journal of Educational Sciences and Arts",
-     "summary": "Рассмотрели механизмы действия ромашки на мозг и показали её эффективность при тревоге и нарушениях сна.",
-     "topic": "Ромашка и психическое здоровье",
-     "new": false
+     "id": "W7214549752",
+     "title": "Effectiveness of Infra-Low Frequency Neurofeedback on Postconcussion Symptoms in Combat Veterans: Results of a Delayed Intervention Analysis",
+     "url": "https://doi.org/10.15540/nr.13.3.239",
+     "date": "2026-09-28",
+     "source": "NeuroRegulation",
+     "summary": "Нейрообратная связь на низких частотах эффективно уменьшает головные боли, проблемы со сном и вниманием у ветеранов после травм мозга.",
+     "topic": "Нейрообратная связь и травмы",
+     "new": true
     },
     {
-     "id": "W7214275222",
-     "title": "Empowering a first-time mother through postnatal education is not just teaching newborn care—it is nurturing confidence, protecting a precious life, and building a healthier future for generations",
-     "url": "https://doi.org/10.5281/zenodo.22955996",
-     "date": "2026-09-25",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обобщили доказательства эффективности послеродового обучения молодых матерей для повышения их уверенности в уходе за новорождённым.",
-     "topic": "Послеродовое образование матерей",
-     "new": false
+     "id": "W7214520882",
+     "title": "Factors associated with surgical outcomes following maxillomandibular advancement for obstructive sleep apnea: a systematic review and exploratory meta-analysis",
+     "url": "https://doi.org/10.1038/s41598-026-72965-2",
+     "date": "2026-09-27",
+     "source": "Scientific Reports",
+     "summary": "Молодой возраст и благоприятная анатомия дыхательных путей связаны с лучшими результатами хирургического лечения апноэ во сне.",
+     "topic": "Хирургия апноэ сна",
+     "new": true
     },
     {
-     "id": "W7214281737",
-     "title": "Quality of life after septoplasty in patients with nasal obstruction – a prospective observational study",
-     "url": "https://doi.org/10.18203/issn.2454-5929.ijohns20263386",
-     "date": "2026-09-25",
-     "source": "International Journal of Otorhinolaryngology and Head and Neck Surgery",
-     "summary": "Оценили улучшение качества жизни пациентов после операции на носовой перегородке и подтвердили эффективность септопластики.",
-     "topic": "Септопластика и дыхание",
-     "new": false
+     "id": "W7214527102",
+     "title": "Eudynamic bioethics",
+     "url": "https://doi.org/10.1007/s11019-026-10404-9",
+     "date": "2026-09-27",
+     "source": "Medicine Health Care and Philosophy",
+     "summary": "Предложена новая биоэтическая концепция эудинамии, которая предполагает сохранение многогранности жизни при медицинских решениях.",
+     "topic": "Биоэтика и жизнь",
+     "new": true
     }
    ]
   },
@@ -174,54 +174,54 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W7213702867",
-     "title": "Not Merely a Workaround: Theorizing Asynchronous Math Talks as a Robust Instructional Routine for Visible Thinking, Participation, and Engagement in Mathematics Teacher Education",
-     "url": "https://pdxscholar.library.pdx.edu/open_access_etds/7222",
-     "date": "2026-09-27",
-     "source": "PDXScholar  (Portland State University)",
-     "summary": "Исследованы асинхронные математические беседы как метод обучения, который делает мышление студентов видимым и повышает участие в онлайн-образовании.",
-     "topic": "Преподавание математики онлайн",
+     "id": "W7203985086",
+     "title": "Two-Dimensional Surface Geometry of Photons and Energy Localization Based on the Equivalent Source Wave Equation",
+     "url": "https://doi.org/10.5281/zenodo.22056991",
+     "date": "2026-09-28",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Показано, что фотоны имеют двумерную геометрию поверхности и получено классическое объяснение квантизации света в рамках электромагнетизма.",
+     "topic": "Геометрия фотонов",
      "new": true
     },
     {
-     "id": "W7213998156",
-     "title": "Admissible Determination",
-     "url": "https://doi.org/10.5281/zenodo.22884849",
-     "date": "2026-09-27",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработана теория представления данных, которая сохраняет только важные различия для достижения поставленной цели.",
-     "topic": "Теория представления данных",
+     "id": "W7211892191",
+     "title": "Partial Extended b-Metric Space and Some Fixed Point Theorems",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.42921",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Введено обобщение b-метрического пространства и доказаны теоремы о существовании неподвижных точек в новой структуре.",
+     "topic": "Теория метрических пространств",
      "new": true
     },
     {
-     "id": "W7214327857",
-     "title": "How Much of a Thing Must Remain the Same? Burden-Relative Preservation, Support, Identity, and the Boundary of Reditus",
-     "url": "https://doi.org/10.5281/zenodo.22948821",
-     "date": "2026-09-27",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Сформулирована математическая теория того, какие характеристики объекта должны сохраняться в зависимости от его функции и назначения.",
-     "topic": "Философия идентичности и изменения",
+     "id": "W7212183753",
+     "title": "Delay Tolerance Thresholds and Natural Recovery in a Fork-Join Production System over Max-Plus Algebra",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.45031",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Исследованы пороги устойчивости к задержкам в производственной системе с использованием max-plus алгебры.",
+     "topic": "Теория систем с задержками",
      "new": true
     },
     {
-     "id": "W7154139762",
-     "title": "A Temporal-Spatial Balloon Universe: A New Conceptual Primitive for Gravity and a Global Cosmological Model that Dissolves the Principal Paradoxes of ΛCDM",
-     "url": "https://doi.org/10.5281/zenodo.19550473",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Предложена новая космологическая модель на основе геометрии пространства, которая объясняет парадоксы стандартной модели без тёмной энергии и инфляции.",
-     "topic": "Космология и гравитация",
-     "new": false
+     "id": "W7212435982",
+     "title": "A Comparative Study of Univariate and Bivariate Logistic Regression on Hypertension and Obesity",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.43020",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Сравнены методы логистической регрессии для одновременного моделирования гипертонии и ожирения с учётом их взаимосвязи.",
+     "topic": "Статистическое моделирование",
+     "new": true
     },
     {
-     "id": "W7214284779",
-     "title": "Geology as Closure, Frontier and Record: A Bottom-Up Account of Earth Materials and Processes, with Convergences to Superstatistics, Stratigraphic Incompleteness and the Great Unconformity",
-     "url": "https://doi.org/10.5281/zenodo.22968484",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработана единая геометрическая основа для описания геологических процессов и показана связь с суперстатистикой и стратиграфическими закономерностями.",
-     "topic": "Геология и геофизика",
-     "new": false
+     "id": "W7213531926",
+     "title": "Determining Logistics Route Capacity Using Maximal Solutions of Two-Sided Max-Min Linear System with Python Implementation",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.44534",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Реализован алгоритм решения систем в max-min алгебре для определения оптимальных мощностей логистических маршрутов.",
+     "topic": "Оптимизация логистических сетей",
+     "new": true
     }
    ]
   },
@@ -230,54 +230,54 @@
    "query": "computer science and algorithms",
    "items": [
     {
-     "id": "W7108448526",
-     "title": "Absolute Geometric Confinement of P ≠ NP: Bypassing the Relativization, Natural Proofs, and Algebrization Barriers via STCT Master Action",
-     "url": "https://doi.org/10.5281/zenodo.17796298",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
-     "topic": "P versus NP проблема",
-     "new": false
+     "id": "W2964121744",
+     "title": "AutoResearch Lite: a reproducible paper-inspired experiment runner (Adam mechanism reproduction and convergence-speed comparison)",
+     "url": "https://doi.org/10.5281/zenodo.23003626",
+     "date": "2026-09-28",
+     "source": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
+     "summary": "Создали воспроизводимый инструмент для экспериментов и сравнили оптимизаторы Adam, SGD, AdaGrad и RMSProp на скорость сходимости.",
+     "topic": "Оптимизаторы нейронных сетей",
+     "new": true
     },
     {
-     "id": "W7214395913",
-     "title": "Absolute Geometric Confinement of P ≠ NP: Bypassing the Relativization, Natural Proofs, and Algebrization Barriers via STCT Master Action",
-     "url": "https://doi.org/10.5281/zenodo.22963614",
-     "date": "2026-09-26",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Авторы используют квантовую теорию и топологию, чтобы доказать P ≠ NP через геометрические свойства фазового пространства.",
-     "topic": "P versus NP проблема",
-     "new": false
+     "id": "W7212183753",
+     "title": "Delay Tolerance Thresholds and Natural Recovery in a Fork-Join Production System over Max-Plus Algebra",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.45031",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Исследовали допустимые задержки и восстановление в системе обработки с параллельными серверами, используя алгебру максимума-плюса.",
+     "topic": "Системы массового обслуживания",
+     "new": true
     },
     {
-     "id": "W4399991192",
-     "title": "Critical point representation of the mutual information in the sparse stochastic block model",
-     "url": "https://doi.org/10.1214/26-aap2320",
-     "date": "2026-09-25",
-     "source": "The Annals of Applied Probability",
-     "summary": "Представили взаимную информацию в блочной модели через функционал в критической точке для восстановления структуры сообществ в сетях.",
-     "topic": "Анализ сетевых сообществ",
-     "new": false
+     "id": "W7213551129",
+     "title": "Spatial Dependence and Co-Kriging Prediction of Stunting Prevalence Using the Linear Model of Coregionalization",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.44312",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Изучили пространственные закономерности недостаточного питания у детей в Индонезии и предсказали распространённость по провинциям.",
+     "topic": "Геостатистика здоровья",
+     "new": true
     },
     {
-     "id": "W4402703550",
-     "title": "MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair",
-     "url": "https://doi.org/10.1007/s10664-026-10943-y",
-     "date": "2026-09-25",
-     "source": "Empirical Software Engineering",
-     "summary": "Исследовали эффективность объединения специализированных адаптеров языковых моделей для улучшения автоматического исправления программного кода.",
-     "topic": "Обработка программного кода",
-     "new": false
+     "id": "W7213555971",
+     "title": "Randomness Test of LightMAC-Based Pseudorandom Number Generator (PRNG) with NIST SP 800-22 Revision 1A Test",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.43424",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Разработали лёгкий генератор псевдослучайных чисел на основе LightMAC и проверили его статистические свойства.",
+     "topic": "Криптографические генераторы",
+     "new": true
     },
     {
-     "id": "W4403322150",
-     "title": "LEME: open large language models for ophthalmology with advanced reasoning and clinical validation",
-     "url": "https://doi.org/10.1038/s41746-026-03104-4",
-     "date": "2026-09-25",
-     "source": "npj Digital Medicine",
-     "summary": "Разработали языковую модель для офтальмологии с обучением на клинических данных, превзошедшую базовые модели на медицинских бенчмарках.",
-     "topic": "ИИ в медицине",
-     "new": false
+     "id": "W7214477342",
+     "title": "Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data",
+     "url": "https://doi.org/10.18860/cauchy.v11i2.39670",
+     "date": "2026-09-28",
+     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
+     "summary": "Применили методы бустинга для выявления уязвимых детей, не посещающих школу, на дисбалансированных данных.",
+     "topic": "Классификация дисбалансированных данных",
+     "new": true
     }
    ]
   }
