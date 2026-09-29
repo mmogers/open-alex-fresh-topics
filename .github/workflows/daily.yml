@@ -1,34 +1,67 @@
 name: Ежедневный дайджест
 
+# GitHub запускает cron с опозданием, иногда на несколько часов. Поэтому стартуем
+# заранее с тремя попытками (время UTC), ждём до 9:00 по Риге и шлём один раз в день.
+# Часовой пояс Europe/Riga сам учитывает летнее/зимнее время.
 on:
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "47 1 * * *"
+    - cron: "17 3 * * *"
+    - cron: "47 4 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - name: Подождать до 9:00 по Риге
+        if: github.event_name == 'schedule'
+        run: |
+          target=$(TZ=Europe/Riga date -d "today 09:00" +%s)
+          now=$(date +%s)
+          if [ "$now" -lt "$target" ]; then
+            echo "Жду $(( (target - now) / 60 )) мин."
+            sleep $(( target - now ))
+          fi
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - name: Уже отправлено сегодня?
+        id: check
+        run: |
+          today=$(TZ=Europe/Riga date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && git log --since="36 hours ago" --format=%s | grep -qx "Обновление $today"; then
+            echo "Сегодня ($today) уже отправлено, пропускаю."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.skip != 'true'
         with:
           python-version: "3.12"
       - name: Статьи → резюме → data.json → письмо
+        if: steps.check.outputs.skip != 'true'
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          TZ: Europe/Riga
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python scripts/update.py
       - name: Сохранить data.json
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "digest-bot"
           git config user.email "digest-bot@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || git commit -m "Обновление $(date -u +%F)"
+          git diff --staged --quiet || git commit -m "Обновление $(TZ=Europe/Riga date +%F)"
+          git pull --rebase
           git push
