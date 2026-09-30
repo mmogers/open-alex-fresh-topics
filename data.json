@@ -1,59 +1,59 @@
 {
- "updated": "2026-09-29T11:21+00:00",
+ "updated": "2026-09-30T11:09+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7213551129",
-     "title": "Spatial Dependence and Co-Kriging Prediction of Stunting Prevalence Using the Linear Model of Coregionalization",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.44312",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Изучили пространственные закономерности недостаточного питания у детей в Индонезии и предсказали распространённость по провинциям.",
-     "topic": "Геостатистика здоровья",
-     "new": false
+     "id": "W7167329067",
+     "title": "Understanding workplace peer support among healthcare assistants providing palliative and end-of-life care at home: a realist review",
+     "url": "https://doi.org/10.1177/02692163261455",
+     "date": "2026-09-30",
+     "source": "Ulster University Research Portal (Ulster University)",
+     "summary": "Исследовали, как поддержка коллег помогает медицинским помощникам справляться с эмоциональным стрессом при уходе на дому в конце жизни.",
+     "topic": "Поддержка медицинских работников",
+     "new": true
     },
     {
-     "id": "W7214477342",
-     "title": "Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.39670",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Применили методы бустинга для выявления уязвимых детей, не посещающих школу, на дисбалансированных данных.",
-     "topic": "Классификация дисбалансированных данных",
-     "new": false
+     "id": "W7212118491",
+     "title": "Bridging the Education–Employment Gap under NEP 2020: AI Literacy, Communication Competence, and Work-Integrated Learning for Graduate Employability",
+     "url": "https://doi.org/10.5281/zenodo.22683949",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Предложили интегрировать ИИ-грамотность, коммуникацию и практику работы в образование для улучшения трудоустройства выпускников.",
+     "topic": "Образование и трудоустройство",
+     "new": true
     },
     {
-     "id": "W7214521581",
-     "title": "Reassessing the Role of Offline Teachers in the Era of Online Learning: In the context of India’s National Education Policy 2020",
-     "url": "https://doi.org/10.31235/osf.io/43q92_v1",
-     "date": "2026-09-28",
-     "source": "",
-     "summary": "Проанализировали роль учителей в онлайн-образовании и предложили гибридный подход, сочетающий онлайн и очное обучение для лучших результатов.",
-     "topic": "Онлайн и смешанное обучение",
-     "new": false
+     "id": "W7212173921",
+     "title": "Bridging the Education–Employment Gap under NEP 2020: AI Literacy, Communication Competence, and Work-Integrated Learning for Graduate Employability",
+     "url": "https://doi.org/10.5281/zenodo.22683948",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Предложили интегрировать ИИ-грамотность, коммуникацию и практику работы в образование для улучшения трудоустройства выпускников.",
+     "topic": "Образование и трудоустройство",
+     "new": true
     },
     {
-     "id": "W7214523577",
-     "title": "The effect of project-based learning on students’ motivation in school-based physical Education and behavioral intention toward sport participation: a theoretical and empirical perspective in educational sport contexts",
-     "url": "https://doi.org/10.3389/fpsyg.2026.1915768",
-     "date": "2026-09-28",
-     "source": "Frontiers in Psychology",
-     "summary": "Показали, что проектное обучение повышает мотивацию и намерение учащихся к спорту лучше, чем традиционное преподавание физкультуры.",
-     "topic": "Проектное обучение и мотивация",
-     "new": false
+     "id": "W7212364448",
+     "title": "Implementation of National Education Policy 2020: Challenges and Opportunities",
+     "url": "https://doi.org/10.5281/zenodo.22723939",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Проанализировали реализацию индийской реформы образования 2020: достигнут прогресс в учителях и инфраструктуре, но остаются проблемы доступа.",
+     "topic": "Образовательная реформа в Индии",
+     "new": true
     },
     {
-     "id": "W7214539956",
-     "title": "Evaluating a service-learning program: benefits of integrating medical students into school cancer education on teaching skills and cancer knowledge",
-     "url": "https://doi.org/10.1186/s12909-026-10473-7",
-     "date": "2026-09-28",
-     "source": "BMC Medical Education",
-     "summary": "Доказали, что участие медицинских студентов в школьных программах по онкологии улучшает их педагогические навыки и знания о раке.",
-     "topic": "Сервис-обучение в медицине",
-     "new": false
+     "id": "W7212374168",
+     "title": "Implementation of National Education Policy 2020: Challenges and Opportunities",
+     "url": "https://doi.org/10.5281/zenodo.22723940",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Проанализировали реализацию индийской реформы образования 2020: достигнут прогресс в учителях и инфраструктуре, но остаются проблемы доступа.",
+     "topic": "Образовательная реформа в Индии",
+     "new": true
     }
    ]
   },
@@ -62,54 +62,54 @@
    "query": "earth planetary science",
    "items": [
     {
-     "id": "W7214527102",
-     "title": "Eudynamic bioethics",
-     "url": "https://doi.org/10.1007/s11019-026-10404-9",
-     "date": "2026-09-27",
-     "source": "Medicine Health Care and Philosophy",
-     "summary": "Предложена новая биоэтическая концепция эудинамии, которая предполагает сохранение многогранности жизни при медицинских решениях.",
-     "topic": "Биоэтика и жизнь",
-     "new": false
+     "id": "W7117156764",
+     "title": "Hydrothermal origin of metabolic phosphorylation",
+     "url": "https://doi.org/10.1111/febs.70737",
+     "date": "2026-09-29",
+     "source": "FEBS Journal",
+     "summary": "Палладий в гидротермальных системах катализирует окисление фосфита, создавая активный промежуточный продукт, который фосфорилирует органические молекулы и образует энергетические соединения.",
+     "topic": "Происхождение метаболизма",
+     "new": true
     },
     {
-     "id": "W7140103527",
-     "title": "Cislunar state and uncertainty propagation via the modified generalized equinoctial orbital elements",
-     "url": "https://doi.org/10.1007/s10569-026-10333-y",
-     "date": "2026-09-26",
-     "source": "Celestial Mechanics and Dynamical Astronomy",
-     "summary": "Разработан метод отслеживания космических аппаратов в окололунном пространстве с использованием модифицированных орбитальных элементов и оценки неопределённостей.",
-     "topic": "Динамика космических аппаратов",
-     "new": false
+     "id": "W7203869023",
+     "title": "Discovery of Three Glitches in the Previously Quiet Pulsar PSR J1637–4642",
+     "url": "https://doi.org/10.3847/1538-4357/ae9cac",
+     "date": "2026-09-29",
+     "source": "The Astrophysical Journal",
+     "summary": "Обнаружены три скачка вращения у пульсара PSR J1637−4642, подтверждающие модель сверхтекучести нейтронной звезды и её внутреннего строения.",
+     "topic": "Пульсары и нейтронные звёзды",
+     "new": true
     },
     {
-     "id": "W7214366582",
-     "title": "Uncertainties of GRACE/GRACE-FO Satellite Gravimetry Data and Thereof Derived Products",
-     "url": "https://doi.org/10.1007/s10712-026-09959-2",
-     "date": "2026-09-26",
-     "source": "Surveys in Geophysics",
-     "summary": "Проанализированы источники ошибок и методы оценки неопределённостей при обработке данных спутниковой гравиметрии миссий GRACE и GRACE-FO.",
-     "topic": "Спутниковая гравиметрия",
-     "new": false
+     "id": "W7203899011",
+     "title": "The Effects of M Star Age-dependent Ultraviolet Emission on Detecting and Interpreting Exoplanet Biosignatures",
+     "url": "https://doi.org/10.3847/1538-4357/ae994a",
+     "date": "2026-09-29",
+     "source": "The Astrophysical Journal",
+     "summary": "Молодые красные карлики производят больше УФ-излучения, что изменяет химический состав атмосфер экзопланет и может привести к неправильной интерпретации биосигнатур.",
+     "topic": "Атмосферы экзопланет",
+     "new": true
     },
     {
-     "id": "W7214424246",
-     "title": "The Body as a Bridge Between Earth and Mars: Tai Chi Culture and the Human Art of Space Adaptation",
-     "url": "https://doi.org/10.57612/js26.jts.05.07",
-     "date": "2026-09-26",
-     "source": "Journal of Taiji Science",
-     "summary": "Предложена методика использования практик тайцзи для адаптации космонавтов к длительному космическому полёту и сохранения физического и психического здоровья.",
-     "topic": "Адаптация к космическому полёту",
-     "new": false
+     "id": "W7214582456",
+     "title": "Why international law is failing as a discipline: Geopolitics, legality without order, and the limits of cartographic vision",
+     "url": "https://doi.org/10.1017/s0922156526100983",
+     "date": "2026-09-29",
+     "source": "Leiden Journal of International Law",
+     "summary": "Международное право теряет общественное доверие, так как правовые полномочия перешли в скрытые операционные системы, которые дисциплина не может адекватно анализировать.",
+     "topic": "Международное право",
+     "new": true
     },
     {
-     "id": "W7214429425",
-     "title": "Modeling Storm‐Time Post‐Midnight Equatorial Plasma Bubbles With SAMI3‐WACCMX: Impacts of Neutral Winds, Thermospheric Composition, and Atmospheric Waves",
-     "url": "https://doi.org/10.1029/2026gl125685",
-     "date": "2026-09-26",
-     "source": "Geophysical Research Letters",
-     "summary": "Моделирование показало, что электрические поля и термосферный состав определяют образование ионосферных пузырьков в период магнитной бури.",
-     "topic": "Динамика ионосферы",
-     "new": false
+     "id": "W7214636364",
+     "title": "Assessing tipping-point risk in carbon dioxide removal with a network-based framework",
+     "url": "https://doi.org/10.20517/cf.2026.70",
+     "date": "2026-09-29",
+     "source": "Carbon Footprints",
+     "summary": "Сетевой анализ показывает, какие стратегии удаления углекислого газа рискуют перейти в альтернативное равновесие и удалять меньше CO₂, чем ожидается.",
+     "topic": "Удаление углерода из атмосферы",
+     "new": true
     }
    ]
   },
@@ -118,54 +118,54 @@
    "query": "sleep quality",
    "items": [
     {
-     "id": "W7214528749",
-     "title": "Spiritual Neglect in the Digital Age: Its Impact on Religious Discipline and Students’ Motivation to Learn",
-     "url": "https://doi.org/10.59188/eduvest.v6i9.53345",
-     "date": "2026-09-28",
-     "source": "Eduvest - Journal Of Universal Studies",
-     "summary": "Исследование показало, что чрезмерное использование гаджетов во время каникул снижает качество молитвы и учебной мотивации студентов, но интернат помогает восстановить духовный режим.",
-     "topic": "Духовность в цифровую эпоху",
-     "new": false
+     "id": "W7212388199",
+     "title": "Digital Transformation of Teacher Education under Vikshit Bharat @2047",
+     "url": "https://doi.org/10.5281/zenodo.22721418",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Исследование показывает, как цифровизация преобразует подготовку учителей в Индии через новые платформы и технологии, но требует баланса между инновациями и ответственностью.",
+     "topic": "Цифровизация образования учителей",
+     "new": true
     },
     {
-     "id": "W7214543603",
-     "title": "Association of platelet-rich plasma combined with dorsal root ganglion-targeted pulsed radiofrequency with outcomes in subacute thoracic herpes zoster neuralgia: a retrospective cohort study",
-     "url": "https://doi.org/10.3389/fneur.2026.1833755",
-     "date": "2026-09-28",
-     "source": "Frontiers in Neurology",
-     "summary": "Плазма, обогащённая тромбоцитами, в комбинации с радиочастотой лучше снимает боль при опоясывающем лишае и улучшает сон у пациентов.",
-     "topic": "Лечение герпеса зостер",
-     "new": false
+     "id": "W7212403002",
+     "title": "Digital Transformation of Teacher Education under Vikshit Bharat @2047",
+     "url": "https://doi.org/10.5281/zenodo.22721417",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Исследование показывает, как цифровизация преобразует подготовку учителей в Индии через новые платформы и технологии, но требует баланса между инновациями и ответственностью.",
+     "topic": "Цифровизация образования учителей",
+     "new": true
     },
     {
-     "id": "W7214549752",
-     "title": "Effectiveness of Infra-Low Frequency Neurofeedback on Postconcussion Symptoms in Combat Veterans: Results of a Delayed Intervention Analysis",
-     "url": "https://doi.org/10.15540/nr.13.3.239",
-     "date": "2026-09-28",
-     "source": "NeuroRegulation",
-     "summary": "Нейрообратная связь на низких частотах эффективно уменьшает головные боли, проблемы со сном и вниманием у ветеранов после травм мозга.",
-     "topic": "Нейрообратная связь и травмы",
-     "new": false
+     "id": "W7213842044",
+     "title": "Pengaruh intensitas screentime dan kualitas konten terhadap perkembangan bahasa anak usia dini (3–6 tahun)",
+     "url": "http://repository.uin-malang.ac.id/28944/1/28944.pdf",
+     "date": "2026-09-30",
+     "source": "Research Repository Universitas Islam Negeri Maulana Malik Ibrahim (University of Southampton)",
+     "summary": "Исследование установило, что качество контента влияет на развитие речи детей 3-6 лет больше, чем время экранного времени.",
+     "topic": "Экраны и развитие речи ребёнка",
+     "new": true
     },
     {
-     "id": "W7214520882",
-     "title": "Factors associated with surgical outcomes following maxillomandibular advancement for obstructive sleep apnea: a systematic review and exploratory meta-analysis",
-     "url": "https://doi.org/10.1038/s41598-026-72965-2",
-     "date": "2026-09-27",
-     "source": "Scientific Reports",
-     "summary": "Молодой возраст и благоприятная анатомия дыхательных путей связаны с лучшими результатами хирургического лечения апноэ во сне.",
-     "topic": "Хирургия апноэ сна",
-     "new": false
+     "id": "W7214584770",
+     "title": "Students will examine the relationship between sleep quality and cognitive performance.Students will explore the association between sleep quality and cognitive functioning.",
+     "url": "https://doi.org/10.5281/zenodo.23011288",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Обзор подтвердил связь между плохим сном и дефицитом когнитивных функций, включая память и внимание.",
+     "topic": "Сон и когнитивные функции",
+     "new": true
     },
     {
-     "id": "W7214527102",
-     "title": "Eudynamic bioethics",
-     "url": "https://doi.org/10.1007/s11019-026-10404-9",
-     "date": "2026-09-27",
-     "source": "Medicine Health Care and Philosophy",
-     "summary": "Предложена новая биоэтическая концепция эудинамии, которая предполагает сохранение многогранности жизни при медицинских решениях.",
-     "topic": "Биоэтика и жизнь",
-     "new": false
+     "id": "W7214634489",
+     "title": "Students will examine the relationship between sleep quality and cognitive performance.Students will explore the association between sleep quality and cognitive functioning.",
+     "url": "https://doi.org/10.5281/zenodo.23011289",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Обзор подтвердил связь между плохим сном и дефицитом когнитивных функций, включая память и внимание.",
+     "topic": "Сон и когнитивные функции",
+     "new": true
     }
    ]
   },
@@ -174,54 +174,54 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W7203985086",
-     "title": "Two-Dimensional Surface Geometry of Photons and Energy Localization Based on the Equivalent Source Wave Equation",
-     "url": "https://doi.org/10.5281/zenodo.22056991",
-     "date": "2026-09-28",
+     "id": "W4394007245",
+     "title": "Delaunay Weighted Two-sample Test for High-dimensional Data by Incorporating Geometric Information",
+     "url": "https://doi.org/10.5705/ss.202025.0280",
+     "date": "2026-09-30",
+     "source": "Statistica Sinica",
+     "summary": "Разработан новый тест для сравнения многомерных данных с использованием геометрической информации через триангуляцию Делоне.",
+     "topic": "Статистическое тестирование данных",
+     "new": true
+    },
+    {
+     "id": "W7165171621",
+     "title": "Assessing the estimands and estimates of hospitalization rates in health economics and clinical medicine",
+     "url": "https://doi.org/10.1002/hec.70117",
+     "date": "2026-09-30",
+     "source": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+     "summary": "Оценены методы измерения госпитализации и показано, что стандартные показатели могут быть чувствительны к составу пациентов.",
+     "topic": "Показатели здравоохранения",
+     "new": true
+    },
+    {
+     "id": "W7168439746",
+     "title": "A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayer",
+     "url": "https://eprints.lancs.ac.uk/id/eprint/238396/3/Postprint_IPL_interactions_Biosystems_R2p.pdf",
+     "date": "2026-09-30",
+     "source": "Lancaster EPrints (Lancaster University)",
+     "summary": "Предложена модель механического взаимодействия клеток при коллективной миграции эпителия с учетом энергии и вязкоупругости.",
+     "topic": "Механика клеточной миграции",
+     "new": true
+    },
+    {
+     "id": "W7212270403",
+     "title": "Mathematical-Physical Intelligence for Viksit Bharat @2047",
+     "url": "https://doi.org/10.5281/zenodo.22707342",
+     "date": "2026-09-30",
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Показано, что фотоны имеют двумерную геометрию поверхности и получено классическое объяснение квантизации света в рамках электромагнетизма.",
-     "topic": "Геометрия фотонов",
-     "new": false
+     "summary": "Предложена рамка интеграции математики, физики и ИИ для развития Индии к 2047 году.",
+     "topic": "ИИ и устойчивое развитие",
+     "new": true
     },
     {
-     "id": "W7211892191",
-     "title": "Partial Extended b-Metric Space and Some Fixed Point Theorems",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.42921",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Введено обобщение b-метрического пространства и доказаны теоремы о существовании неподвижных точек в новой структуре.",
-     "topic": "Теория метрических пространств",
-     "new": false
-    },
-    {
-     "id": "W7212183753",
-     "title": "Delay Tolerance Thresholds and Natural Recovery in a Fork-Join Production System over Max-Plus Algebra",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.45031",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Исследовали допустимые задержки и восстановление в системе обработки с параллельными серверами, используя алгебру максимума-плюса.",
-     "topic": "Системы массового обслуживания",
-     "new": false
-    },
-    {
-     "id": "W7212435982",
-     "title": "A Comparative Study of Univariate and Bivariate Logistic Regression on Hypertension and Obesity",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.43020",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Сравнены методы логистической регрессии для одновременного моделирования гипертонии и ожирения с учётом их взаимосвязи.",
-     "topic": "Статистическое моделирование",
-     "new": false
-    },
-    {
-     "id": "W7213531926",
-     "title": "Determining Logistics Route Capacity Using Maximal Solutions of Two-Sided Max-Min Linear System with Python Implementation",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.44534",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Реализован алгоритм решения систем в max-min алгебре для определения оптимальных мощностей логистических маршрутов.",
-     "topic": "Оптимизация логистических сетей",
-     "new": false
+     "id": "W7212270453",
+     "title": "Mathematical-Physical Intelligence for Viksit Bharat @2047",
+     "url": "https://doi.org/10.5281/zenodo.22707343",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Предложена рамка интеграции математики, физики и ИИ для развития Индии к 2047 году.",
+     "topic": "ИИ и устойчивое развитие",
+     "new": true
     }
    ]
   },
@@ -230,54 +230,54 @@
    "query": "computer science and algorithms",
    "items": [
     {
-     "id": "W2964121744",
-     "title": "AutoResearch Lite: a reproducible paper-inspired experiment runner (Adam mechanism reproduction and convergence-speed comparison)",
-     "url": "https://doi.org/10.5281/zenodo.23003626",
-     "date": "2026-09-28",
-     "source": "DROPS (Schloss Dagstuhl – Leibniz Center for Informatics)",
-     "summary": "Создали воспроизводимый инструмент для экспериментов и сравнили оптимизаторы Adam, SGD, AdaGrad и RMSProp на скорость сходимости.",
-     "topic": "Оптимизаторы нейронных сетей",
-     "new": false
+     "id": "W7168439746",
+     "title": "A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayer",
+     "url": "https://eprints.lancs.ac.uk/id/eprint/238396/3/Postprint_IPL_interactions_Biosystems_R2p.pdf",
+     "date": "2026-09-30",
+     "source": "Lancaster EPrints (Lancaster University)",
+     "summary": "Разработана модель взаимодействия клеток в эпителии, показывающая, как их столкновения влияют на вязкоупругость ткани и коллективную миграцию.",
+     "topic": "Механика эпителиальных клеток",
+     "new": true
     },
     {
-     "id": "W7212183753",
-     "title": "Delay Tolerance Thresholds and Natural Recovery in a Fork-Join Production System over Max-Plus Algebra",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.45031",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Исследовали допустимые задержки и восстановление в системе обработки с параллельными серверами, используя алгебру максимума-плюса.",
-     "topic": "Системы массового обслуживания",
-     "new": false
+     "id": "W7213841893",
+     "title": "Комплексная ресурсно-экологическая оценка возможности утилизации техногенных отходов",
+     "url": "https://pmi.spmi.ru/pmi/article/view/16959",
+     "date": "2026-09-30",
+     "source": "Journal of Mining Institute",
+     "summary": "Предложена кластеризация техногенных отходов по ресурсной ценности и экологической опасности для эффективной их переработки.",
+     "topic": "Утилизация промышленных отходов",
+     "new": true
     },
     {
-     "id": "W7213551129",
-     "title": "Spatial Dependence and Co-Kriging Prediction of Stunting Prevalence Using the Linear Model of Coregionalization",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.44312",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Изучили пространственные закономерности недостаточного питания у детей в Индонезии и предсказали распространённость по провинциям.",
-     "topic": "Геостатистика здоровья",
-     "new": false
+     "id": "W7214104704",
+     "title": "The Confluence of AI and Eco-Innovation: Shaping the Future of Multidisciplinary Research",
+     "url": "https://doi.org/10.5281/zenodo.22912613",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Проанализировано слияние искусственного интеллекта и экоинноваций в решении экологических проблем и предложена многоуровневая модель их взаимодействия.",
+     "topic": "ИИ и экоинновации",
+     "new": true
     },
     {
-     "id": "W7213555971",
-     "title": "Randomness Test of LightMAC-Based Pseudorandom Number Generator (PRNG) with NIST SP 800-22 Revision 1A Test",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.43424",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Разработали лёгкий генератор псевдослучайных чисел на основе LightMAC и проверили его статистические свойства.",
-     "topic": "Криптографические генераторы",
-     "new": false
+     "id": "W7214115304",
+     "title": "The Confluence of AI and Eco-Innovation: Shaping the Future of Multidisciplinary Research",
+     "url": "https://doi.org/10.5281/zenodo.22912614",
+     "date": "2026-09-30",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Проанализировано слияние искусственного интеллекта и экоинноваций в решении экологических проблем и предложена многоуровневая модель их взаимодействия.",
+     "topic": "ИИ и экоинновации",
+     "new": true
     },
     {
-     "id": "W7214477342",
-     "title": "Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data",
-     "url": "https://doi.org/10.18860/cauchy.v11i2.39670",
-     "date": "2026-09-28",
-     "source": "CAUCHY Jurnal Matematika Murni dan Aplikasi",
-     "summary": "Применили методы бустинга для выявления уязвимых детей, не посещающих школу, на дисбалансированных данных.",
-     "topic": "Классификация дисбалансированных данных",
-     "new": false
+     "id": "W4400374449",
+     "title": "AXIAL: Attention-based eXplainability for Interpretable Alzheimer’s Localized diagnosis using 2D CNNs on 3D MRI brain scans",
+     "url": "https://doi.org/10.1186/s12911-026-03833-2",
+     "date": "2026-09-29",
+     "source": "BMC Medical Informatics and Decision Making",
+     "summary": "Разработан метод диагностики болезни Альцгеймера из МРИ с объяснением результатов через визуализацию внимания нейросети на критические области мозга.",
+     "topic": "Диагностика Альцгеймера с ИИ",
+     "new": true
     }
    ]
   }
