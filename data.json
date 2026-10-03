@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T11:05+00:00",
+ "updated": "2026-10-03T10:24+00:00",
  "topics": [
   {
    "name": "Образование",
@@ -11,9 +11,9 @@
      "url": "https://doi.org/10.5281/zenodo.23091014",
      "date": "2026-10-02",
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор теорий переноса знаний: как общие навыки решения задач помогают студентам информатики учить новые области.",
-     "topic": "Перенос знаний в информатике",
-     "new": true
+     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
+     "topic": "Обучение программированию",
+     "new": false
     },
     {
      "id": "W7215066462",
@@ -21,9 +21,9 @@
      "url": "https://doi.org/10.5281/zenodo.23091013",
      "date": "2026-10-02",
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор теорий переноса знаний: как общие навыки решения задач помогают студентам информатики учить новые области.",
-     "topic": "Перенос знаний в информатике",
-     "new": true
+     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
+     "topic": "Обучение программированию",
+     "new": false
     },
     {
      "id": "W3212815702",
@@ -33,7 +33,7 @@
      "source": "Research Portal (Queen's University Belfast)",
      "summary": "Исследование показало, что смешанное обучение улучшает результаты студентов и делает их глубинными учениками в больших разнородных группах.",
      "topic": "Смешанное обучение",
-     "new": true
+     "new": false
     },
     {
      "id": "W4400374531",
@@ -41,18 +41,18 @@
      "url": "https://doi.org/10.1145/3832159",
      "date": "2026-10-01",
      "source": "Proceedings of the ACM on software engineering.",
-     "summary": "Создан набор тестов и метод SecAwareCoder для генерации безопасного кода языковыми моделями с использованием моделирования угроз.",
-     "topic": "Безопасность генерируемого кода",
-     "new": true
+     "summary": "Создан набор тестов и метод для повышения безопасности кода, генерируемого языковыми моделями.",
+     "topic": "Безопасность программного кода",
+     "new": false
     },
     {
-     "id": "W7120132826",
-     "title": "Unitary fault-tolerant encoding of Pauli states in surface codes",
-     "url": "https://doi.org/10.1038/s41534-026-01362-4",
+     "id": "W4404391843",
+     "title": "Estimating Abilities With an Elo-Informed Growth Model",
+     "url": "https://doi.org/10.3102/10769986261489723",
      "date": "2026-10-01",
-     "source": "npj Quantum Information",
-     "summary": "Разработана схема подготовки квантовых состояний с сохранением защиты кода при масштабировании расстояния.",
-     "topic": "Квантовые вычисления",
+     "source": "Journal of Educational and Behavioral Statistics",
+     "summary": "Разработан гибридный метод для отслеживания изменяющихся способностей, объединяющий алгоритм Elo с статистическим моделированием для лучшей точности при быстром росте навыков.",
+     "topic": "Оценка способностей",
      "new": true
     }
    ]
@@ -69,7 +69,7 @@
      "source": "The Astrophysical Journal",
      "summary": "Использовали химический состав звёзд для определения внутреннего строения и минералогии каменистой экзопланеты GJ 486b.",
      "topic": "Экзопланеты и звёздные недра",
-     "new": true
+     "new": false
     },
     {
      "id": "W7212285558",
@@ -79,7 +79,7 @@
      "source": "Monthly Notices of the Royal Astronomical Society",
      "summary": "Протестировали интегратор Lobbie на долгосрочных симуляциях Солнечной системы и показали его эффективность и точность.",
      "topic": "Численные методы в небесной механике",
-     "new": true
+     "new": false
     },
     {
      "id": "W7213712552",
@@ -92,24 +92,24 @@
      "new": false
     },
     {
-     "id": "W7215075776",
-     "title": "Science or Strategy? The Rejection of the Anthropocene Epoch Demands Transparency",
-     "url": "https://doi.org/10.1029/2025ef007638",
+     "id": "W7214023809",
+     "title": "Impact of accretion variability on the CO emission of a disk around a very low-mass star with JWST",
+     "url": "https://doi.org/10.1051/0004-6361/202661151",
      "date": "2026-10-01",
-     "source": "Earth s Future",
-     "summary": "Критиковали непрозрачность процедур при отклонении предложения официально признать Антропоцен геологической эпохой.",
-     "topic": "Геологическое время и политика",
+     "source": "Astronomy and Astrophysics",
+     "summary": "Исследованы изменения CO-излучения диска вокруг маломассивной звезды J1605 с JWST и найдено, что скорость аккреции влияет на площадь излучающей области диска.",
+     "topic": "Диски маломассивных звёзд",
      "new": true
     },
     {
-     "id": "W4417143717",
-     "title": "Sensitivity of neutrino oscillations to the Earth’s interior properties",
-     "url": "https://doi.org/10.1016/j.epsl.2026.120354",
-     "date": "2026-09-30",
-     "source": "Earth and Planetary Science Letters",
-     "summary": "Исследована чувствительность нейтринных осцилляций к свойствам земного ядра и мантии для изучения глубокого строения Земли.",
-     "topic": "Физика нейтрино",
-     "new": false
+     "id": "W7214246105",
+     "title": "Large-scale chaos in restricted hierarchical triples driven by short-range forces",
+     "url": "https://doi.org/10.1051/0004-6361/202662081",
+     "date": "2026-10-01",
+     "source": "Astronomy and Astrophysics",
+     "summary": "Показано, что гравитационная релятивистская прецессия создаёт на фазовом портрете зону неопределённости, через которую проходят траектории и становятся хаотическими.",
+     "topic": "Хаос в тройных системах",
+     "new": true
     }
    ]
   },
@@ -125,7 +125,7 @@
      "source": "SCIENTIFIC JOURNAL OF REFLECTION Economic Accounting Management and Business",
      "summary": "Исследовано влияние ночных смен и административной нагрузки на выгорание медсестер в больнице.",
      "topic": "Выгорание медицинского персонала",
-     "new": true
+     "new": false
     },
     {
      "id": "W7215070138",
@@ -135,7 +135,7 @@
      "source": "Journal of Mechanics in Medicine and Biology",
      "summary": "Разработана система для автоматической классификации стадий сна по ЭЭГ и оценки качества сна у пожилых людей.",
      "topic": "Классификация стадий сна по ЭЭГ",
-     "new": true
+     "new": false
     },
     {
      "id": "W7215075242",
@@ -145,7 +145,7 @@
      "source": "ACS ES&T Water",
      "summary": "Показано, что соленость питьевой воды влияет на выведение электролитов с мочой в прибрежном Бангладеше.",
      "topic": "Соленость воды и электролиты",
-     "new": true
+     "new": false
     },
     {
      "id": "W7215076926",
@@ -155,7 +155,7 @@
      "source": "Frontiers in Public Health",
      "summary": "Выявлена высокая распространённость оральной хрупкости среди пожилых людей с хроническими заболеваниями в Китае.",
      "topic": "Оральная хрупкость пожилых людей",
-     "new": true
+     "new": false
     },
     {
      "id": "W7139150951",
@@ -165,7 +165,7 @@
      "source": "Research Portal (Queen's University Belfast)",
      "summary": "Исследовано, как маскирование поведения у детей с аутизмом влияет на их обучение по мнению родителей.",
      "topic": "Маскирование при аутизме",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -174,6 +174,16 @@
    "query": "mathematics",
    "items": [
     {
+     "id": "W4414689386",
+     "title": "Nilpotent BCK-algebras",
+     "url": "https://doi.org/10.1142/s0218196726500591",
+     "date": "2026-10-02",
+     "source": "International Journal of Algebra and Computation",
+     "summary": "Введена нильпотентность для BCK-алгебр через производный идеал и центральные серии, доказаны свойства нильпотентности и её связь с высотой алгебры.",
+     "topic": "BCK-алгебры и нильпотентность",
+     "new": true
+    },
+    {
      "id": "W4416178457",
      "title": "Mal'cev clones over a three-element set up to minor-equivalence",
      "url": "https://doi.org/10.1142/s0218196726500578",
@@ -181,7 +191,7 @@
      "source": "International Journal of Algebra and Computation",
      "summary": "Классифицированы все мальцевские клоны на трёхэлементном множестве и доказано, что они имеют 4-арный реляционный базис.",
      "topic": "Алгебра и логика",
-     "new": true
+     "new": false
     },
     {
      "id": "W7165671930",
@@ -191,7 +201,7 @@
      "source": "New Mathematics and Natural Computation",
      "summary": "Изучены числа Бетти графов через их максимальные клики и доказан критерий секвенциальной Cohen-Macaulay структуры.",
      "topic": "Коммутативная алгебра",
-     "new": true
+     "new": false
     },
     {
      "id": "W7202364175",
@@ -201,7 +211,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Проанализирована нормализация в теории Joshi для abc-гипотезы, выявлены пробелы в определении нормализации и условия применимости.",
      "topic": "Алгебраическая геометрия",
-     "new": true
+     "new": false
     },
     {
      "id": "W7204207754",
@@ -211,17 +221,7 @@
      "source": "Knowledge Commons (Lakehead University)",
      "summary": "Написана биография баскетболиста Яо Мина через призму поэзии, его достижений, филантропии и значения как культурного мостика между странами.",
      "topic": "Биография и литература",
-     "new": true
-    },
-    {
-     "id": "W7204212287",
-     "title": "诗赞姚明与他的\"明朝\" Poetic Admiration for Yao Ming and His Basketball \"Ming Dynasty\"",
-     "url": "https://doi.org/10.17613/3dkzk-w8105",
-     "date": "2026-10-02",
-     "source": "",
-     "summary": "Написана биография баскетболиста Яо Мина через призму поэзии, его достижений, филантропии и значения как культурного мостика между странами.",
-     "topic": "Биография и литература",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -237,7 +237,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
      "topic": "Обучение программированию",
-     "new": true
+     "new": false
     },
     {
      "id": "W7215066462",
@@ -247,7 +247,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
      "topic": "Обучение программированию",
-     "new": true
+     "new": false
     },
     {
      "id": "W4282967538",
@@ -257,7 +257,7 @@
      "source": "Scientific Reports",
      "summary": "Разработан метод автоматического обнаружения артефактов движения в МР-снимках головного мозга с помощью нейросети.",
      "topic": "Машинное обучение в медицине",
-     "new": true
+     "new": false
     },
     {
      "id": "W4398192270",
@@ -267,7 +267,7 @@
      "source": "Combinatorics Probability Computing",
      "summary": "Получены более точные оценки времени поглощения венгерских цепей Маркова.",
      "topic": "Математические цепи Маркова",
-     "new": true
+     "new": false
     },
     {
      "id": "W4400374531",
@@ -277,7 +277,7 @@
      "source": "Proceedings of the ACM on software engineering.",
      "summary": "Создан набор тестов и метод для повышения безопасности кода, генерируемого языковыми моделями.",
      "topic": "Безопасность программного кода",
-     "new": true
+     "new": false
     }
    ]
   }
