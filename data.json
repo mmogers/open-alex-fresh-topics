@@ -1,58 +1,58 @@
 {
- "updated": "2026-10-03T10:24+00:00",
+ "updated": "2026-10-04T11:06+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7215063465",
-     "title": "Prior General Problem-Solving Ability and Transfer in Unfamiliar Computer Science Domains",
-     "url": "https://doi.org/10.5281/zenodo.23091014",
-     "date": "2026-10-02",
+     "id": "W7218451847",
+     "title": "STRENGTH OF MOTIVATION FOR MEDICAL SCHOOL-REVISED IN A SAMPLE OF IRAQI MEDICAL STUDENTS: SCORE PATTERNS AND PSYCHOMETRIC EVALUATION",
+     "url": "https://doi.org/10.30574/gscarr.2026.29.1.0254",
+     "date": "2026-10-04",
+     "source": "GSC Advanced Research and Reviews",
+     "summary": "Исследовали мотивацию иракских студентов-медиков с помощью опросника SMMS-R и выявили, что большинство имеют умеренную мотивацию с различиями по полу и курсам.",
+     "topic": "Мотивация в медицинском образовании",
+     "new": true
+    },
+    {
+     "id": "W4415026044",
+     "title": "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI",
+     "url": "https://doi.org/10.1145/3856802",
+     "date": "2026-10-03",
+     "source": "ACM Computing Surveys",
+     "summary": "Провели обзор физических симуляторов для робототехники, анализируя их возможности для навигации и манипуляции в контексте трансфера из симуляции в реальность.",
+     "topic": "Робототехника и симуляторы",
+     "new": true
+    },
+    {
+     "id": "W7117808524",
+     "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+     "url": "https://doi.org/10.1145/3849702",
+     "date": "2026-10-03",
+     "source": "ACM Computing Surveys",
+     "summary": "Выполнили систематический обзор 242 исследований по использованию LLM-агентов для автоматического решения проблем в программном обеспечении.",
+     "topic": "LLM-агенты в инженерии ПО",
+     "new": true
+    },
+    {
+     "id": "W7128221888",
+     "title": "Kognitive Auslagerung oder kognitive Schuld? (Cognitive Offloading vs. Debt)",
+     "url": "https://doi.org/10.5281/zenodo.18519021",
+     "date": "2026-10-03",
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
-     "topic": "Обучение программированию",
-     "new": false
+     "summary": "Рассмотрели научные границы когнитивной аутсорсинга с ИИ, сравнив немедленные и долгосрочные эффекты на обучение и производительность.",
+     "topic": "Когнитивная нагрузка и ИИ",
+     "new": true
     },
     {
-     "id": "W7215066462",
-     "title": "Prior General Problem-Solving Ability and Transfer in Unfamiliar Computer Science Domains",
-     "url": "https://doi.org/10.5281/zenodo.23091013",
-     "date": "2026-10-02",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
-     "topic": "Обучение программированию",
-     "new": false
-    },
-    {
-     "id": "W3212815702",
-     "title": "Can a blended learning environment enhance teaching and learning in large heterogeneous first-year classes?: a study in a private higher education institution",
-     "url": "https://doi.org/10.17034/32631528",
-     "date": "2026-10-01",
-     "source": "Research Portal (Queen's University Belfast)",
-     "summary": "Исследование показало, что смешанное обучение улучшает результаты студентов и делает их глубинными учениками в больших разнородных группах.",
-     "topic": "Смешанное обучение",
-     "new": false
-    },
-    {
-     "id": "W4400374531",
-     "title": "Toward Secure Code Generation: Bridging Correctness and Security via Task-Adaptive Vulnerability Modeling and Execution-Based Benchmarking",
-     "url": "https://doi.org/10.1145/3832159",
-     "date": "2026-10-01",
-     "source": "Proceedings of the ACM on software engineering.",
-     "summary": "Создан набор тестов и метод для повышения безопасности кода, генерируемого языковыми моделями.",
-     "topic": "Безопасность программного кода",
-     "new": false
-    },
-    {
-     "id": "W4404391843",
-     "title": "Estimating Abilities With an Elo-Informed Growth Model",
-     "url": "https://doi.org/10.3102/10769986261489723",
-     "date": "2026-10-01",
-     "source": "Journal of Educational and Behavioral Statistics",
-     "summary": "Разработан гибридный метод для отслеживания изменяющихся способностей, объединяющий алгоритм Elo с статистическим моделированием для лучшей точности при быстром росте навыков.",
-     "topic": "Оценка способностей",
+     "id": "W7163001058",
+     "title": "Knowledge boundary probing and demand-guided intervention for LLM-based power system code generation",
+     "url": "https://doi.org/10.1016/j.aei.2026.105328",
+     "date": "2026-10-03",
+     "source": "Advanced Engineering Informatics",
+     "summary": "Разработали бенчмарк и методику для улучшения точности LLM при генерации кода энергосистем путём диагностики ошибок API и целевого исправления.",
+     "topic": "LLM для кода энергосистем",
      "new": true
     }
    ]
@@ -62,53 +62,53 @@
    "query": "earth planetary science",
    "items": [
     {
-     "id": "W7203908021",
-     "title": "Stellar Abundances as Probes of Rocky Exoplanet Interiors: The Mantle Composition and Mineralogy of GJ 486b",
-     "url": "https://doi.org/10.3847/1538-4357/ae9ba8",
-     "date": "2026-10-01",
-     "source": "The Astrophysical Journal",
-     "summary": "Использовали химический состав звёзд для определения внутреннего строения и минералогии каменистой экзопланеты GJ 486b.",
-     "topic": "Экзопланеты и звёздные недра",
-     "new": false
-    },
-    {
-     "id": "W7212285558",
-     "title": "Fast and Furious: Long-term orbit integrations with collocation integrator Lobbie",
-     "url": "https://doi.org/10.1093/mnras/stag1811",
-     "date": "2026-10-01",
-     "source": "Monthly Notices of the Royal Astronomical Society",
-     "summary": "Протестировали интегратор Lobbie на долгосрочных симуляциях Солнечной системы и показали его эффективность и точность.",
-     "topic": "Численные методы в небесной механике",
-     "new": false
-    },
-    {
-     "id": "W7213712552",
-     "title": "Learning Opportunities 2026/2027",
-     "url": "https://digitalcommons.imsa.edu/course_catalogs/30",
-     "date": "2026-10-01",
-     "source": "DigitalCommons-IMSA (Illinois Mathematics and Science Academy)",
-     "summary": "Описаны требования к зачислению студентов в Иллинойской академии математики и науки, включая минимум пять курсов за семестр.",
-     "topic": "Требования к образованию",
-     "new": false
-    },
-    {
-     "id": "W7214023809",
-     "title": "Impact of accretion variability on the CO emission of a disk around a very low-mass star with JWST",
-     "url": "https://doi.org/10.1051/0004-6361/202661151",
-     "date": "2026-10-01",
-     "source": "Astronomy and Astrophysics",
-     "summary": "Исследованы изменения CO-излучения диска вокруг маломассивной звезды J1605 с JWST и найдено, что скорость аккреции влияет на площадь излучающей области диска.",
-     "topic": "Диски маломассивных звёзд",
+     "id": "W7215100993",
+     "title": "Biomolecules under Pressure: Protein Phase Transitions from Folding to Misfolding, Aggregation, and Condensation",
+     "url": "https://doi.org/10.1021/acsapm.6c01589",
+     "date": "2026-10-02",
+     "source": "ACS Applied Polymer Materials",
+     "summary": "Изучили влияние высокого давления на белки для выявления скрытых стадий свёртывания, развёртывания и агрегации.",
+     "topic": "Структура и динамика белков",
      "new": true
     },
     {
-     "id": "W7214246105",
-     "title": "Large-scale chaos in restricted hierarchical triples driven by short-range forces",
-     "url": "https://doi.org/10.1051/0004-6361/202662081",
-     "date": "2026-10-01",
-     "source": "Astronomy and Astrophysics",
-     "summary": "Показано, что гравитационная релятивистская прецессия создаёт на фазовом портрете зону неопределённости, через которую проходят траектории и становятся хаотическими.",
-     "topic": "Хаос в тройных системах",
+     "id": "W7215122363",
+     "title": "Global prospects of low-carbon photocatalytic hydrogen based on regionalised optimisation",
+     "url": "https://doi.org/10.1016/j.apenergy.2026.128969",
+     "date": "2026-10-02",
+     "source": "Applied Energy",
+     "summary": "Оценили глобальный потенциал фотокаталитического производства водорода и его углеродный след к 2050 году по регионам.",
+     "topic": "Фотокаталитическое производство водорода",
+     "new": true
+    },
+    {
+     "id": "W7215691212",
+     "title": "Diverse C-Band Radiometric Signatures of Buried Supraglacial Lakes on the Greenland Ice Sheet",
+     "url": "https://doi.org/10.5194/egusphere-2026-4964",
+     "date": "2026-10-02",
+     "source": "",
+     "summary": "Проверили методы обнаружения погребённых озёр под льдом Гренландии с помощью спутниковых радарных данных и геопроникающего радара.",
+     "topic": "Озёра подо льдом Гренландии",
+     "new": true
+    },
+    {
+     "id": "W7215756548",
+     "title": "MDBTabNet: An enhanced tabnet with feature enhancement and biological consistency for intelligent abalone plumpness classification",
+     "url": "https://doi.org/10.1016/j.jfca.2026.109556",
+     "date": "2026-10-02",
+     "source": "Journal of Food Composition and Analysis",
+     "summary": "Разработали модель глубокого обучения для оценки полноты морских ежей на основе морфологических признаков и биологических параметров.",
+     "topic": "Классификация качества морепродуктов",
+     "new": true
+    },
+    {
+     "id": "W7215804276",
+     "title": "Promoting sustainability teaching and learning in HEI through the ecological footprint concept",
+     "url": "https://doi.org/10.1108/ijshe-12-2025-1666",
+     "date": "2026-10-02",
+     "source": "International Journal of Sustainability in Higher Education",
+     "summary": "Внедрили модуль обучения устойчивому развитию студентов через концепцию экологического следа с использованием интерактивных инструментов.",
+     "topic": "Образование для устойчивого развития",
      "new": true
     }
    ]
@@ -118,54 +118,54 @@
    "query": "sleep quality",
    "items": [
     {
-     "id": "W7215066995",
-     "title": "Pengaruh Shift Malam dan Beban Administrasi terhadap Kelelahan Kerja (Burnout) pada Perawat Rumah Sakit Haji Medan",
-     "url": "https://doi.org/10.37481/sjr.v9i4.1623",
-     "date": "2026-10-02",
-     "source": "SCIENTIFIC JOURNAL OF REFLECTION Economic Accounting Management and Business",
-     "summary": "Исследовано влияние ночных смен и административной нагрузки на выгорание медсестер в больнице.",
-     "topic": "Выгорание медицинского персонала",
-     "new": false
+     "id": "W7161746208",
+     "title": "Red novae, their progenitors, and remnants",
+     "url": "https://doi.org/10.1007/s00159-026-00173-y",
+     "date": "2026-10-03",
+     "source": "The Astronomy and Astrophysics Review",
+     "summary": "Рассмотрены красные новые звёзды как результат слияния двойных звёзд, дающие представление о физике нестабильного переноса массы.",
+     "topic": "Красные новые звёзды",
+     "new": true
     },
     {
-     "id": "W7215070138",
-     "title": "An Intelligent Sleep Staging Framework For Sleep-Quality Characterization And Digital Interaction Design For Older Adults",
-     "url": "https://doi.org/10.1142/s0219519426401214",
-     "date": "2026-10-02",
-     "source": "Journal of Mechanics in Medicine and Biology",
-     "summary": "Разработана система для автоматической классификации стадий сна по ЭЭГ и оценки качества сна у пожилых людей.",
-     "topic": "Классификация стадий сна по ЭЭГ",
-     "new": false
+     "id": "W7216205981",
+     "title": "Non-pharmacological interventions to improve sleep quality among people living with HIV: a systematic review and meta-analysis",
+     "url": "https://doi.org/10.1186/s12889-026-29661-7",
+     "date": "2026-10-03",
+     "source": "BMC Public Health",
+     "summary": "Немедикаментозные вмешательства значительно улучшают качество сна у людей с ВИЧ согласно метаанализу трёх исследований.",
+     "topic": "Сон и ВИЧ",
+     "new": true
     },
     {
-     "id": "W7215075242",
-     "title": "Freshwater Salinization and Its Contribution to Urinary Electrolyte Excretion in Coastal Bangladesh",
-     "url": "https://doi.org/10.1021/acsestwater.6c00249",
-     "date": "2026-10-02",
-     "source": "ACS ES&T Water",
-     "summary": "Показано, что соленость питьевой воды влияет на выведение электролитов с мочой в прибрежном Бангладеше.",
-     "topic": "Соленость воды и электролиты",
-     "new": false
+     "id": "W7218356472",
+     "title": "Association between Psychological Strain, Conflict and Sleep Quality among University Students at Al-Mashreq University",
+     "url": "https://doi.org/10.9734/jamps/2026/v28i10899",
+     "date": "2026-10-03",
+     "source": "Journal of Advances in Medical and Pharmaceutical Sciences",
+     "summary": "Поздний отход ко сну связан с усталостью и психологическим напряжением у студентов в условиях конфликта.",
+     "topic": "Сон и стресс студентов",
+     "new": true
     },
     {
-     "id": "W7215076926",
-     "title": "Current situation and influencing factors of oral frailty among community-dwelling older adults with chronic diseases in China: a cross-sectional study",
-     "url": "https://doi.org/10.3389/fpubh.2026.1838310",
-     "date": "2026-10-02",
-     "source": "Frontiers in Public Health",
-     "summary": "Выявлена высокая распространённость оральной хрупкости среди пожилых людей с хроническими заболеваниями в Китае.",
-     "topic": "Оральная хрупкость пожилых людей",
-     "new": false
+     "id": "W7218365326",
+     "title": "Lifestyle-Driven Phenotypes in Sensitive Skin: A Cross-Sectional, Multicenter Study Across Urbanization Tiers",
+     "url": "https://doi.org/10.1007/s13555-026-01946-0",
+     "date": "2026-10-03",
+     "source": "Dermatology and Therapy",
+     "summary": "Чувствительность кожи связана с урбанизацией, загрязнением и сном, что влияет на воспаление и пигментацию.",
+     "topic": "Чувствительность кожи",
+     "new": true
     },
     {
-     "id": "W7139150951",
-     "title": "An investigation into camouflaging behaviour in pupils with Autism Spectrum Disorder and its impact on their education, from the perspective of their parents",
-     "url": "https://doi.org/10.17034/32631594",
-     "date": "2026-10-01",
-     "source": "Research Portal (Queen's University Belfast)",
-     "summary": "Исследовано, как маскирование поведения у детей с аутизмом влияет на их обучение по мнению родителей.",
-     "topic": "Маскирование при аутизме",
-     "new": false
+     "id": "W7218374400",
+     "title": "BIOENERGETIC AND NEUROPHYSIOLOGICAL INSIGHTS INTO THE MANIPURA CHAKRA: CORRELATION OF NABHI WITH GASTROINTESTINAL AND SLEEP REGULATION",
+     "url": "https://doi.org/10.5281/zenodo.23116111",
+     "date": "2026-10-03",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Масляная терапия на пупке улучшает сон, снимает стресс и пищеварение через регуляцию гормонов и блуждающего нерва.",
+     "topic": "Традиционная терапия и сон",
+     "new": true
     }
    ]
   },
@@ -174,54 +174,54 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W4414689386",
-     "title": "Nilpotent BCK-algebras",
-     "url": "https://doi.org/10.1142/s0218196726500591",
-     "date": "2026-10-02",
-     "source": "International Journal of Algebra and Computation",
-     "summary": "Введена нильпотентность для BCK-алгебр через производный идеал и центральные серии, доказаны свойства нильпотентности и её связь с высотой алгебры.",
-     "topic": "BCK-алгебры и нильпотентность",
+     "id": "W7214643602",
+     "title": "Two Conformal Constructions for Adaptive Within-Document AI-Text Screening",
+     "url": "https://doi.org/10.66977/xsci.2610.000e",
+     "date": "2026-10-04",
+     "source": "",
+     "summary": "Разработали два метода для контролируемого выявления текстов, написанных ИИ, с гарантией минимизации ложных тревог.",
+     "topic": "Обнаружение текстов ИИ",
      "new": true
     },
     {
-     "id": "W4416178457",
-     "title": "Mal'cev clones over a three-element set up to minor-equivalence",
-     "url": "https://doi.org/10.1142/s0218196726500578",
-     "date": "2026-10-02",
-     "source": "International Journal of Algebra and Computation",
-     "summary": "Классифицированы все мальцевские клоны на трёхэлементном множестве и доказано, что они имеют 4-арный реляционный базис.",
-     "topic": "Алгебра и логика",
-     "new": false
-    },
-    {
-     "id": "W7165671930",
-     "title": "Betti numbers of sequentially cohen macaulay co-chordal graphs and their applications",
-     "url": "https://doi.org/10.1142/s1793005729500221",
-     "date": "2026-10-02",
-     "source": "New Mathematics and Natural Computation",
-     "summary": "Изучены числа Бетти графов через их максимальные клики и доказан критерий секвенциальной Cohen-Macaulay структуры.",
-     "topic": "Коммутативная алгебра",
-     "new": false
-    },
-    {
-     "id": "W7202364175",
-     "title": "Global Normalization in Joshi's Arithmetic Teichmüller Theory: What the Identification Carries — and What Carries the Theorem (DRAFT)",
-     "url": "https://doi.org/10.5281/zenodo.21924253",
-     "date": "2026-10-02",
+     "id": "W7218399245",
+     "title": "Conceptual Study of an AI Alignment Model Inspired by Islamic Epistemology and Ontology: A Dynamic Equilibrium Interpretation of the Casino Protocol through the Frameworks of Khalīfah and Mīzān",
+     "url": "https://doi.org/10.5281/zenodo.23128291",
+     "date": "2026-10-04",
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Проанализирована нормализация в теории Joshi для abc-гипотезы, выявлены пробелы в определении нормализации и условия применимости.",
-     "topic": "Алгебраическая геометрия",
-     "new": false
+     "summary": "Предложили модель выравнивания ИИ, вдохновленную исламской философией, используя концепции справедливости и равновесия.",
+     "topic": "Выравнивание ИИ",
+     "new": true
     },
     {
-     "id": "W7204207754",
-     "title": "诗赞姚明与他的\"明朝\" Poetic Admiration for Yao Ming and His Basketball \"Ming Dynasty\"",
-     "url": "https://doi.org/10.17613/1xsb8-xtn87",
-     "date": "2026-10-02",
-     "source": "Knowledge Commons (Lakehead University)",
-     "summary": "Написана биография баскетболиста Яо Мина через призму поэзии, его достижений, филантропии и значения как культурного мостика между странами.",
-     "topic": "Биография и литература",
-     "new": false
+     "id": "W7218402620",
+     "title": "A Biomimetic Interpenetrating Network Hydrogel Incorporating Nested Phytochemical Nanoparticles for Sustained Cellular Senescence Suppression and Extracellular Matrix Preservation.",
+     "url": "https://doi.org/10.5281/zenodo.23126177",
+     "date": "2026-10-04",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Создали гидрогелевый материал с наночастицами для замедления старения кожи и сохранения её структуры.",
+     "topic": "Биоматериалы для кожи",
+     "new": true
+    },
+    {
+     "id": "W7218446148",
+     "title": "Would Proving the Riemann Hypothesis Break RSA?",
+     "url": "https://doi.org/10.5281/zenodo.23128778",
+     "date": "2026-10-04",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Исследовали связь гипотезы Римана с криптографией RSA и установили, что доказательство гипотезы не сломает шифрование.",
+     "topic": "Криптография и теория чисел",
+     "new": true
+    },
+    {
+     "id": "W7218473203",
+     "title": "THE ABÏON VEHICLE Engineering Architecture for Momentum-Sourced Metric Displacement",
+     "url": "https://doi.org/10.5281/zenodo.23128097",
+     "date": "2026-10-04",
+     "source": "Zenodo (CERN European Organization for Nuclear Research)",
+     "summary": "Разработали полную инженерную архитектуру устройства для создания эффектов искривления пространства-времени на основе вращения.",
+     "topic": "Инженерия пространства-времени",
+     "new": true
     }
    ]
   },
@@ -230,54 +230,54 @@
    "query": "computer science and algorithms",
    "items": [
     {
-     "id": "W7215063465",
-     "title": "Prior General Problem-Solving Ability and Transfer in Unfamiliar Computer Science Domains",
-     "url": "https://doi.org/10.5281/zenodo.23091014",
-     "date": "2026-10-02",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
-     "topic": "Обучение программированию",
-     "new": false
+     "id": "W4309873536",
+     "title": "Edge Multiway Cut and Node Multiway Cut are Hard for Planar Subcubic Graphs",
+     "url": "https://doi.org/10.1007/s00453-026-01412-5",
+     "date": "2026-10-03",
+     "source": "Algorithmica",
+     "summary": "Доказано, что задача разреза мультипути NP-полна для плоских графов степени 3, закрыт 20-летний открытый вопрос.",
+     "topic": "Теория графов",
+     "new": true
     },
     {
-     "id": "W7215066462",
-     "title": "Prior General Problem-Solving Ability and Transfer in Unfamiliar Computer Science Domains",
-     "url": "https://doi.org/10.5281/zenodo.23091013",
-     "date": "2026-10-02",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Обзор того, как общие навыки решения задач переносятся при обучении студентов новым разделам информатики.",
-     "topic": "Обучение программированию",
-     "new": false
+     "id": "W4310999969",
+     "title": "Petri Nets-based Methods on Automatically Detecting for Concurrency Bugs in Rust Programs",
+     "url": "https://doi.org/10.1145/3849803",
+     "date": "2026-10-03",
+     "source": "ACM Transactions on Autonomous and Adaptive Systems",
+     "summary": "Разработан метод на основе сетей Петри для автоматического обнаружения ошибок параллелизма в программах на Rust.",
+     "topic": "Анализ программ",
+     "new": true
     },
     {
-     "id": "W4282967538",
-     "title": "Automated SSIM regression for detection and quantification of motion artefacts in brain MR images",
-     "url": "https://doi.org/10.1038/s41598-026-72041-9",
-     "date": "2026-10-01",
-     "source": "Scientific Reports",
-     "summary": "Разработан метод автоматического обнаружения артефактов движения в МР-снимках головного мозга с помощью нейросети.",
-     "topic": "Машинное обучение в медицине",
-     "new": false
+     "id": "W4396600468",
+     "title": "A Survey of Deep Learning Based Software Refactoring",
+     "url": "https://doi.org/10.1145/3849693",
+     "date": "2026-10-03",
+     "source": "ACM Computing Surveys",
+     "summary": "Обзор методов глубокого обучения для рефакторинга кода: выявлены дисбалансы в исследованиях и открытые проблемы.",
+     "topic": "Инженерия программного обеспечения",
+     "new": true
     },
     {
-     "id": "W4398192270",
-     "title": "Tighter bounds on the expected absorbing time of Ungarian Markov chains",
-     "url": "https://doi.org/10.1017/s096354832610056x",
-     "date": "2026-10-01",
-     "source": "Combinatorics Probability Computing",
-     "summary": "Получены более точные оценки времени поглощения венгерских цепей Маркова.",
-     "topic": "Математические цепи Маркова",
-     "new": false
+     "id": "W4415026044",
+     "title": "A Survey of Robotic Navigation and Manipulation with Physics Simulators in the Era of Embodied AI",
+     "url": "https://doi.org/10.1145/3856802",
+     "date": "2026-10-03",
+     "source": "ACM Computing Surveys",
+     "summary": "Обзор физических симуляторов для навигации и манипуляции роботов с целью преодоления зазора симуляции и реальности.",
+     "topic": "Робототехника и AI",
+     "new": true
     },
     {
-     "id": "W4400374531",
-     "title": "Toward Secure Code Generation: Bridging Correctness and Security via Task-Adaptive Vulnerability Modeling and Execution-Based Benchmarking",
-     "url": "https://doi.org/10.1145/3832159",
-     "date": "2026-10-01",
-     "source": "Proceedings of the ACM on software engineering.",
-     "summary": "Создан набор тестов и метод для повышения безопасности кода, генерируемого языковыми моделями.",
-     "topic": "Безопасность программного кода",
-     "new": false
+     "id": "W7117808524",
+     "title": "Agentic Software Issue Resolution with Large Language Models: A Survey",
+     "url": "https://doi.org/10.1145/3849702",
+     "date": "2026-10-03",
+     "source": "ACM Computing Surveys",
+     "summary": "Обзор систем на основе LLM для автоматического решения проблем в софтовых репозиториях с использованием агентных подходов.",
+     "topic": "ИИ и инженерия ПО",
+     "new": true
     }
    ]
   }
