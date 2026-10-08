@@ -1,59 +1,59 @@
 {
- "updated": "2026-10-07T11:46+00:00",
+ "updated": "2026-10-08T12:01+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7150122078",
-     "title": "Navigating the Policy-Practice Nexus: A Diagnostic Framework for Foundational Learning in Ghana",
-     "url": "https://doi.org/10.5281/zenodo.19428344",
+     "id": "W7220740822",
+     "title": "Artificial Intelligence in Language Education: Pedagogical Applications, Representative Platforms, and Human Oversight",
+     "url": "https://doi.org/10.69760/egjlle.2604007",
+     "date": "2026-10-07",
+     "source": "EuroGlobal Journal of Linguistics and Language Education.",
+     "summary": "Обзор применения ИИ в обучении языкам показал, что эффективность зависит от педагогического согласования, человеческого контроля и способности учащихся оценивать автоматизированный результат.",
+     "topic": "ИИ в образовании языков",
+     "new": true
+    },
+    {
+     "id": "W7220741617",
+     "title": "PENGARUH MEDIA DOMINO MATHEMATIC (DOMATH) TERHADAP HASIL BELAJAR MATEMATIKA SISWA KELAS III SDN BALONGGABUS",
+     "url": "https://doi.org/10.51878/science.v6i4.15811",
+     "date": "2026-10-07",
+     "source": "SCIENCE Jurnal Inovasi Pendidikan Matematika dan IPA",
+     "summary": "Исследование доказало, что использование игровой среды DOMATH значительно улучшило результаты обучения умножению у третьеклассников начальной школы.",
+     "topic": "Игровые методы в математике",
+     "new": true
+    },
+    {
+     "id": "W7220742910",
+     "title": "Teachers' and Students' Perceptions of Using an Android-Based Application in Fiqh Learning at MTs N 3 Rembang",
+     "url": "https://doi.org/10.59944/postaxial.v4i3.1976",
+     "date": "2026-10-07",
+     "source": "International Journal of Post Axial Futuristic Teaching and Learning",
+     "summary": "Качественное исследование показало, что Android-приложение для изучения Фикха сделало обучение более интересным, но его эффективность зависит от учительского руководства и доступа к технологиям.",
+     "topic": "Мобильные приложения в исламском образовании",
+     "new": true
+    },
+    {
+     "id": "W4405032759",
+     "title": "Advancing object-centric process mining with multi-dimensional data operations",
+     "url": "https://doi.org/10.1007/s10115-026-02904-0",
      "date": "2026-10-06",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработана диагностическая система для анализа разрыва между образовательной политикой и её реализацией в ганских школах.",
-     "topic": "Политика образования в Гане",
-     "new": false
+     "source": "Knowledge and Information Systems",
+     "summary": "Разработаны четыре операции для анализа данных процессов на разных уровнях детализации, улучшившие точность моделей обучения в системах управления образованием.",
+     "topic": "Анализ образовательных процессов",
+     "new": true
     },
     {
-     "id": "W7150236332",
-     "title": "Navigating the Policy-Practice Nexus: A Diagnostic Framework for Foundational Learning in Ghana",
-     "url": "https://doi.org/10.5281/zenodo.19428345",
+     "id": "W4405716306",
+     "title": "Fair distributed machine learning with imbalanced data as a Stackelberg evolutionary game",
+     "url": "https://doi.org/10.1038/s41598-026-74008-2",
      "date": "2026-10-06",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработана диагностическая система для анализа разрыва между образовательной политикой и её реализацией в ганских школах.",
-     "topic": "Политика образования в Гане",
-     "new": false
-    },
-    {
-     "id": "W7126655106",
-     "title": "Transferring Methods to Law: A Reflection on Using Scoping Reviews",
-     "url": "https://doi.org/10.19164/jlrm.v5i1.1784",
-     "date": "2026-10-05",
-     "source": "Journal of Legal Research Methodology",
-     "summary": "Показано, как методы из других дисциплин можно адаптировать для юридических исследований на примере обзорных исследований.",
-     "topic": "Методология в юридических науках",
-     "new": false
-    },
-    {
-     "id": "W7141031120",
-     "title": "Quantum spectral authentication: entity authentication and key derivation from a hidden eigenstate of a public unitary challenge",
-     "url": "https://doi.org/10.1038/s41598-026-68782-2",
-     "date": "2026-10-05",
      "source": "Scientific Reports",
-     "summary": "Предложен протокол квантовой аутентификации для проверки скрытого квантового состояния без его раскрытия.",
-     "topic": "Квантовая криптография",
-     "new": false
-    },
-    {
-     "id": "W7162639459",
-     "title": "Immediate Gains, Lasting Impact: Deploying AI-Powered Personalization to Transform Student Experience in Higher Ed",
-     "url": "https://doi.org/10.5281/zenodo.20434038",
-     "date": "2026-10-05",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Показано, как использование ИИ с персонализацией по модели VARK улучшает результаты обучения студентов в вузах.",
-     "topic": "ИИ в высшем образовании",
-     "new": false
+     "summary": "Предложены новые механизмы взвешивания для справедливого распределённого машинного обучения, обеспечивающие баланс производительности между узлами с неравномерными данными.",
+     "topic": "Справедливое машинное обучение",
+     "new": true
     }
    ]
   },
@@ -62,54 +62,54 @@
    "query": "earth planetary science",
    "items": [
     {
-     "id": "W7118892393",
-     "title": "Ultraheavy Cosmic Rays from Magnetars",
-     "url": "https://doi.org/10.3847/1538-4357/ae9c27",
-     "date": "2026-10-05",
-     "source": "The Astrophysical Journal",
-     "summary": "Исследовали, что магнетары могут быть источниками сверхтяжелых космических лучей через ускорение вещества при гигантских вспышках.",
-     "topic": "Космические лучи и магнетары",
-     "new": false
+     "id": "W7160388010",
+     "title": "The jet-shaped pipe morphology in planetary nebulae and core-collapse supernova remnants",
+     "url": "https://doi.org/10.33232/001c.172148",
+     "date": "2026-10-06",
+     "source": "The Open Journal of Astrophysics",
+     "summary": "Сравнили изображения остатков взрывов звёзд и туманностей, обнаружили, что струи плазмы формируют их трубчатую структуру.",
+     "topic": "Струи в остатках сверхнов",
+     "new": true
     },
     {
-     "id": "W7204169530",
-     "title": "Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates",
-     "url": "https://doi.org/10.3847/1538-3881/aea4aa",
-     "date": "2026-10-05",
-     "source": "The Astronomical Journal",
-     "summary": "Показали, что высокоразрешающая визуализация необходима для валидации малых экзопланет из TESS и влияет на успешность открытий.",
-     "topic": "Валидация экзопланет",
-     "new": false
-    },
-    {
-     "id": "W7204470307",
-     "title": "The Isotopic and Elemental Abundances of Planet-host-star TRAPPIST-1",
-     "url": "https://doi.org/10.3847/1538-4357/ae9bbc",
-     "date": "2026-10-05",
-     "source": "The Astrophysical Journal",
-     "summary": "Измерили соотношения элементов и изотопов звезды TRAPPIST-1, обнаружив солнечные значения и повышенное содержание углерода-12.",
-     "topic": "Изотопные составы звезд",
-     "new": false
-    },
-    {
-     "id": "W7206194162",
-     "title": "A JWST Transiting Survey of FGK Stellar Limb Darkening: Empirical Evidence for Quadratic Laws and Atmospheric Model Comparisons",
-     "url": "https://doi.org/10.3847/1538-3881/aea21e",
-     "date": "2026-10-05",
-     "source": "The Astronomical Journal",
-     "summary": "Использовали наблюдения JWST для изучения затемнения краёв звёзд и показали, что квадратичный закон лучше описывает FGK звёзды.",
-     "topic": "Затемнение краёв звёзд",
-     "new": false
-    },
-    {
-     "id": "W7214334488",
-     "title": "External photoevaporation in the center of Tr14",
-     "url": "https://doi.org/10.1051/0004-6361/202662479",
-     "date": "2026-10-05",
+     "id": "W7213321188",
+     "title": "Detecting transiting exoplanets in simulated PLATO data. A comparison of light curve filter and transit search algorithms",
+     "url": "https://doi.org/10.1051/0004-6361/202660423",
+     "date": "2026-10-06",
      "source": "Astronomy and Astrophysics",
-     "summary": "Исследовали дисперсию протопланетных дисков в центре скопления Trumpler 14 под действием ультрафиолетового излучения.",
-     "topic": "Фотоиспарение дисков",
-     "new": false
+     "summary": "Протестировали методы поиска экзопланет для миссии PLATO и рекомендовали оптимальные фильтры для обнаружения землеподобных планет.",
+     "topic": "Поиск экзопланет",
+     "new": true
+    },
+    {
+     "id": "W7214540359",
+     "title": "Effect of Magnetic Field Orientation on Thermal Conductivity in FeNi2 Alloys",
+     "url": "https://doi.org/10.17485/ijst/v19i34.1027",
+     "date": "2026-10-06",
+     "source": "Indian Journal of Science and Technology",
+     "summary": "Исследовали влияние ориентации магнитного поля на теплопроводность сплава FeNi₂ и нашли изменение на 23% в зависимости от угла.",
+     "topic": "Теплопроводность магнитных сплавов",
+     "new": true
+    },
+    {
+     "id": "W7220410925",
+     "title": "Greening cities to ensure biosphere functional integrity: Insights from Rotterdam and Lagos",
+     "url": "https://doi.org/10.1016/j.esg.2026.100363",
+     "date": "2026-10-06",
+     "source": "Earth System Governance",
+     "summary": "Оценили возможность озеленения городов Роттердама и Лагоса для сохранения биоразнообразия и справедливого распределения зелёных зон.",
+     "topic": "Озеленение городов",
+     "new": true
+    },
+    {
+     "id": "W7220666628",
+     "title": "The limits of Antarctic conservation governance",
+     "url": "https://doi.org/10.1038/s41467-026-77606-w",
+     "date": "2026-10-06",
+     "source": "Nature Communications",
+     "summary": "Проанализировали 90 тыс. документов и выявили, что Антарктический договор неэффективен против внешних угроз, включая климатические изменения.",
+     "topic": "Охрана Антарктики",
+     "new": true
     }
    ]
   },
@@ -118,54 +118,54 @@
    "query": "sleep quality",
    "items": [
     {
-     "id": "W7203661562",
-     "title": "Publication: Consistency of efficacy and safety of elinzanetant for vasomotor symptoms and sleep disturbance associated with menopause across different populations: a review of the OASIS clinical trial program",
-     "url": "https://doi.org/10.71943/bayer.figshare.33278712",
-     "date": "2026-10-05",
-     "source": "Bayer AG",
-     "summary": "Препарат элинзанетант эффективно снижает приливы и улучшает сон при менопаузе у разных групп женщин.",
-     "topic": "Лечение менопаузы",
-     "new": false
+     "id": "W7167934631",
+     "title": "Glymphatic system in temporal lobe epilepsy associated with encephalocele",
+     "url": "https://doi.org/10.1002/epi.70522",
+     "date": "2026-10-06",
+     "source": "Epilepsia",
+     "summary": "Исследовали дисфункцию лимфатической системы мозга при эпилепсии с энцефалоцеле и нашли нарушения белков AQP4 и подоплана.",
+     "topic": "Эпилепсия и глимфатическая система",
+     "new": true
     },
     {
-     "id": "W7203677349",
-     "title": "Publication: Consistency of efficacy and safety of elinzanetant for vasomotor symptoms and sleep disturbance associated with menopause across different populations: a review of the OASIS clinical trial program",
-     "url": "https://doi.org/10.71943/bayer.figshare.33278712.v1",
-     "date": "2026-10-05",
-     "source": "Bayer AG",
-     "summary": "Препарат элинзанетант эффективно снижает приливы и улучшает сон при менопаузе у разных групп женщин.",
-     "topic": "Лечение менопаузы",
-     "new": false
+     "id": "W7220382686",
+     "title": "Bilateral Nodular Scleritis and Asymmetric Intraocular Inflammation in an Adolescent with Myelodysplastic Syndrome and Marasmus-Associated Sweet Syndrome: A Case Report",
+     "url": "https://doi.org/10.37275/oaijmr.v6i6.951",
+     "date": "2026-10-06",
+     "source": "Open Access Indonesian Journal of Medical Reviews",
+     "summary": "Описали редкий случай воспаления глаз у подростка с миелодиспластическим синдромом, успешно пролечили кортикостероидами.",
+     "topic": "Воспалительные заболевания глаз",
+     "new": true
     },
     {
-     "id": "W7219584424",
-     "title": "Association of childhood meat consumption with late-life cognitive function: mediation by adult education and moderation by parental literacy",
-     "url": "https://doi.org/10.3389/fpubh.2026.1878281",
-     "date": "2026-10-05",
-     "source": "Frontiers in Public Health",
-     "summary": "Частое употребление мяса в детстве связано с лучшей когнитивной функцией в старости, особенно при грамотных родителях.",
-     "topic": "Питание и когнитивная функция",
-     "new": false
+     "id": "W7220430725",
+     "title": "The Impact of Continuous School Day on Women’s Participation in the Labour Market: A Quasi-Natural Experiment",
+     "url": "https://doi.org/10.1007/s12147-026-09434-7",
+     "date": "2026-10-06",
+     "source": "Gender Issues",
+     "summary": "Анализ реформы школьного расписания в Испании показал, что сокращение безработицы среди женщин может усилить традиционные гендерные роли.",
+     "topic": "Школьное расписание и занятость женщин",
+     "new": true
     },
     {
-     "id": "W7219618324",
-     "title": "New data from old bones: using bioarchaeology and forensics to reassess legacy data from ancient Abydos, Egypt",
-     "url": "https://doi.org/10.3389/fearc.2026.1858940",
-     "date": "2026-10-05",
-     "source": "Frontiers in Environmental Archaeology",
-     "summary": "Современный анализ древних останков из Абидоса показал признаки травм, подтверждающие практику человеческих жертвоприношений в Египте.",
-     "topic": "Биоархеология древнего Египта",
-     "new": false
+     "id": "W7220435384",
+     "title": "Lung disease in crisponi/cold-induced sweating syndrome type 1: expanding the clinical phenotype spectrum",
+     "url": "https://doi.org/10.1007/s00431-026-07178-w",
+     "date": "2026-10-06",
+     "source": "European Journal of Pediatrics",
+     "summary": "Впервые систематически исследовали поражение легких при редком генетическом заболевании Крисповна и нашли признаки хронического воспаления.",
+     "topic": "Респираторные осложнения редких болезней",
+     "new": true
     },
     {
-     "id": "W7219622602",
-     "title": "Family functioning and perceived academic achievement of adolescents from variable-centered and person-centered perspectives: the roles of teacher support and psychological capital",
-     "url": "https://doi.org/10.3389/fpsyg.2026.1915045",
-     "date": "2026-10-05",
-     "source": "Frontiers in Psychology",
-     "summary": "Семейные отношения улучшают академические результаты подростков через психологический капитал, особенно при поддержке учителей.",
-     "topic": "Успеваемость и поддержка подростков",
-     "new": false
+     "id": "W7220473939",
+     "title": "HUBUNGAN PENGGUNAAN GAWAI BERLEBIHAN DENGAN TINGKAT AKTIVITAS FISIK PADA REMAJA: MINI LITERATURE REVIEW",
+     "url": "https://doi.org/10.51878/healthy.v5i4.14475",
+     "date": "2026-10-06",
+     "source": "HEALTHY Jurnal Inovasi Riset Ilmu Kesehatan",
+     "summary": "Обзор 14 исследований показал, что чрезмерное использование гаджетов снижает физическую активность подростков.",
+     "topic": "Гаджеты и физическая активность",
+     "new": true
     }
    ]
   },
@@ -174,54 +174,54 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W7130843551",
-     "title": "Global Civilizational Equilibrium Doctrine 2026 (GCED-26): Version 2.0 — Complete Twelve-Volume Research Framework",
-     "url": "https://doi.org/10.5281/zenodo.18717495",
-     "date": "2026-10-06",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Разработана двенадцатитомная междисциплинарная научная база для изучения глобального управления цивилизацией, координации институтов и стратегической стабильности.",
-     "topic": "Глобальное управление",
-     "new": false
+     "id": "W7211936485",
+     "title": "A Comparative Study of \"Indigenous Buddhas\": Mazu, Guan Gong, Tudigong, Guanyin, Nezha, and the Laughing Maitreya 《「本土佛」的神聖本土化 比較研究: 媽祖、關公、土地公、觀音、哪吒與大肚彌勒》",
+     "url": "https://doi.org/10.17613/c943f-a2608",
+     "date": "2026-10-08",
+     "source": "Knowledge Commons (Lakehead University)",
+     "summary": "Изучили, как китайское общество преобразовало исторических людей и местных богов в почитаемых духовных фигур, сохраняя межрелигиозную интеграцию.",
+     "topic": "Китайские местные верования",
+     "new": true
     },
     {
-     "id": "W7202416266",
-     "title": "An Optically Motivated Gamma-Ray Study of Fermi-LAT Novae",
-     "url": "https://doi.org/10.3847/1538-4357/ae9cb6",
-     "date": "2026-10-06",
-     "source": "The Astrophysical Journal",
-     "summary": "Исследованы гамма-лучи от новых звёзд, обнаружена корреляция между оптическими и высокоэнергетическими вспышками.",
-     "topic": "Гамма-лучи новых",
-     "new": false
+     "id": "W7211939574",
+     "title": "A Comparative Study of \"Indigenous Buddhas\": Chenghuang, Baosheng Dadi, Qingshui Zushi, Ji Gong, Yiminye, and Youyinggong《「本土佛」的神聖本土化比較研究: 城隍、保生大帝、清水祖師、濟公、義民爺與有應公》",
+     "url": "https://doi.org/10.17613/rxee1-9cm85",
+     "date": "2026-10-08",
+     "source": "Knowledge Commons (Lakehead University)",
+     "summary": "Проанализировали шесть новых примеров локализации священного в китайском обществе через исторических людей, целителей и душ умерших.",
+     "topic": "Священное и локализация",
+     "new": true
     },
     {
-     "id": "W7204565535",
-     "title": "A Spectral Operator Realization and Weil–Li Positivity Framework for the Unconditional Resolution of the Riemann Hypothesis",
-     "url": "https://doi.org/10.5281/zenodo.22148892",
-     "date": "2026-10-06",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Предложено доказательство гипотезы Римана через спектральные операторы и функции де Бранжа.",
-     "topic": "Гипотеза Римана",
-     "new": false
+     "id": "W7128505141",
+     "title": "A mathematical theory of redox biology",
+     "url": "https://doi.org/10.1098/rsos.260547",
+     "date": "2026-10-07",
+     "source": "Royal Society Open Science",
+     "summary": "Разработали математическую теорию редокс-биологии, описывающую молекулярные функции через динамические потоки в химической сети.",
+     "topic": "Математика редокс-биологии",
+     "new": true
     },
     {
-     "id": "W7213431215",
-     "title": "Optical Spectroscopy of a Candidate O-star X-Ray Binary in M33",
-     "url": "https://doi.org/10.3847/1538-4357/ae9fef",
-     "date": "2026-10-06",
-     "source": "The Astrophysical Journal",
-     "summary": "Спектроскопически подтверждена звезда O-типа в рентгеновской двойной системе M33 с переменным излучением.",
-     "topic": "Рентгеновские двойные",
-     "new": false
+     "id": "W7139960093",
+     "title": "Watanabe–Strogatz invariants in the Liouvillian dynamics of coupled phase oscillators via the Koopman framework",
+     "url": "https://doi.org/10.1098/rspa.2026.0195",
+     "date": "2026-10-07",
+     "source": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+     "summary": "Вывели инварианты Ватанабе-Строгаца в динамике связанных осцилляторов, используя оператор Купмана.",
+     "topic": "Динамика фазовых осцилляторов",
+     "new": true
     },
     {
-     "id": "W7214032253",
-     "title": "The Primordium Theory: An Axiomatic Construction of Relational Ontology",
-     "url": "https://doi.org/10.5281/zenodo.22900893",
-     "date": "2026-10-06",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Построена релятивистская онтология на основе теории множеств с использованием графов и топологии.",
-     "topic": "Реляционная онтология",
-     "new": false
+     "id": "W7140309221",
+     "title": "Balancing training load, rest and musculoskeletal injury risk: a mathematical modelling study in Thoroughbred racehorses",
+     "url": "https://doi.org/10.1098/rsos.260818",
+     "date": "2026-10-07",
+     "source": "Royal Society Open Science",
+     "summary": "Математическое моделирование показало, что низкообъемные тренировки с частыми перерывами снижают риск костных повреждений у скаковых лошадей.",
+     "topic": "Тренировка лошадей и травмы",
+     "new": true
     }
    ]
   },
@@ -230,54 +230,54 @@
    "query": "computer science and algorithms",
    "items": [
     {
-     "id": "W4384644315",
-     "title": "A Parameterized Algorithm for \\({K_r}\\)-Factors in Graphs of High Minimum Degree",
-     "url": "https://doi.org/10.1137/25m1777670",
-     "date": "2026-10-05",
+     "id": "W4417086596",
+     "title": "Collective adsorption of pheromones at the water–air interface",
+     "url": "https://doi.org/10.1098/rsif.2025.1229",
+     "date": "2026-10-07",
+     "source": "Journal of The Royal Society Interface",
+     "summary": "Смоделировали адсорбцию феромона бомбикола на границе вода-воздух и обнаружили фазовый переход в монослое.",
+     "topic": "Адсорбция феромонов",
+     "new": true
+    },
+    {
+     "id": "W4221144495",
+     "title": "Controlling Transaction Rate in Tangle Ledger: A Principal Agent Problem Approach",
+     "url": "https://doi.org/10.1145/3847655",
+     "date": "2026-10-06",
+     "source": "Distributed Ledger Technologies Research and Practice",
+     "summary": "Разработали механизм контроля транзакций в Tangle через теорию принципала-агента для справедливого распределения сложности.",
+     "topic": "Контроль транзакций Tangle",
+     "new": true
+    },
+    {
+     "id": "W4368755168",
+     "title": "Polynomial Definability in Constraint Languages with Few Subpowers",
+     "url": "https://doi.org/10.1137/26m1844335",
+     "date": "2026-10-06",
      "source": "SIAM Journal on Discrete Mathematics",
-     "summary": "Разработан быстрый алгоритм для поиска К-факторов в графах с высокой минимальной степенью, решающий классическую задачу Хайнала-Семереди.",
-     "topic": "Алгоритмы на графах",
-     "new": false
+     "summary": "Исследовали полиномиальную определяемость в языках ограничений с малым числом подстепеней.",
+     "topic": "Языки ограничений",
+     "new": true
     },
     {
-     "id": "W4387356294",
-     "title": "Fast Algorithm for Centralized Multi-Agent Maze Exploration",
-     "url": "https://doi.org/10.3390/math14193613",
-     "date": "2026-10-05",
-     "source": "Mathematics",
-     "summary": "Предложен алгоритм для навигации множества роботов в неизвестных лабиринтах с избеганием столкновений и полной очисткой области.",
-     "topic": "Робототехника и планирование пути",
-     "new": false
+     "id": "W4387356436",
+     "title": "Learning Quantum Hamiltonians at Any Temperature in Polynomial Time",
+     "url": "https://doi.org/10.1137/24m1690965",
+     "date": "2026-10-06",
+     "source": "SIAM Journal on Computing",
+     "summary": "Создали полиномиальный алгоритм обучения квантовых гамильтонианов при любой температуре по копиям состояния Гиббса.",
+     "topic": "Обучение квантовых гамильтонианов",
+     "new": true
     },
     {
-     "id": "W4389218075",
-     "title": "Learning to Simulate: Generative Metamodeling via Quantile Regression",
-     "url": "https://doi.org/10.1287/ijoc.2025.1378",
-     "date": "2026-10-05",
-     "source": "INFORMS journal on computing",
-     "summary": "Создан метод быстрого генеративного моделирования сложных систем на основе квантильной регрессии для принятия решений в реальном времени.",
-     "topic": "Метамоделирование и симуляция",
-     "new": false
-    },
-    {
-     "id": "W4393767514",
-     "title": "Asymptotically Optimal Scheduling of Multiple Parallelizable Job Classes",
-     "url": "https://doi.org/10.1287/stsy.2024.0084",
-     "date": "2026-10-05",
-     "source": "Stochastic Systems",
-     "summary": "Найдены оптимальные политики распределения серверов для параллелизуемых задач разных классов, минимизирующие среднее время отклика.",
-     "topic": "Теория очередей и планирование",
-     "new": false
-    },
-    {
-     "id": "W4405783425",
-     "title": "Exploring modular mobility: Industry advancements, research trends, and future directions on modular autonomous vehicles",
-     "url": "https://doi.org/10.1016/j.rtbm.2026.101901",
-     "date": "2026-10-05",
-     "source": "Research in Transportation Business & Management",
-     "summary": "Проведена комплексная оценка модульных автономных транспортных средств, их технологий, приложений и стратегии развития мобильности.",
-     "topic": "Автономные транспортные системы",
-     "new": false
+     "id": "W4391462822",
+     "title": "Construction of signed distance functions through an elliptic equation",
+     "url": "https://doi.org/10.2969/jmsj/95779577",
+     "date": "2026-10-06",
+     "source": "Journal of the Mathematical Society of Japan",
+     "summary": "Предложили новый метод построения функции расстояния через эллиптическое уравнение с оптимальными скоростями сходимости.",
+     "topic": "Функции расстояния",
+     "new": true
     }
    ]
   }
