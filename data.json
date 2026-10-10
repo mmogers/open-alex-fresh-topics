@@ -1,58 +1,58 @@
 {
- "updated": "2026-10-09T11:53+00:00",
+ "updated": "2026-10-10T11:10+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7220976467",
-     "title": "Penerapan Permainan Berbasis Media Hula Hoop untuk Meningkatkan Hasil Belajar Gerak Dasar Lokomotor Siswa Usia 7–8 Tahun",
-     "url": "https://doi.org/10.55606/lencana.v4i4.7118",
+     "id": "W7154358818",
+     "title": "EFFICIENCY EVALUATION OF INDIAN HIGHER EDUCATIONAL INSTITUTIONS USING GOVERNANCE AS ENVIRONMENTAL VARIABLE - A DEA APPROACH",
+     "url": "https://doi.org/10.5281/zenodo.19564019",
+     "date": "2026-10-10",
+     "source": "TPM Testing, psychometrics, methodology in applied psychology",
+     "summary": "Оценили эффективность 76 индийских вузов, учитывая тип управления, и нашли, что это улучшает объективность и выявляет скрытые возможности учреждений.",
+     "topic": "Эффективность высшего образования",
+     "new": true
+    },
+    {
+     "id": "W7217645017",
+     "title": "Health on the Way to School: A Comparison of High-Risk Behaviors Among Students Across Different Modes of School Transportation",
+     "url": "https://journals.kmanpub.com/index.php/jayps/article/view/5641",
+     "date": "2026-10-10",
+     "source": "Journal of Adolescent and Youth Psychological Studies (JAYPS)",
+     "summary": "Исследовали связь между способом транспорта школьников и их рискованным поведением, обнаружив различия по полу и виду транспорта.",
+     "topic": "Поведение школьников",
+     "new": true
+    },
+    {
+     "id": "W7221116046",
+     "title": "Blended Learning-Based Pancasila Education: Spaces for Practice and Reflection",
+     "url": "https://doi.org/10.59211/mjpjetl.v4i2.523",
+     "date": "2026-10-10",
+     "source": "Journal of Education and Teaching Learning",
+     "summary": "Анализировали опыт студентов в смешанном обучении Панчасила и выявили, что онлайн развивает рефлексию, а очные занятия практикуют ценности.",
+     "topic": "Гражданское образование онлайн",
+     "new": true
+    },
+    {
+     "id": "W4387635624",
+     "title": "There are different shades of green: heterogeneous environmental innovations and their effects on firm performance",
+     "url": "https://doi.org/10.1080/10438599.2026.2741340",
      "date": "2026-10-09",
-     "source": "Lencana Jurnal Inovasi Ilmu Pendidikan",
-     "summary": "Использование игр с хула-хупом повысило успеваемость второклассников в основных локомоторных движениях со 37–57% до 100%.",
-     "topic": "Физическое воспитание детей",
+     "source": "Economics of Innovation and New Technology",
+     "summary": "Изучили влияние трёх типов эко-инноваций на продажи, занятость и производительность, обнаружив разнородные эффекты.",
+     "topic": "Экологические инновации бизнеса",
      "new": true
     },
     {
-     "id": "W7221056684",
-     "title": "Early childhood science education in Bedouin communities",
-     "url": "https://doi.org/10.32674/9yz0gs63",
+     "id": "W7161971414",
+     "title": "Crowdsourced aurora observations during geomagnetic superstorms: the Aurorasaurus open science database",
+     "url": "https://doi.org/10.3389/fspas.2026.1883317",
      "date": "2026-10-09",
-     "source": "American Journal of STEM Education",
-     "summary": "Междисциплинарная программа обучения науке повысила уверенность учителей и способствовала культурно-ориентированному преподаванию в бедуинских детсадах.",
-     "topic": "Образование детей младшего возраста",
-     "new": true
-    },
-    {
-     "id": "W4392487716",
-     "title": "Re-evaluating the Impact of Hormone Replacement Therapy on Heart Disease Using Match-Adaptive Randomization Inference",
-     "url": "https://doi.org/10.1080/01621459.2026.2691321",
-     "date": "2026-10-08",
-     "source": "Journal of the American Statistical Association",
-     "summary": "Разработан новый метод анализа данных наблюдений, исправляющий ошибки в выводах о влиянии гормональной терапии на сердечные заболевания.",
-     "topic": "Методы причинно-следственного анализа",
-     "new": true
-    },
-    {
-     "id": "W4410199297",
-     "title": "D3MI: an efficient and powerful federated imputation method for bias reduction in the analysis of distributed incomplete data by accounting for within-site correlation and between-site heterogeneity",
-     "url": "https://doi.org/10.1186/s12911-026-03663-2",
-     "date": "2026-10-08",
-     "source": "BMC Medical Informatics and Decision Making",
-     "summary": "Предложен метод D3MI для заполнения пропусков в распределённых медицинских данных, учитывающий корреляции внутри и различия между клиниками.",
-     "topic": "Статистические методы анализа данных",
-     "new": true
-    },
-    {
-     "id": "W7134940660",
-     "title": "Vibrational strong coupling influences product selectivity in a model for post-transition-state bifurcation reactions",
-     "url": "https://doi.org/10.1063/5.0353664",
-     "date": "2026-10-08",
-     "source": "The Journal of Chemical Physics",
-     "summary": "Сильная связь вибраций с оптическим резонатором может менять направление химических реакций в два раза.",
-     "topic": "Квантовая химия и взаимодействие света с веществом",
+     "source": "Frontiers in Astronomy and Space Sciences",
+     "summary": "Подготовили научную базу краудсорсинговых наблюдений полярного сияния с 2024 года для открытого доступа исследователей.",
+     "topic": "Гражданская наука геомагнетизма",
      "new": true
     }
    ]
@@ -62,53 +62,53 @@
    "query": "earth planetary science",
    "items": [
     {
-     "id": "W4412845498",
-     "title": "Antarctic sea ice over the past 130 000 years – Part 2: A review of its role in the Earth system",
-     "url": "https://doi.org/10.5194/cp-22-1881-2026",
-     "date": "2026-10-08",
-     "source": "Climate of the past",
-     "summary": "Проанализирована роль морского льда Антарктики в системе Земли за последние 130 тысяч лет и его влияние на климат и океан.",
-     "topic": "Морской лед Антарктики",
-     "new": true
-    },
-    {
-     "id": "W7162645707",
-     "title": "Technical note: T c 1D – a 1D thermal and thermochronometer age prediction model",
-     "url": "https://doi.org/10.5194/gchron-8-627-2026",
-     "date": "2026-10-08",
-     "source": "Geochronology",
-     "summary": "Создано программное обеспечение Tc1D для анализа геологических процессов через моделирование возраста по термохронометрии.",
-     "topic": "Термохронометрическое моделирование",
-     "new": true
-    },
-    {
-     "id": "W7163713951",
-     "title": "Pysammos 1.0.0: a discrete-to-continuum transformation Python tool to analyse the rheology of granular materials",
-     "url": "https://doi.org/10.5194/gmd-19-9519-2026",
-     "date": "2026-10-08",
-     "source": "Geoscientific model development",
-     "summary": "Разработан инструмент Pysammos для преобразования дискретных данных о движении частиц в континуальные параметры потока гранулярных материалов.",
-     "topic": "Реология гранулярных потоков",
-     "new": true
-    },
-    {
-     "id": "W7168255548",
-     "title": "Isotopic composition of aerosol iron from anthropogenic sources: implications for source apportionment of aerosol iron",
-     "url": "https://doi.org/10.5194/acp-26-14073-2026",
-     "date": "2026-10-08",
+     "id": "W7122675343",
+     "title": "Light absorption properties and composition of water-soluble brown carbon in North China Plain: implication for an enhancing role of nitrogenous organic compounds",
+     "url": "https://doi.org/10.5194/acp-26-14229-2026",
+     "date": "2026-10-09",
      "source": "Atmospheric chemistry and physics",
-     "summary": "Определены изотопные соотношения железа в аэрозолях из различных источников для их различия и идентификации в атмосфере.",
-     "topic": "Изотопы железа в аэрозолях",
+     "summary": "Исследовали поглощение света коричневым углеродом в воздухе Северного Китая и нашли, что азотные органические соединения — главные его компоненты.",
+     "topic": "Коричневый углерод в атмосфере",
      "new": true
     },
     {
-     "id": "W7172424006",
-     "title": "The PSR J0435+3233 Triple System",
-     "url": "https://doi.org/10.3847/2041-8213/aeaa29",
-     "date": "2026-10-08",
-     "source": "The Astrophysical Journal Letters",
-     "summary": "Идентифицирован пульсар в редкой тройной звёздной системе с белым карликом и солнцеподобной звездой, определены массы компонентов.",
-     "topic": "Тройная система пульсаров",
+     "id": "W7134275752",
+     "title": "Searching for outbursts from symbiotic binaries in GOTO and ATLAS data",
+     "url": "https://doi.org/10.1051/0004-6361/202659731",
+     "date": "2026-10-09",
+     "source": "Astronomy and Astrophysics",
+     "summary": "Поискали вспышки активности в двойных звёздных системах и обнаружили новые случаи взрывов в символических двойных звёздах.",
+     "topic": "Вспышки символических двойных звёзд",
+     "new": true
+    },
+    {
+     "id": "W7148721614",
+     "title": "Irregularly and incompletely sampled random fields in the Earth sciences: Analysis and synthesis of parameterized covariance models",
+     "url": "https://doi.org/10.1093/gji/ggag425",
+     "date": "2026-10-09",
+     "source": "Geophysical Journal International",
+     "summary": "Разработали методы анализа неравномерно отобранных геофизических данных и показали, как расположение измерений влияет на точность оценок.",
+     "topic": "Анализ нерегулярных пространственных данных",
+     "new": true
+    },
+    {
+     "id": "W7160636761",
+     "title": "Forest and bioenergy expansion amplifies climate warming by accelerating regional cloud loss",
+     "url": "https://doi.org/10.5194/acp-26-14133-2026",
+     "date": "2026-10-09",
+     "source": "Atmospheric chemistry and physics",
+     "summary": "Показали, что расширение лесов и производства биотоплива ускоряет потерю облаков и усиливает региональное потепление климата.",
+     "topic": "Облака и изменение землепользования",
+     "new": true
+    },
+    {
+     "id": "W7162511547",
+     "title": "Estimating Twomey forcing sensitivity to aerosol plume spreading rates",
+     "url": "https://doi.org/10.5194/acp-26-14111-2026",
+     "date": "2026-10-09",
+     "source": "Atmospheric chemistry and physics",
+     "summary": "Изучили, как скорость распространения аэрозольных шлейфов влияет на отражение солнечного света облаками для осветления морских облаков.",
+     "topic": "Аэрозольное воздействие на облака",
      "new": true
     }
    ]
@@ -118,53 +118,53 @@
    "query": "sleep quality",
    "items": [
     {
-     "id": "W7220961538",
-     "title": "Matcha (Japanese ground green tea) and cognitive function",
-     "url": "https://doi.org/10.26599/jfb.2026.95035451",
+     "id": "W7220907912",
+     "title": "A scoping review of digital health technologies in glycogen storage diseases",
+     "url": "https://doi.org/10.1038/s41746-026-03308-8",
+     "date": "2026-10-09",
+     "source": "npj Digital Medicine",
+     "summary": "Обзор показал, что цифровые технологии в лечении редких болезней накопления гликогена сосредоточены на мониторинге глюкозы, но игнорируют психическое здоровье и поведение пациентов.",
+     "topic": "Цифровые технологии в медицине",
+     "new": true
+    },
+    {
+     "id": "W7220948602",
+     "title": "The Impact of Virtual Dental Clinic Color and Image Modifications on Anxiety Reduction in Undergraduate Dental Students",
+     "url": "https://doi.org/10.56261/jars.v23.281302",
+     "date": "2026-10-09",
+     "source": "Journal of Architectural/Planning Research and Studies (JARS)",
+     "summary": "Синий цвет стен и изображения гор в виртуальной стоматологической клинике значительно снижают тревожность у студентов-стоматологов.",
+     "topic": "Дизайн среды и тревога",
+     "new": true
+    },
+    {
+     "id": "W7220949420",
+     "title": "Features of renal dysfunction in varying degrees of COPD severity in permanent residents of low altitudes",
+     "url": "https://doi.org/10.24969/hvt.2026.690",
+     "date": "2026-10-09",
+     "source": "Heart Vessels and Transplantation",
+     "summary": "При тяжелой хронической обструктивной болезни легких функция почек ухудшается, появляется белок в моче, независимо от высоты проживания.",
+     "topic": "ХОБЛ и почечная функция",
+     "new": true
+    },
+    {
+     "id": "W7220950062",
+     "title": "Effects of egg white hydrolysate on facial swelling: a randomized, double-blind, placebo-controlled, crossover trial",
+     "url": "https://doi.org/10.26599/jfb.2026.95035458",
      "date": "2026-10-09",
      "source": "Journal of Food Bioactives",
-     "summary": "Изучили, как матча улучшает когнитивные функции через снижение стресса, улучшение сна и уменьшение окислительного стресса.",
-     "topic": "Матча и когнитивная функция",
+     "summary": "Гидролизат белка яйца уменьшает утреннюю отечность лица у здоровых людей лучше, чем плацебо.",
+     "topic": "Гидролизат белка и отечность",
      "new": true
     },
     {
-     "id": "W7220972120",
-     "title": "Circadian Rhythms, Sleep Patterns, and the Regulation of Cravings for Sweet and Refined-Carbohydrate Foods",
-     "url": "https://doi.org/10.66308/air.e2026087",
+     "id": "W7220954699",
+     "title": "Integrated child and adolescent psychiatry within a specialist child sexual abuse service in Ireland: a two-year retrospective cohort study",
+     "url": "https://doi.org/10.1017/ipm.2026.10228",
      "date": "2026-10-09",
-     "source": "American Impact Review",
-     "summary": "Проанализировали связь между циркадными ритмами, сном и тягой к сладким продуктам, найдя, что нарушение сна увеличивает желание есть вредную пищу.",
-     "topic": "Сон и тяга к сладкому",
-     "new": true
-    },
-    {
-     "id": "W7221020410",
-     "title": "Meeting lifestyle recommendations among cancer survivors – a cross-sectional descriptive analysis from the Swedish CArdioPulmonary BioImage study (SCAPIS)",
-     "url": "https://doi.org/10.1007/s11764-026-02140-z",
-     "date": "2026-10-09",
-     "source": "Journal of Cancer Survivorship",
-     "summary": "Изучили образ жизни онкологических больных и выявили, что женщины чаще соблюдают рекомендации по питанию и физической активности.",
-     "topic": "Образ жизни онкологических больных",
-     "new": true
-    },
-    {
-     "id": "W7220895945",
-     "title": "Effect of Evodia rutaecarpa plus oseltamivir in regulating body temperature and inflammatory cytokines in infants and young children with viral fever",
-     "url": "https://doi.org/10.36721/pjps/2026.40.15800.1",
-     "date": "2026-10-08",
-     "source": "Pakistan Journal of Pharmaceutical Sciences",
-     "summary": "Доказали, что комбинированное применение травы Evodia с осельтамивиром быстрее снижает лихорадку и воспаление у детей раннего возраста.",
-     "topic": "Лечение вирусной лихорадки у детей",
-     "new": true
-    },
-    {
-     "id": "W7220898344",
-     "title": "CANNABIDIOL AND MEDICAL CANNABIS IN BRAZIL: WHAT PHYSICIANS NEED TO KNOW",
-     "url": "https://doi.org/10.56238/revgeov17n10-031",
-     "date": "2026-10-08",
-     "source": "Revista de Geopolítica",
-     "summary": "Рассмотрели применение каннабидиола в Бразилии: эффективен при детской эпилепсии, обещает помощь при боли и тревоге.",
-     "topic": "Каннабидиол в медицине",
+     "source": "Irish Journal of Psychological Medicine",
+     "summary": "Интегрированная психиатрическая помощь в специализированной службе помощи жертвам насилия над детьми требуется для сложной группы пациентов с высоким риском.",
+     "topic": "Психиатрия детского насилия",
      "new": true
     }
    ]
@@ -174,53 +174,53 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W4400222191",
-     "title": "A Triangulation of the Flow Polytope of the Zigzag Graph",
-     "url": "https://doi.org/10.37236/13162",
-     "date": "2026-10-09",
-     "source": "The Electronic Journal of Combinatorics",
-     "summary": "Исследована триангуляция политопа потоков зигзаговидного графа и доказано, что её двойственный граф является подграфом сетки.",
-     "topic": "Комбинаторная геометрия",
+     "id": "W7124724604",
+     "title": "FRAMEWORK DEVELOPMENT OF BIOPHILIC MODEL FOR CORPORATE BUILDINGS",
+     "url": "https://doi.org/10.5281/zenodo.18297862",
+     "date": "2026-10-10",
+     "source": "TPM Testing, psychometrics, methodology in applied psychology",
+     "summary": "Разработана модель биофильного дизайна для корпоративных зданий, которая улучшает здоровье, благополучие и устойчивость окружающей среды.",
+     "topic": "Устойчивое проектирование зданий",
      "new": true
     },
     {
-     "id": "W4404389795",
-     "title": "State Transfer in Discrete-Time Quantum Walks via Projected Transition Matrices",
-     "url": "https://doi.org/10.37236/13764",
-     "date": "2026-10-09",
-     "source": "The Electronic Journal of Combinatorics",
-     "summary": "Введено понятие пиковой передачи состояния в квантовых блужданиях и дана спектральная характеризация для различных семейств графов.",
-     "topic": "Квантовые вычисления",
+     "id": "W7154358818",
+     "title": "EFFICIENCY EVALUATION OF INDIAN HIGHER EDUCATIONAL INSTITUTIONS USING GOVERNANCE AS ENVIRONMENTAL VARIABLE - A DEA APPROACH",
+     "url": "https://doi.org/10.5281/zenodo.19564019",
+     "date": "2026-10-10",
+     "source": "TPM Testing, psychometrics, methodology in applied psychology",
+     "summary": "Оценена эффективность 76 индийских вузов с учётом типа управления, выявлено, что частные учреждения показали наибольший рост эффективности.",
+     "topic": "Анализ эффективности вузов",
      "new": true
     },
     {
-     "id": "W4406093030",
-     "title": "Bounds on Treewidth via Excluding Disjoint Unions of Cycles",
-     "url": "https://doi.org/10.37236/13735",
-     "date": "2026-10-09",
-     "source": "The Electronic Journal of Combinatorics",
-     "summary": "Получена улучшенная оценка древесной ширины графов, исключающих дизъюнктные объединения циклов как миноры.",
-     "topic": "Теория графов",
+     "id": "W7212001082",
+     "title": "The Old Man Under the Moon: An \"Indigenous Buddha\" in Chinese Marriage Culture《月下老人: 中國婚姻文化中的「本土佛」》",
+     "url": "https://doi.org/10.17613/ddcqd-4x727",
+     "date": "2026-10-10",
+     "source": "Knowledge Commons (Lakehead University)",
+     "summary": "Изучена трансформация Юэ Лао из легендарного персонажа в почитаемого божества брака в китайской культуре и его современное переосмысление.",
+     "topic": "Китайская культура и философия",
      "new": true
     },
     {
-     "id": "W4414770895",
-     "title": "Cardiovascular function changes following lung resection: a computational model to compare afterload increase and contractility loss mechanisms",
-     "url": "https://doi.org/10.1007/s11517-026-03682-1",
-     "date": "2026-10-09",
-     "source": "Medical & Biological Engineering & Computing",
-     "summary": "Разработана математическая модель, объясняющая дисфункцию правого желудочка после удаления лёгкого через изменение посленагрузки и сократимости.",
-     "topic": "Сердечно-сосудистая физиология",
+     "id": "W7221120960",
+     "title": "Motivations, Challenges, Coping Mechanism, Benefits, and Insights of Research Engagement of Mathematics Educators",
+     "url": "https://doi.org/10.5281/zenodo.23271529",
+     "date": "2026-10-10",
+     "source": "International Journal of Education, Research, and Innovation Perspectives",
+     "summary": "Исследованы мотивации, вызовы и выгоды научной работы у учителей математики на Филиппинах, подчеркнута необходимость институциональной поддержки.",
+     "topic": "Исследовательская деятельность педагогов",
      "new": true
     },
     {
-     "id": "W4416050120",
-     "title": "A Generalization of RSK to d-Complete Posets",
-     "url": "https://doi.org/10.37236/15257",
-     "date": "2026-10-09",
-     "source": "The Electronic Journal of Combinatorics",
-     "summary": "Доказана формула крюков для d-полных частичных порядков, обобщив алгоритм Робинсона-Шенстеда-Кнута.",
-     "topic": "Комбинаторная математика",
+     "id": "W7221126242",
+     "title": "Enhancing Understanding of Data Presentation Concepts through the Realistic Mathematics Education Approach Assisted by Smart Data Board (PADAPI) Media",
+     "url": "https://doi.org/10.51574/kognitif.v6i4.5395",
+     "date": "2026-10-10",
+     "source": "Kognitif Jurnal Riset HOTS Pendidikan Matematika",
+     "summary": "Доказано, что реалистичный подход к обучению математике с интерактивной доской улучшает понимание представления данных у третьеклассников.",
+     "topic": "Методика преподавания математики",
      "new": true
     }
    ]
@@ -230,6 +230,36 @@
    "query": "computer science and algorithms",
    "items": [
     {
+     "id": "W7221180959",
+     "title": "Geometric Puzzles on a Circular Track: A Recreational Introduction to Quantization",
+     "url": "https://doi.org/10.67239/rmj.v01.n01.a002",
+     "date": "2026-10-10",
+     "source": "ScholarWorks @ UTRGV (The University of Texas Rio Grande Valley)",
+     "summary": "Исследовали оптимальное размещение точек на окружности через геометрические головоломки, демонстрируя элементарный подход к квантизации и оптимизации.",
+     "topic": "Геометрия и оптимизация",
+     "new": true
+    },
+    {
+     "id": "W4283655777",
+     "title": "How many labelers do you have? A closer look at gold-standard labels",
+     "url": "https://doi.org/10.1080/01621459.2026.2744433",
+     "date": "2026-10-09",
+     "source": "Journal of the American Statistical Association",
+     "summary": "Разработали теоретическую модель влияния агрегирования меток на качество обучения моделей машинного обучения и калибровку предсказаний.",
+     "topic": "Машинное обучение и разметка данных",
+     "new": true
+    },
+    {
+     "id": "W4403364536",
+     "title": "Eigenvectors of the De Bruijn graph Laplacian: A natural basis for the cut and cycle space",
+     "url": "https://doi.org/10.1016/j.jcta.2026.106272",
+     "date": "2026-10-09",
+     "source": "Journal of Combinatorial Theory Series A",
+     "summary": "Найдены собственные векторы лапласиана графа Де Брейна в закрытом виде и построена естественная базис для цикловых пространств.",
+     "topic": "Теория графов",
+     "new": true
+    },
+    {
      "id": "W4404389795",
      "title": "State Transfer in Discrete-Time Quantum Walks via Projected Transition Matrices",
      "url": "https://doi.org/10.37236/13764",
@@ -237,46 +267,16 @@
      "source": "The Electronic Journal of Combinatorics",
      "summary": "Исследовали передачу состояния в квантовых блужданиях и обобщили идеальную передачу на «пиковую передачу», дав спектральную характеристику.",
      "topic": "Квантовые блуждания и состояния",
-     "new": true
+     "new": false
     },
     {
-     "id": "W7155051214",
-     "title": "PdrQC: Pauli-space Discriminative Representations based Quantum Classifier",
-     "url": "https://doi.org/10.1088/1674-1056/aeb24a",
+     "id": "W4407126456",
+     "title": "Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing",
+     "url": "https://doi.org/10.1137/25m1764372",
      "date": "2026-10-09",
-     "source": "Chinese Physics B",
-     "summary": "Разработали квантовый классификатор на основе представлений в пространстве Паули, который эффективно балансирует точность и использование ресурсов.",
-     "topic": "Квантовая классификация",
-     "new": true
-    },
-    {
-     "id": "W7164530280",
-     "title": "Hamiltonian-Aware ADAPT Variational Quantum Eigensolver for Molecular Ground-State Simulation",
-     "url": "https://doi.org/10.1021/acs.jctc.6c01185",
-     "date": "2026-10-09",
-     "source": "Journal of Chemical Theory and Computation",
-     "summary": "Предложили улучшенный алгоритм VQE с учётом гамильтониана для более компактного описания молекулярных систем с меньшей энергетической ошибкой.",
-     "topic": "Квантовая химия и молекулы",
-     "new": true
-    },
-    {
-     "id": "W7219815705",
-     "title": "Secure Over-the-Air (OTA) Firmware Update Mechanism for Resource-Constrained Embedded Devices",
-     "url": "https://doi.org/10.31838/esa/03.02.03",
-     "date": "2026-10-09",
-     "source": "SCCTS Journal of Embedded Systems Design and Applications",
-     "summary": "Разработали лёгкий механизм безопасного обновления прошивки для маломощных устройств IoT через беспроводные сети.",
-     "topic": "Безопасность встроенных устройств",
-     "new": true
-    },
-    {
-     "id": "W4366303919",
-     "title": "Antcar: Simple Route Following Task with Ants-Inspired Vision and Neural Model",
-     "url": "https://doi.org/10.13140/rg.2.2.13759.27048",
-     "date": "2026-10-08",
-     "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
-     "summary": "Создали робота, использующего биологически вдохновлённую нейросетевую модель муравья для навигации по визуально изученным маршрутам.",
-     "topic": "Биологическая навигация робота",
+     "source": "SIAM Journal on Matrix Analysis and Applications",
+     "summary": "Предложен регуляризованный блочный алгоритм Качмажа без предварительной обработки данных с контролируемой сходимостью для линейных задач.",
+     "topic": "Матричные алгоритмы",
      "new": true
     }
    ]
