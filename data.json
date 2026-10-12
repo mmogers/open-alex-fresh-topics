@@ -1,58 +1,58 @@
 {
- "updated": "2026-10-11T11:23+00:00",
+ "updated": "2026-10-12T13:09+00:00",
  "topics": [
   {
    "name": "Образование",
    "query": "education learning outcomes",
    "items": [
     {
-     "id": "W7221321079",
-     "title": "From perception to practice: Faculty-led assessment redesign in response to generative AI in higher education",
-     "url": "https://doi.org/10.56879/ijbm.v5i4.119",
-     "date": "2026-10-11",
-     "source": "International Journal of Business and Management (IJBM)",
-     "summary": "Преподаватели переделали систему проверки знаний студентов из-за ChatGPT, добавив устные экзамены и проекты вместо тестов.",
-     "topic": "ИИ и система оценки знаний",
+     "id": "W7163004444",
+     "title": "EVALUASI KINERJA GURU DAN IMPLIKASINYA TERHADAP PRESTASI BELAJAR PESERTA DIDIK DI MTS AL AMIRIYYAH DARUSSALAM",
+     "url": "https://doi.org/10.30821/hijri.v14i2.28078",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Исследовали связь между компетенциями учителей и успеваемостью учащихся в исламской школе, используя качественный анализ.",
+     "topic": "Оценка работы учителей",
      "new": true
     },
     {
-     "id": "W7154358818",
-     "title": "EFFICIENCY EVALUATION OF INDIAN HIGHER EDUCATIONAL INSTITUTIONS USING GOVERNANCE AS ENVIRONMENTAL VARIABLE - A DEA APPROACH",
-     "url": "https://doi.org/10.5281/zenodo.19564019",
-     "date": "2026-10-10",
-     "source": "TPM Testing, psychometrics, methodology in applied psychology",
-     "summary": "Оценена эффективность 76 индийских вузов с учётом типа управления, выявлено, что частные учреждения показали наибольший рост эффективности.",
-     "topic": "Анализ эффективности вузов",
-     "new": false
-    },
-    {
-     "id": "W7217645017",
-     "title": "Health on the Way to School: A Comparison of High-Risk Behaviors Among Students Across Different Modes of School Transportation",
-     "url": "https://journals.kmanpub.com/index.php/jayps/article/view/5641",
-     "date": "2026-10-10",
-     "source": "Journal of Adolescent and Youth Psychological Studies (JAYPS)",
-     "summary": "Исследовали связь между способом транспорта школьников и их рискованным поведением, обнаружив различия по полу и виду транспорта.",
-     "topic": "Поведение школьников",
-     "new": false
-    },
-    {
-     "id": "W7220049620",
-     "title": "Outcomes-Based Independent Learning Paradigm (OBILP): Effects on Students' Engagement and Performance in Chemistry",
-     "url": "https://doi.org/10.13140/rg.2.2.13253.00480",
-     "date": "2026-10-10",
-     "source": "Asia Research Network Journal of Education",
-     "summary": "Новый метод обучения химии улучшил результаты студентов, хотя уровень их вовлечения остался высоким в обеих группах.",
-     "topic": "Методы обучения химии",
+     "id": "W7163026310",
+     "title": "PENGELOLAAN KOMPETENSI PROFESIONAL DALAM MENINGKATKAN MUTU PENDIDIKAN SD DI KECAMATAN RANTAU KABUPATEN ACEH TAMIANG",
+     "url": "https://doi.org/10.30821/hijri.v14i2.28003",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Изучили управление профессиональной компетенцией учителей начальных школ и её влияние на качество образования.",
+     "topic": "Развитие профессиональной компетенции",
      "new": true
     },
     {
-     "id": "W7221083642",
-     "title": "From Solvency to Dignity: Artificial Intelligence, Energy, and a New Social Pact",
-     "url": "https://doi.org/10.22158/sshsr.v7n1p75",
-     "date": "2026-10-10",
-     "source": "Social Science Humanities and Sustainability Research",
-     "summary": "Нужен новый общественный договор, где ИИ и возобновляемая энергия служат человеческому достоинству и социальной справедливости.",
-     "topic": "ИИ и социальная этика",
+     "id": "W7163028152",
+     "title": "INTEGRASI EPISTEMOLOGI ISLAM DALAM MANAJEMEN KURIKULUM: STUDI KARAKTERISTIK FILSAFAT ILMU DI PESANTREN RAUDHATUT THOLABAH SETAIL BANYUWANGI",
+     "url": "https://doi.org/10.30821/hijri.v14i2.28079",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Проанализировали интеграцию исламской философии в управление учебной программой традиционного исламского учебного заведения.",
+     "topic": "Исламское образование и философия",
+     "new": true
+    },
+    {
+     "id": "W7163040317",
+     "title": "PERAN LINGKUNGAN INTERNAL DAN EKSTERNAL SEKOLAH DALAM KEBERHASILAN IMPLEMENTASI KEBIJAKAN PENDIDIKAN",
+     "url": "https://doi.org/10.30821/hijri.v14i2.26918",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Выявили роль внутренних и внешних факторов школы в успешной реализации образовательной политики.",
+     "topic": "Реализация образовательной политики",
+     "new": true
+    },
+    {
+     "id": "W7163042996",
+     "title": "PENGEMBANGAN MODUL PEMBELAJARAN BAHASA ARAB BERBASIS HOTS (HIGHER ORDER THINKING SKILLS) DI FKIP UMSU",
+     "url": "https://doi.org/10.30821/hijri.v14i2.26899",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Разработали учебный модуль арабского языка на основе навыков высокого порядка мышления для студентов университета.",
+     "topic": "Обучение арабскому языку",
      "new": true
     }
    ]
@@ -62,6 +62,16 @@
    "query": "earth planetary science",
    "items": [
     {
+     "id": "W7155421345",
+     "title": "Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks",
+     "url": "https://doi.org/10.5194/gmd-19-9581-2026",
+     "date": "2026-10-12",
+     "source": "Geoscientific model development",
+     "summary": "Улучшили модель снега для Арктики, добавив физику теплопроводности, сублимации и уплотнения, что повысило точность расчётов.",
+     "topic": "Модель снега Арктики",
+     "new": true
+    },
+    {
      "id": "W7221306258",
      "title": "Beyond Earth: Planetary Geography and the Future Expansion of Human Civilization - Khánh Geography Research KGR",
      "url": "https://doi.org/10.5281/zenodo.23288861",
@@ -69,7 +79,7 @@
      "source": "Zenodo (CERN European Organization for Nuclear Research)",
      "summary": "Предложена планетарная география как новый раздел науки для изучения возможности проживания человека на других планетах и их исследования.",
      "topic": "География других планет",
-     "new": true
+     "new": false
     },
     {
      "id": "W7202066826",
@@ -79,7 +89,7 @@
      "source": "Journal of Global History",
      "summary": "Исследована кампания ЮНЕСКО по внедрению права на общение в международное право с 1969 по 1987 год и её политические препятствия.",
      "topic": "Право на коммуникацию",
-     "new": true
+     "new": false
     },
     {
      "id": "W7221098965",
@@ -89,7 +99,7 @@
      "source": "Energy Research & Social Science",
      "summary": "Проанализирована раздутая реклама природного водорода в научных документах и показано, как институты управляют ожиданиями через нормативные процедуры.",
      "topic": "Водород и энергетическая политика",
-     "new": true
+     "new": false
     },
     {
      "id": "W7221129221",
@@ -99,17 +109,7 @@
      "source": "Desarrollo Sostenible e Innovación Global",
      "summary": "Разработана экологическая дoxология как межрелигиозный подход к кризису окружающей среды на основе древних традиций и принципов долгосрочной ответственности.",
      "topic": "Религия и экология",
-     "new": true
-    },
-    {
-     "id": "W7221160683",
-     "title": "Dietary transformation and health vulnerability following lake poopó degradation: a cross sectional study in the indigenous Uru Vilañeque Community",
-     "url": "https://doi.org/10.63688/desarrollo.v3.i2.46",
-     "date": "2026-10-10",
-     "source": "Desarrollo Sostenible e Innovación Global",
-     "summary": "Исследовано, как деградация озера Поопо повлияла на здоровье коренного народа через изменение питания и занятости в Боливии.",
-     "topic": "Здоровье коренных народов",
-     "new": true
+     "new": false
     }
    ]
   },
@@ -118,6 +118,36 @@
    "query": "sleep quality",
    "items": [
     {
+     "id": "W7221307700",
+     "title": "Beyond the food tray: linking school nutrition and feeding programmes to student health and academic outcomes through health literacy and mental health",
+     "url": "https://doi.org/10.1057/s41599-026-08705-8",
+     "date": "2026-10-11",
+     "source": "Humanities and Social Sciences Communications",
+     "summary": "Исследование показало, что школьные программы питания улучшают успеваемость и здоровье учащихся через развитие грамотности и психического здоровья.",
+     "topic": "Школьное питание и здоровье",
+     "new": true
+    },
+    {
+     "id": "W7221339137",
+     "title": "Breastfeeding self-efficacy in mothers and its association with maternal functioning, maternal knowledge, and attitudes toward breastfeeding: a cross-sectional study",
+     "url": "https://doi.org/10.1038/s41598-026-75156-1",
+     "date": "2026-10-11",
+     "source": "Scientific Reports",
+     "summary": "Знания о грудном вскармливании и предыдущий опыт матерей наиболее сильно влияют на уверенность в успешном кормлении.",
+     "topic": "Грудное вскармливание матерей",
+     "new": true
+    },
+    {
+     "id": "W7221307277",
+     "title": "Testing peripheral and central therapies for provoked vestibulodynia: results from the UPDATe trial",
+     "url": "https://doi.org/10.1080/07853890.2026.2732293",
+     "date": "2026-10-10",
+     "source": "Annals of Medicine",
+     "summary": "Испытание показало, что местные и центральные лекарства не превосходят плацебо в лечении боли при вестибулодинии.",
+     "topic": "Лечение вестибулодинии",
+     "new": true
+    },
+    {
      "id": "W7221307654",
      "title": "Convolutional Neural Networks for Sleep Apnea Detection from Electrocardiographic Signals",
      "url": "https://doi.org/10.3390/electronics15204615",
@@ -125,46 +155,16 @@
      "source": "Electronics",
      "summary": "Разработана нейросетевая система для автоматического обнаружения апноэ сна по сигналам ЭКГ с точностью 87-89% и площадью под кривой 0.95.",
      "topic": "Диагностика апноэ сна",
-     "new": true
+     "new": false
     },
     {
-     "id": "W7221310758",
-     "title": "High-intensity transcranial alternating current stimulation improves sleep quality in patients with mild Alzheimer's disease: Findings from the TRANSFORM-AD study",
-     "url": "https://doi.org/10.1177/13872877261492561",
+     "id": "W7221309054",
+     "title": "White matter controllability at birth predicts social-emotional and language outcomes in toddlerhood",
+     "url": "https://doi.org/10.1038/s41398-026-04504-6",
      "date": "2026-10-10",
-     "source": "Journal of Alzheimer s Disease",
-     "summary": "Стимуляция переменным током улучшила качество сна у пациентов с лёгкой болезнью Альцгеймера, но не влияла на тревожность и депрессию.",
-     "topic": "Стимуляция при Альцгеймере",
-     "new": true
-    },
-    {
-     "id": "W7221316049",
-     "title": "PandemIQ system in Poland: The hybrid approach to early detection of pandemic waves using interpretable AI models and GIS-based operational dashboards (ArcGIS)",
-     "url": "https://doi.org/10.15576/gll/236148",
-     "date": "2026-10-10",
-     "source": "Geomatics Landmanagement and Landscape",
-     "summary": "Создана гибридная ИИ-система для раннего предупреждения волн пандемии на 7-14 дней раньше традиционных методов.",
-     "topic": "Прогнозирование пандемий",
-     "new": true
-    },
-    {
-     "id": "W7221316066",
-     "title": "Psychedelics and Sleep: Preclinical and Human Studies—A Systematic Review",
-     "url": "https://doi.org/10.65801/pcp.3606",
-     "date": "2026-10-10",
-     "source": "Psychiatry and Clinical Psychopharmacology",
-     "summary": "Психоделики вызывают острые изменения архитектуры сна, особенно снижение REM-фазы, но связь с лечебным эффектом не ясна.",
-     "topic": "Психоделики и сон",
-     "new": true
-    },
-    {
-     "id": "W7221316771",
-     "title": "CLINICAL EVALUATION OF ASHWAGANDHA CHURNA WITH SARPI AND SHARKARA IN NIDRAHRASA: AN OPEN-LABELLED STUDY ON AYURVEDIC SLEEP RESTORATION",
-     "url": "https://doi.org/10.5281/zenodo.23276003",
-     "date": "2026-10-10",
-     "source": "World Journal of Pharmacy and Pharmaceutical Sciences",
-     "summary": "Ашвагандха с топлёным маслом значительно улучшила качество сна и симптомы усталости у 67% пациентов за 21 день.",
-     "topic": "Аюрведические средства сна",
+     "source": "Translational Psychiatry",
+     "summary": "Структура белого вещества мозга при рождении предсказывает языковое и социально-эмоциональное развитие ребёнка в возрасте 18 месяцев.",
+     "topic": "Развитие мозга и нейровизуализация",
      "new": true
     }
    ]
@@ -174,53 +174,53 @@
    "query": "mathematics",
    "items": [
     {
-     "id": "W4415036455",
-     "title": "A longitudinal Bayesian framework for estimating causal dose-response relationships",
-     "url": "https://doi.org/10.1515/ijb-2026-0010",
-     "date": "2026-10-11",
-     "source": "The International Journal of Biostatistics",
-     "summary": "Разработан байесовский метод для оценки причинно-следственной связи между непрерывным воздействием и исходами с учётом временных факторов.",
-     "topic": "Причинно-следственный анализ",
+     "id": "W4416270817",
+     "title": "EVERY REARRANGEMENT-INVARIANT QUASI-BANACH FUNCTION SPACE IS AN INTERPOLATION SPACE BETWEEN TWO LORENTZ SPACES",
+     "url": "https://doi.org/10.1007/s10958-026-08652-4",
+     "date": "2026-10-12",
+     "source": "Journal of Mathematical Sciences",
+     "summary": "Доказано, что любое перестановочно-инвариантное квази-банахово функциональное пространство представимо через интерполяцию между двумя пространствами Лоренца.",
+     "topic": "Теория банаховых пространств",
      "new": true
     },
     {
-     "id": "W7221316536",
-     "title": "An ordinal characterization of universal fictitious-play convergence (C73-11)",
-     "url": "https://doi.org/10.5281/zenodo.23286413",
-     "date": "2026-10-11",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Дана математическая характеристика конвергенции вымышленной игры для конечных игр в нормальной форме.",
-     "topic": "Теория игр",
+     "id": "W7162998033",
+     "title": "STREATEGI PEMBELAJARAAN INOVATIF UNTUK MENINGKATKAN LITERASI DAN NUMERASI PADA MADRASAH IBTIDAIYAH",
+     "url": "https://doi.org/10.30821/hijri.v14i2.26426",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Исследованы инновационные методы обучения для повышения грамотности и навыков счёта в исламских начальных школах Индонезии.",
+     "topic": "Образование и методика обучения",
      "new": true
     },
     {
-     "id": "W7221317527",
-     "title": "Local convex certificates for one-sided-information game values (C73-8)",
-     "url": "https://doi.org/10.5281/zenodo.23286392",
-     "date": "2026-10-11",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Найдены условия существования цены игры с неполной информацией через локальные выпуклые сертификаты.",
-     "topic": "Теория игр и стохастика",
+     "id": "W7163019935",
+     "title": "IMPLEMENTASI PENDIDIKAN AKHLAQ DI SMP MUHAMMADIYAH 9 SURABAYA SEBAGAI SEKOLAH AKHLAQ",
+     "url": "https://doi.org/10.30821/hijri.v14i2.26423",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Изучена реализация нравственного воспитания в исламской школе Surabaya через программы формирования морального характера учащихся.",
+     "topic": "Нравственное воспитание в образовании",
      "new": true
     },
     {
-     "id": "W7221321322",
-     "title": "Single-step decreases in the three-row Chomp diagonal sequence: A uniform bound below one half",
-     "url": "https://doi.org/10.5281/zenodo.23289219",
-     "date": "2026-10-11",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Доказаны верхние границы убывания в трёхрядной игре Chomp, улучшив оценку ниже одной второй.",
-     "topic": "Комбинаторная математика",
+     "id": "W7163028152",
+     "title": "INTEGRASI EPISTEMOLOGI ISLAM DALAM MANAJEMEN KURIKULUM: STUDI KARAKTERISTIK FILSAFAT ILMU DI PESANTREN RAUDHATUT THOLABAH SETAIL BANYUWANGI",
+     "url": "https://doi.org/10.30821/hijri.v14i2.28079",
+     "date": "2026-10-12",
+     "source": "Hijri",
+     "summary": "Проанализирована интеграция исламской эпистемологии в управление учебным планом исламского учебного заведения с практической экономической деятельностью студентов.",
+     "topic": "Исламское образование и учебные программы",
      "new": true
     },
     {
-     "id": "W7221323200",
-     "title": "Proactive Early Warning for Credit Risk: A Concept Note on Reading the Recovery Speed of a Borrower's Cross-Lender Refusal Pattern.",
-     "url": "https://doi.org/10.5281/zenodo.23288729",
-     "date": "2026-10-11",
-     "source": "Zenodo (CERN European Organization for Nuclear Research)",
-     "summary": "Предложен метод раннего предупреждения кредитного риска через анализ кластеризации отказов заёмщика.",
-     "topic": "Прогноз кредитного риска",
+     "id": "W7214087454",
+     "title": "Semileptonic Decays of Heavy Vector Mesons in Hard-Wall AdS/QCD with $N_{f}=5$",
+     "url": "https://doi.org/10.1088/1674-1137/aeb2ce",
+     "date": "2026-10-12",
+     "source": "Chinese Physics C",
+     "summary": "Вычислены переходные формфакторы и коэффициенты ветвления семилептонных распадов тяжёлых векторных мезонов в рамках модели AdS/QCD.",
+     "topic": "Физика элементарных частиц",
      "new": true
     }
    ]
@@ -230,6 +230,36 @@
    "query": "computer science and algorithms",
    "items": [
     {
+     "id": "W7162432338",
+     "title": "Non-monotonic response of net dust deposition kinetics to low wind speeds",
+     "url": "https://doi.org/10.5194/acp-26-14245-2026",
+     "date": "2026-10-12",
+     "source": "Atmospheric chemistry and physics",
+     "summary": "Измерили осаждение пыли при слабом ветре в аэротрубе и обнаружили, что максимум происходит при скорости 2–3 м/с, а не монотонно растёт.",
+     "topic": "Осаждение минеральной пыли",
+     "new": true
+    },
+    {
+     "id": "W4407012986",
+     "title": "A Spectral Clustering-Type Algorithm for the Consistent Estimation of the Hurst Distribution in Moderately High Dimensions",
+     "url": "https://doi.org/10.1007/s13171-026-00462-9",
+     "date": "2026-10-11",
+     "source": "Sankhya A",
+     "summary": "Разработали алгоритм спектральной кластеризации для определения показателей масштабной инвариантности в высокомерных фрактальных системах.",
+     "topic": "Фрактальные системы и кластеризация",
+     "new": true
+    },
+    {
+     "id": "W7116105280",
+     "title": "Bounty Hunter: Autonomous, Comprehensive Emulation of Multi-Faceted Adversaries",
+     "url": "https://doi.org/10.1145/3846200",
+     "date": "2026-10-11",
+     "source": "Digital Threats Research and Practice",
+     "summary": "Создали автоматизированный инструмент Bounty Hunter для полноценной эмуляции кибератак без участия человека при тестировании безопасности сетей.",
+     "topic": "Автоматизация тестирования безопасности",
+     "new": true
+    },
+    {
      "id": "W7121069504",
      "title": "TELEREHABILITATION: OPTIMIZING PATIENT OUTCOMES AND ACCESSIBILITY IN POST-STROKE RECOVERY",
      "url": "https://doi.org/10.5281/zenodo.18206166",
@@ -237,46 +267,16 @@
      "source": "TPM Testing, psychometrics, methodology in applied psychology",
      "summary": "Исследовали телереабилитацию после инсульта и нашли, что она дает результаты не хуже, чем очная терапия, экономя деньги и улучшая доступность.",
      "topic": "Телереабилитация после инсульта",
-     "new": true
+     "new": false
     },
     {
-     "id": "W4392425939",
-     "title": "Constructive S4 modal logics with the finite birelational frame property",
-     "url": "https://doi.org/10.1145/3857907",
-     "date": "2026-10-10",
-     "source": "Journal of the ACM",
-     "summary": "Доказали, что интуиционистские модальные логики CS4, GS4 и S4I имеют свойство конечных фреймов и разрешимы.",
-     "topic": "Модальные логики",
-     "new": true
-    },
-    {
-     "id": "W7172006014",
-     "title": "Comparison of a Parametric Physics-Informed Neural Network and a Tensorial Reduced-Order Model for the Shallow-Water Dam-Break Problem",
-     "url": "https://doi.org/10.3390/fluids11100251",
-     "date": "2026-10-10",
-     "source": "Fluids",
-     "summary": "Сравнили две модели сокращения размерности для задачи прорыва плотины и показали важность шоковых поправок.",
-     "topic": "Редукция моделей машинного обучения",
-     "new": true
-    },
-    {
-     "id": "W7203894486",
-     "title": "Distinct Modes of Quantum Information Transfer in Power–Law Long-Range Spin Networks",
-     "url": "https://doi.org/10.3390/e28101101",
-     "date": "2026-10-10",
-     "source": "Entropy",
-     "summary": "Выявили два режима передачи квантовой информации в спиновых системах: баллистический и спектрально локализованный.",
-     "topic": "Квантовая информация в спинах",
-     "new": true
-    },
-    {
-     "id": "W7221121075",
-     "title": "From Recovery To Sustainability: The Mediating Role of Resilience In Post-Disaster Msmes",
-     "url": "https://doi.org/10.51601/ijersc.v7i5.1093",
-     "date": "2026-10-10",
-     "source": "International Journal of Educational Research & Social Sciences",
-     "summary": "Показали, что устойчивость малых предприятий после стихийных бедствий зависит от адаптивности, управления рисками и цифровизации.",
-     "topic": "Устойчивость малых предприятий",
+     "id": "W7221309337",
+     "title": "Trading privacy for personalisation: Ethical trust and high school students’ intention to use AI in education",
+     "url": "https://doi.org/10.56879/ijbm.v5i4.164",
+     "date": "2026-10-11",
+     "source": "International Journal of Business and Management (IJBM)",
+     "summary": "Выявили, что школьники согласны использовать ИИ в образовании, если доверяют его ответственности с данными, несмотря на опасения о конфиденциальности.",
+     "topic": "Доверие к ИИ в образовании",
      "new": true
     }
    ]
